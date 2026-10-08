@@ -7,7 +7,7 @@ slug: "/water-softener-replacement/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Replacement"
-openingHtml: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened water returns to every tap. Lubbock Elite Water Softener replaces whole systems, resin beds and control valves, and tells you honestly when a repair is the cheaper answer. <a href=\"#estimate\">Request a free estimate</a> and a technician will inspect your current unit and your water."
+openingHtml: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened water returns to every tap. <a href=\"/\">Lubbock Elite Water Softener</a> replaces whole systems, resin beds and control valves, and tells you honestly when a repair is the cheaper answer. <a href=\"#estimate\">Request a free estimate</a> and a technician will inspect your current unit and your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}]
@@ -79,6 +79,9 @@ A newer control head regenerates by actual water use instead of a fixed timer, w
 Repair is worth it when one part has failed on an otherwise sound unit. Past roughly 10 to 15 years, or with a leaking tank, replacement usually costs less over time.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).
+Request a free water softener replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).

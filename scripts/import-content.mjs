@@ -28,7 +28,17 @@ const MARKER_RE = /\[(?:NEEDS DATA|VERIFY)[^\]]*\]/g;
 const GUIDE_HUB = "/water-softener-guides/";
 const GEO_HUB = "/service-areas/";
 
+// Brand and place names come from site.config.ts (single source of truth).
+const cfgSrc = fs.readFileSync(path.join(root, "src", "site.config.ts"), "utf8");
+const cfgVal = (key) => (cfgSrc.match(new RegExp(`^\\s{2}${key}:\\s*"([^"]+)"`, "m")) || [])[1];
+const BRAND = cfgVal("businessName");
+const CITY = cfgVal("city");
+const STATE = cfgVal("stateAbbr");
+const COUNTY = cfgVal("county");
+if (!BRAND || !CITY || !STATE || !COUNTY) throw new Error("site.config.ts: brand/city/state/county not found");
+
 const map = JSON.parse(fs.readFileSync(path.join(SOURCE, "topical-map.json"), "utf8"));
+const guideParent = new Map(map.guides.articles.map((g) => [g.slug, g.parent_service]));
 const parentBySlug = new Map();
 const typeBySlug = new Map();
 parentBySlug.set(GUIDE_HUB, "/");
@@ -62,6 +72,43 @@ function draftDescription(openingMd) {
   if (text.length <= 155) return text;
   const cut = text.slice(0, 152);
   return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:]$/, "") + "...";
+}
+
+/**
+ * Homepage backlinks, modelled on the Henderson site: every inner page carries
+ * exactly two links to "/" inside its content.
+ *   1. Opening paragraph: the exact brand name as the anchor (hub, service and
+ *      hub-style pages). Guides and town pages keep their keyword anchor
+ *      ("water softener Lubbock TX") for variety.
+ *   2. A closing "brand backlink" paragraph before the final call to action,
+ *      anchored on brand + state, followed by a sentence saying what the page
+ *      offers.
+ * Any other homepage links in the body become plain text so the pair stays
+ * natural (header logo, "Home" nav and breadcrumbs also link home).
+ */
+const lc = (s) => s.toLowerCase().replace(/&/g, "and").replace(/\buv\b/g, "UV");
+function backlinkPhrase(slug, type, h1) {
+  if (type === "geo") return h1.replace(/^Water Softener Installation & Service in /, "water softener installation and service in ");
+  if (type === "guide") {
+    const parent = guideParent.get(slug) || "/water-softener-installation/";
+    return parent.replace(/^\/|\/$/g, "").replace(/-/g, " ").replace("salt free", "salt-free");
+  }
+  if (type === "geo-hub" || type === "guide-hub") return "water softener installation, replacement, repair and water testing";
+  return lc(crumbOf(h1));
+}
+function applyHomeBacklinks({ slug, type, h1, openingMd, body }) {
+  let opening = openingMd;
+  const openingHasHomeLink = /\[[^\]]+\]\(\/\)/.test(opening);
+  if (!openingHasHomeLink && type !== "geo" && type !== "guide") {
+    opening = opening.replace(BRAND, `[${BRAND}](/)`); // first plain mention becomes the anchor
+  }
+  let text = body.replace(/\[([^\]]+)\]\(\/\)/g, "$1"); // demote stray homepage links
+  const phrase = backlinkPhrase(slug, type, h1);
+  const tail = type === "geo" ? `and serves homes and businesses across ${COUNTY}.` : `for homes and businesses across ${CITY} and ${COUNTY}.`;
+  const paragraph = `[${BRAND} ${STATE}](/) provides ${phrase} ${tail}`;
+  const cta = text.lastIndexOf("\n## Get Your Free Estimate");
+  text = cta === -1 ? `${text}\n\n${paragraph}` : `${text.slice(0, cta)}\n\n${paragraph}\n${text.slice(cta)}`;
+  return { openingMd: opening, body: text };
 }
 
 const slugToFile = (slug) => (slug === "/" ? "home" : slug.replace(/^\/|\/$/g, "").replace(/\//g, "--"));
@@ -115,7 +162,7 @@ for (const file of files) {
 
   // opening paragraph = first block of text after the H1
   const openEnd = body.indexOf("\n\n");
-  const openingMd = (openEnd === -1 ? body : body.slice(0, openEnd)).trim();
+  let openingMd = (openEnd === -1 ? body : body.slice(0, openEnd)).trim();
   body = (openEnd === -1 ? "" : body.slice(openEnd)).trim();
 
   const isHome = slug === "/";
@@ -132,6 +179,7 @@ for (const file of files) {
     }
   } else {
     body = body.replace(/\(\/#estimate\)/g, "(#estimate)");
+    ({ openingMd, body } = applyHomeBacklinks({ slug, type: typeBySlug.get(slug) || "page", h1, openingMd, body }));
   }
 
   const description =

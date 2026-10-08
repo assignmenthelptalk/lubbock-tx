@@ -7,7 +7,7 @@ slug: "/water-conditioner-installation/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Conditioner Installation"
-openingHtml: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures. Lubbock Elite Water Softener installs salt-free conditioners, potassium chloride softeners and scale inhibitor systems, and recommends the one that fits your goal. <a href=\"#estimate\">Request a free estimate</a> and a technician will review your water and your plumbing."
+openingHtml: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures. <a href=\"/\">Lubbock Elite Water Softener</a> installs salt-free conditioners, potassium chloride softeners and scale inhibitor systems, and recommends the one that fits your goal. <a href=\"#estimate\">Request a free estimate</a> and a technician will review your water and your plumbing."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}]
@@ -71,6 +71,9 @@ They protect pipes and heaters, but they do not make water feel soft. They suit 
 <mark class="data-gap">[NEEDS DATA: local price range]</mark> The estimate is free and itemized.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water conditioner installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water conditioner installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water conditioner installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

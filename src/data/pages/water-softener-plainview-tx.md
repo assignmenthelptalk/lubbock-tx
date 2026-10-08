@@ -42,6 +42,9 @@ We serve Lubbock, Wolfforth, Shallowater, Slaton, Idalou, Levelland, Floydada, T
 > **Not a good fit if...** your home runs on a private well with iron or bacteria. We test and treat those first. <mark class="data-gap">[NEEDS DATA: real Plainview customer reviews and travel or scheduling terms for Plainview]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation and service in Plainview, TX and serves homes and businesses across Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Plainview, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water softener estimate in Plainview, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

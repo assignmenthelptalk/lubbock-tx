@@ -19,6 +19,9 @@ function walk(dir) {
   });
 }
 
+const cfgSrc = fs.readFileSync(path.join(root, "src", "site.config.ts"), "utf8");
+const BRAND = (cfgSrc.match(/^\s{2}businessName:\s*"([^"]+)"/m) || [])[1];
+
 const htmlFiles = walk(dist).filter((f) => f.endsWith(".html"));
 const routeOf = (file) => {
   const rel = path.relative(dist, file).replace(/\\/g, "/");
@@ -59,6 +62,15 @@ for (const { route, html } of pages) {
     if (!hrefs(html).some((h) => h === "/" || h === "/#estimate")) errors.push(`${route}: no link back to the homepage`);
   }
 
+  // Content links to "/" (breadcrumbs excluded): 1 or 2 per inner content page, at
+  // least one anchored on the brand name (Henderson-style backlink pair).
+  if (!["/", "/thank-you/", "/about/", "/contact/"].includes(route)) {
+    const main = section(html, "main").replace(/<nav class="breadcrumbs"[\s\S]*?<\/nav>/, "");
+    const anchors = [...main.matchAll(/<a\b[^>]*\bhref="\/"[^>]*>([\s\S]*?)<\/a>/g)].map((m) => m[1].replace(/<[^>]+>/g, "").trim());
+    if (anchors.length < 1 || anchors.length > 2) errors.push(`${route}: ${anchors.length} homepage links in content (expected 1-2): ${JSON.stringify(anchors)}`);
+    if (!anchors.some((a) => a.includes(BRAND))) errors.push(`${route}: no homepage link anchored on "${BRAND}"`);
+  }
+
   const gaps = (html.match(/class="data-gap"/g) || []).length;
   if (gaps) notes.push(`${route}: ${gaps} open marker(s)`);
 }
@@ -86,4 +98,4 @@ if (errors.length) {
   errors.forEach((e) => console.log(" - " + e));
   process.exit(1);
 }
-console.log("\nPASSED: one H1 per page, no broken links, no orphans, homepage body has no downward links.");
+console.log("\nPASSED: one H1 per page, no broken links, no orphans, homepage body has no downward links, 1-2 brand-anchored homepage links per inner page.");

@@ -43,6 +43,13 @@ next import overwrites them.
 - Copyright year is fixed at 2025 (owner instruction).
 - Services nav is generated from the topical map; the guide hub and
   service-areas hub are footer-only.
+- Homepage backlinks follow the Henderson pattern. Every inner page has exactly
+  two links to `/` in its content (breadcrumbs, logo and nav also link home):
+  the exact brand name in the opening paragraph (guides and town pages use the
+  keyword anchor "water softener Lubbock TX" instead, for variety) and a closing
+  brand-backlink paragraph anchored on brand + state. The importer applies this
+  (`applyHomeBacklinks` in `scripts/import-content.mjs`) and `npm run verify`
+  enforces it. The source copy in Local-SEO-Toolkit is left as written.
 - Unresolved facts render as yellow `[NEEDS DATA]` / `[VERIFY]` highlights on
   every page. Do not launch while any remain.
 - Images: pages reference WebP placeholders in their frontmatter (`images`),

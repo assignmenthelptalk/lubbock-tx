@@ -7,7 +7,7 @@ slug: "/water-softener-maintenance/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Maintenance & Service"
-openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps softening at full capacity. Lubbock Elite Water Softener services all major softener brands and schedules visits around your household. <a href=\"#estimate\">Request a free estimate</a> and we will tell you what your system needs."
+openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps softening at full capacity. <a href=\"/\">Lubbock Elite Water Softener</a> services all major softener brands and schedules visits around your household. <a href=\"#estimate\">Request a free estimate</a> and we will tell you what your system needs."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}]
@@ -61,6 +61,9 @@ Salt alone does not soften water. The unit must complete a regeneration cycle, a
 Yes. We service most major brands. <mark class="data-gap">[NEEDS DATA: confirm brands]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener maintenance and service for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener service estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water softener service estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

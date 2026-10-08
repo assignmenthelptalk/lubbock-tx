@@ -40,6 +40,9 @@ We serve all of Lubbock, including the neighborhoods around Texas Tech and downt
 > **Not a good fit if...** your building's owner or HOA controls the plumbing and has not approved a softener, or the unit has no room for one. We check space and approvals first. <mark class="data-gap">[NEEDS DATA: real Overton customer reviews]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation and service in Overton, TX and serves homes and businesses across Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Overton. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water softener estimate in Overton. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

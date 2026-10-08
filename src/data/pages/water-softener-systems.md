@@ -7,7 +7,7 @@ slug: "/water-softener-systems/"
 pageType: "hub"
 parentSlug: "/"
 crumb: "Water Softener Systems"
-openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. Lubbock Elite Water Softener installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or <a href=\"#estimate\">request a free estimate</a> and a technician will recommend one."
+openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. <a href=\"/\">Lubbock Elite Water Softener</a> installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or <a href=\"#estimate\">request a free estimate</a> and a technician will recommend one."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}]
@@ -18,7 +18,7 @@ markerCount: 1
 
 Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
 
-A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see [Lubbock Elite Water Softener](/).
+A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Elite Water Softener.
 
 ### Water Softener Installation
 
@@ -70,6 +70,9 @@ Often yes. Well water can carry iron, sulfur or sediment that need filtration be
 Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener systems for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Not sure which system fits? Request a free estimate and we will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to the [Lubbock water softener company](/) homepage.
+Not sure which system fits? Request a free estimate and we will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to the Lubbock water softener company homepage.

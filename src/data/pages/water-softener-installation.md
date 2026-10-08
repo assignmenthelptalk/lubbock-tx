@@ -7,7 +7,7 @@ slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Installation"
-openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. Lubbock Elite Water Softener sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. <a href=\"#estimate\">Request a free estimate</a> and a technician will recommend a system for your home."
+openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. <a href=\"#estimate\">Request a free estimate</a> and a technician will recommend a system for your home."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram"}]
@@ -18,7 +18,7 @@ markerCount: 6
 
 A whole-house water softener is a single unit installed on the main water line that treats every cold and hot water fixture in the home. The technician sizes the unit from your household size, daily water use and a hardness reading, then sets the control head to regenerate on a schedule that matches your usage. A correctly sized unit softens water without running out between regenerations or wasting salt on cycles it does not need.
 
-The installation includes the softener tank, brine tank, control valve, drain connection and a test at every tap before we leave. For homes served by the city, the unit sits after the main shut-off. For homes on a private well, it sits after the pressure tank, and a water test first confirms whether iron or sulfur need separate treatment. Lubbock's supply is a blend of Ogallala groundwater and surface water from Lake Alan Henry and Lake Meredith, and it arrives hard, so a [water softener Lubbock TX](/) installation protects the water heater and plumbing along the whole line.
+The installation includes the softener tank, brine tank, control valve, drain connection and a test at every tap before we leave. For homes served by the city, the unit sits after the main shut-off. For homes on a private well, it sits after the pressure tank, and a water test first confirms whether iron or sulfur need separate treatment. Lubbock's supply is a blend of Ogallala groundwater and surface water from Lake Alan Henry and Lake Meredith, and it arrives hard, so a water softener Lubbock TX installation protects the water heater and plumbing along the whole line.
 
 ### Portable Water Softener Installation
 
@@ -86,6 +86,9 @@ The unit goes on the main water line, usually in a garage, utility room or by th
 A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).
+Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).

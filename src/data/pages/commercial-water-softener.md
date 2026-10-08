@@ -7,7 +7,7 @@ slug: "/commercial-water-softener/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Commercial Water Softener Installation"
-openingHtml: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard water leaves behind. Lubbock Elite Water Softener sizes, installs and services commercial systems from peak flow rate, not household size. <a href=\"#estimate\">Request a free commercial estimate</a> and a technician will review your equipment and water use."
+openingHtml: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard water leaves behind. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, installs and services commercial systems from peak flow rate, not household size. <a href=\"#estimate\">Request a free commercial estimate</a> and a technician will review your equipment and water use."
 formHeading: ""
 formIntro: ""
 images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}]
@@ -73,6 +73,9 @@ It protects boilers, water heaters, dishwashers, ice machines, steamers and plum
 Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides commercial water softener installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free commercial water softener estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free commercial water softener estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

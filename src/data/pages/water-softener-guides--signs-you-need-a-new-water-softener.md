@@ -66,6 +66,9 @@ Yes, when the tank and resin are sound. It restores timing and cycles for less t
 Most replacements finish in one visit. <mark class="data-gap">[NEEDS DATA: typical hours]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

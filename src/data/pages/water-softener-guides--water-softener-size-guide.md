@@ -78,6 +78,9 @@ Bathrooms matter through people and usage. Count people and heavy water use rath
 Re-run the formula. A larger load may call for the next size up or a dual tank system.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

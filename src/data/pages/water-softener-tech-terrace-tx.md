@@ -40,6 +40,9 @@ We serve all of Lubbock, including the neighborhoods around Texas Tech, plus Wol
 > **Not a good fit if...** you rent without the owner's approval, or your home needs major plumbing repair first. A softener cannot fix failing pipes. <mark class="data-gap">[NEEDS DATA: real Tech Terrace customer reviews]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation and service in Tech Terrace, TX and serves homes and businesses across Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Tech Terrace. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water softener estimate in Tech Terrace. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

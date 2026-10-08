@@ -39,6 +39,9 @@ markerCount: 0
 [Seven signs you need to replace your water softener](/water-softener-guides/signs-you-need-a-new-water-softener/) helps you decide between repair and replacement.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation, replacement, repair and water testing for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Ready for a free water test and estimate? We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to the [Lubbock water softener company](/) homepage.
+Ready for a free water test and estimate? We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to the Lubbock water softener company homepage.

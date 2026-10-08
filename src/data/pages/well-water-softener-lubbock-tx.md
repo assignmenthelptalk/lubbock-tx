@@ -7,7 +7,7 @@ slug: "/well-water-softener-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Well Water Softener & Treatment"
-openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Elite Water Softener tests your well, then installs the softener and filters that match the result. <a href=\"#estimate\">Request a free estimate</a> and a technician will start with a water test."
+openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. <a href=\"/\">Lubbock Elite Water Softener</a> tests your well, then installs the softener and filters that match the result. <a href=\"#estimate\">Request a free estimate</a> and a technician will start with a water test."
 formHeading: ""
 formIntro: ""
 images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}]
@@ -65,6 +65,9 @@ Most wells need both. Filters handle iron, sulfur and sediment, and the softener
 <mark class="data-gap">[NEEDS DATA: price range]</mark> It depends on your test results. The estimate is free and itemized.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides well water softener and treatment for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free well water treatment estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free well water treatment estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

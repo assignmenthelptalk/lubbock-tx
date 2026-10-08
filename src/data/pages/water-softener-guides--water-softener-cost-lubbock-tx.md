@@ -91,6 +91,9 @@ Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause
 Salt-free systems usually cost less to run and may cost less or more to buy depending on the type. <mark class="data-gap">[NEEDS DATA: price comparison]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free, itemized water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free, itemized water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

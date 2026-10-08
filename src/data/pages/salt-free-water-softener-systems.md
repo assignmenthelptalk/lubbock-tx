@@ -7,7 +7,7 @@ slug: "/salt-free-water-softener-systems/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Salt-Free Water Softener Systems"
-openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so without salt, a brine tank or a drain line. Lubbock Elite Water Softener installs salt-free systems for homeowners who want lower maintenance and no added sodium. <a href=\"#estimate\">Request a free estimate</a> and a technician will tell you honestly whether salt-free fits your water."
+openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so without salt, a brine tank or a drain line. <a href=\"/\">Lubbock Elite Water Softener</a> installs salt-free systems for homeowners who want lower maintenance and no added sodium. <a href=\"#estimate\">Request a free estimate</a> and a technician will tell you honestly whether salt-free fits your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}]
@@ -66,6 +66,9 @@ Many units install on the main line with basic plumbing skills, but a correct si
 <mark class="data-gap">[NEEDS DATA: local price range]</mark> Our estimate is free and itemized.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides salt-free water softener systems for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free salt-free water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free salt-free water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

@@ -78,6 +78,9 @@ They have no resin to wear out, but their media needs replacing on a schedule. <
 Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free softener inspection and estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free softener inspection and estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

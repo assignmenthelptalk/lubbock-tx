@@ -7,7 +7,7 @@ slug: "/dual-tank-water-softener/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Dual Tank Water Softener Installation"
-openingHtml: "A dual tank water softener in Lubbock, TX uses two resin tanks so one always serves the house while the other regenerates, and softened water never stops. Lubbock Elite Water Softener installs dual tank systems for large households and busy commercial sites that outgrow a single tank. <a href=\"#estimate\">Request a free estimate</a> and a technician will check whether two tanks suit your water use."
+openingHtml: "A dual tank water softener in Lubbock, TX uses two resin tanks so one always serves the house while the other regenerates, and softened water never stops. <a href=\"/\">Lubbock Elite Water Softener</a> installs dual tank systems for large households and busy commercial sites that outgrow a single tank. <a href=\"#estimate\">Request a free estimate</a> and a technician will check whether two tanks suit your water use."
 formHeading: ""
 formIntro: ""
 images: [{"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks"}]
@@ -60,6 +60,9 @@ It needs more floor area than one tank. We measure your utility room or garage b
 Yes. It suits businesses that cannot tolerate hard water at any hour, and it is sized from peak flow.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides dual tank water softener installation for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free dual tank water softener estimate for your Lubbock home or business. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free dual tank water softener estimate for your Lubbock home or business. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

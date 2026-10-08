@@ -41,6 +41,9 @@ We serve Lubbock, Wolfforth, Slaton, Idalou, Levelland, Plainview, Floydada, Tah
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first. <mark class="data-gap">[NEEDS DATA: real Shallowater customer reviews]</mark>
 
 
+
+[Lubbock Elite Water Softener TX](/) provides water softener installation and service in Shallowater, TX and serves homes and businesses across Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Shallowater, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free water softener estimate in Shallowater, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.

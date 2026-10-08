@@ -65,6 +65,9 @@ Prices vary by size and brand. <mark class="data-gap">[NEEDS DATA: local price r
 Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water.
 
 
+
+[Lubbock Elite Water Softener TX](/) provides salt-free water softener systems for homes and businesses across Lubbock and Lubbock County.
+
 ## Get Your Free Estimate
 
-Request a free estimate and we will compare both options for your home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
+Request a free estimate and we will compare both options for your home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
