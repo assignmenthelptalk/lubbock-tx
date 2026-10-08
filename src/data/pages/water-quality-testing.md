@@ -10,7 +10,8 @@ crumb: "Water Quality Testing"
 openingHtml: "Water quality testing in Lubbock, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything, needs treatment. <a href=\"/\">Lubbock Elite Water Softener</a> tests city and well water and explains each result in plain language. Request a free test and we will contact you within 24 hours."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}]
+leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
+images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true}]
 markerCount: 7
 ---
 

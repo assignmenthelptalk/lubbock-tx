@@ -22,6 +22,7 @@ const SOURCE =
   "C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockelitewatersoftener";
 const OUT_PAGES = path.join(root, "src", "data", "pages");
 const OUT_NAV = path.join(root, "src", "data", "nav.json");
+const IMAGE_DIR = path.join(root, "src", "assets", "images");
 const OUT_CHECKLIST = path.join(root, "LAUNCH-CHECKLIST.md");
 
 const MARKER_RE = /\[(?:NEEDS DATA|VERIFY)[^\]]*\]/g;
@@ -133,11 +134,22 @@ for (const file of files) {
 
   let body = raw.slice(head[0].length);
 
-  // image placeholders (kept as metadata, not rendered yet)
+  // Image comments. The first one is the page's lead image (rendered by the template
+  // after the hero); later ones become inline markdown images. A file that is not in
+  // src/assets/images yet (the code-built diagrams) is skipped and reported.
   const images = [];
+  let leadImage = null;
   body = body.replace(/<!--\s*image:\s*([^|]+)\|\s*alt:\s*([\s\S]*?)-->/g, (_, f, a) => {
-    images.push({ file: f.trim(), alt: a.trim() });
-    return "";
+    const file = f.trim();
+    const alt = a.trim().replace(/\s+/g, " ").replace(/[\[\]]/g, "");
+    const exists = fs.existsSync(path.join(IMAGE_DIR, file));
+    images.push({ file, alt, exists });
+    if (!exists) return "";
+    if (!images.slice(0, -1).length) {
+      leadImage = { file, alt };
+      return "";
+    }
+    return `\n\n![${alt}](../../assets/images/${file})\n\n`;
   });
   body = body.replace(/<!--[\s\S]*?-->/g, "");
 
@@ -204,13 +216,14 @@ for (const file of files) {
     openingHtml: isHome ? inlineHtml(openingMd) : inlineHtml(openingMd).replace(/href="\/#estimate"/g, 'href="#estimate"'),
     formHeading,
     formIntro,
+    leadImage,
     images,
     markerCount: allMarkers.length,
   };
   const yaml = Object.entries(fm).map(([k, v]) => `${k}: ${JSON.stringify(v)}`).join("\n");
   const out = `---\n${yaml}\n---\n\n${markers(body)}\n`;
   fs.writeFileSync(path.join(OUT_PAGES, `${slugToFile(slug)}.md`), out);
-  pages.push({ slug, file: slugToFile(slug), h1, crumb: fm.crumb, type: fm.pageType, metaDraft, markers: allMarkers, note: noteMatch?.[1] });
+  pages.push({ slug, file: slugToFile(slug), h1, crumb: fm.crumb, type: fm.pageType, metaDraft, markers: allMarkers, note: noteMatch?.[1], missingImages: images.filter((i) => !i.exists).map((i) => i.file) });
 }
 
 // ---- navigation ------------------------------------------------------------
@@ -229,6 +242,7 @@ fs.writeFileSync(OUT_NAV, JSON.stringify(nav, null, 2) + "\n");
 
 // ---- launch checklist ------------------------------------------------------
 const total = pages.reduce((n, p) => n + p.markers.length, 0);
+const missingImages = [...new Set(pages.flatMap((p) => p.missingImages))];
 const rows = pages
   .sort((a, b) => a.slug.localeCompare(b.slug))
   .map((p) => {
@@ -247,8 +261,8 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Confirm the exact Lubbock hardness figure (169 vs 192 mg/L conflict) and update gpgLow/gpgHigh
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
-- [ ] Replace the homepage hero placeholder (placehold.co, see HERO_PLACEHOLDER in src/pages/index.astro) with a real Lubbock photo in src/assets
-- [ ] Replace other image placeholders with real WebP photos (alt text is stored in each page's frontmatter)
+- [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names
+- [ ] Build the images still missing (code-made diagrams, listed below): ${missingImages.length ? missingImages.join(", ") : "none"}
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Decide on Idalou and write the remaining nine town pages (see Local-SEO-Toolkit reports)
 

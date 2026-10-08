@@ -10,7 +10,8 @@ crumb: "Drinking Water System Installation"
 openingHtml: "Drinking water system installation in Lubbock, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or on a bottleless cooler. <a href=\"/\">Lubbock Elite Water Softener</a> installs each type for homes and offices and helps you choose between them. Request a free estimate and a technician will match a system to your space and your water."
 formHeading: ""
 formIntro: ""
-images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}]
+leadImage: {"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}
+images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit","exists":true}]
 markerCount: 4
 ---
 

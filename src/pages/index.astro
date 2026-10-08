@@ -8,20 +8,19 @@
  * Copy comes from src/data/pages/home.md. Body copy contains no links to
  * service, guide or location pages (navigation and footer only).
  *
- * PLACEHOLDER: the hero photo is a placehold.co image until a real Lubbock
- * photo is added. Replace HERO_PLACEHOLDER with an import from src/assets.
+ * The hero photo is the AI-generated stand-in in src/assets/images; swap the
+ * file (same name) for a real Lubbock job photo when available.
  */
 import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
 import LocalSchema from "../components/LocalSchema.astro";
+import heroImage from "../assets/images/hero-water-softener-lubbock-tx.webp";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
-const HERO_PLACEHOLDER =
-  "https://placehold.co/1376x768/12293F/FFFFFF.png?text=Hero+photo+placeholder";
 const badges = ["✓ Free Estimate", "✓ No Obligation", "✓ Lubbock, TX and the South Plains"];
 ---
 
@@ -31,10 +30,8 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", "✓ Lubbock, TX and t
   <!-- 1. HERO: full-bleed image, content left, quote form right -->
   <section class="hero-section">
     <Image
-      src={HERO_PLACEHOLDER}
-      alt={`Professional water softener installation and service in ${site.city}, ${site.stateAbbr}`}
-      width={1376}
-      height={768}
+      src={heroImage}
+      alt={fm.leadImage?.alt ?? `Water softener installation and service in ${site.city}, ${site.stateAbbr}`}
       format="webp"
       quality="mid"
       loading="eager"

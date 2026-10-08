@@ -10,7 +10,8 @@ crumb: "Water Softener Guides for Lubbock Homeowners"
 openingHtml: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">Lubbock Elite Water Softener</a>."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water"}]
+leadImage: {"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water"}
+images: [{"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water","exists":true}]
 markerCount: 0
 ---
 

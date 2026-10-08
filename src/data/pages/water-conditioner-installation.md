@@ -10,7 +10,8 @@ crumb: "Water Conditioner Installation"
 openingHtml: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures. <a href=\"/\">Lubbock Elite Water Softener</a> installs salt-free conditioners, potassium chloride softeners and scale inhibitor systems, and recommends the one that fits your goal. Request a free estimate and a technician will review your water and your plumbing."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}]
+leadImage: {"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}
+images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line","exists":true}]
 markerCount: 3
 ---
 

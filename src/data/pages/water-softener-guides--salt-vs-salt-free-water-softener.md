@@ -10,7 +10,8 @@ crumb: "Salt-Based vs Salt-Free Water Softener: Lubbock Homeowner's Guide"
 openingHtml: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For Lubbock, TX homes with hard to very hard water, the salt-based softener gives the stronger result and the salt-free system gives the lower maintenance. This guide compares them so you can choose with a <a href=\"/\">water softener Lubbock TX</a> company that explains both."
 formHeading: ""
 formIntro: ""
-images: [{"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison"}]
+leadImage: {"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison"}
+images: [{"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison","exists":true}]
 markerCount: 2
 ---
 

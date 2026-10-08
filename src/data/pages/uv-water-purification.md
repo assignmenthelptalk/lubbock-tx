@@ -10,7 +10,8 @@ crumb: "UV Water Purification System Installation"
 openingHtml: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without chemicals. <a href=\"/\">Lubbock Elite Water Softener</a> installs UV systems for homes, with a focus on private wells. Request a free estimate and a technician will test your water first."
 formHeading: ""
 formIntro: ""
-images: [{"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line"}]
+leadImage: {"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line"}
+images: [{"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line","exists":true}]
 markerCount: 3
 ---
 

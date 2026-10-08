@@ -10,7 +10,8 @@ crumb: "Water Filtration System Installation"
 openingHtml: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink, at the shower and at the refrigerator. <a href=\"/\">Lubbock Elite Water Softener</a> installs and replaces filters of every type. Request a free estimate and a technician will match filters to what a water test finds."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}]
+leadImage: {"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}
+images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation","exists":true}]
 markerCount: 4
 ---
 

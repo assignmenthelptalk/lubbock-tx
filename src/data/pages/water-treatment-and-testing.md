@@ -10,7 +10,8 @@ crumb: "Water Treatment Services"
 openingHtml: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and tastes better. <a href=\"/\">Lubbock Elite Water Softener</a> installs and services conditioners, filters, reverse osmosis, UV and contaminant-removal systems, and starts every recommendation with a water test. Request a free estimate and we will tell you which system your water actually needs."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}]
+leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
+images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true}]
 markerCount: 2
 ---
 

@@ -10,7 +10,8 @@ crumb: "Well Water Softener & Treatment"
 openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. <a href=\"/\">Lubbock Elite Water Softener</a> tests your well, then installs the softener and filters that match the result. Request a free estimate and a technician will start with a water test."
 formHeading: ""
 formIntro: ""
-images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}]
+leadImage: {"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}
+images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter","exists":true}]
 markerCount: 5
 ---
 

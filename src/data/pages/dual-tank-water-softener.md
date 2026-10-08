@@ -10,7 +10,8 @@ crumb: "Dual Tank Water Softener Installation"
 openingHtml: "A dual tank water softener in Lubbock, TX uses two resin tanks so one always serves the house while the other regenerates, and softened water never stops. <a href=\"/\">Lubbock Elite Water Softener</a> installs dual tank systems for large households and busy commercial sites that outgrow a single tank. Request a free estimate and a technician will check whether two tanks suit your water use."
 formHeading: ""
 formIntro: ""
-images: [{"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks"}]
+leadImage: {"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks"}
+images: [{"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks","exists":true}]
 markerCount: 4
 ---
 

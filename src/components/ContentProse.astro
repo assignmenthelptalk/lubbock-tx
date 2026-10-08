@@ -88,6 +88,15 @@
   }
   .prose :global(tr:nth-child(even) td) { background: var(--surface-elevated); }
 
+  .prose :global(img) {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 1.8em 0;
+    border-radius: var(--radius-brand);
+    box-shadow: var(--shadow-card);
+  }
+
   /* Unresolved facts: loud on purpose */
   .prose :global(mark.data-gap),
   :global(mark.data-gap) {

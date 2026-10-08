@@ -10,7 +10,8 @@ crumb: "7 Signs You Need to Replace Your Water Softener"
 openingHtml: "You need to replace your water softener when hard water keeps returning, repairs keep failing, the tank leaks or the unit is past about 10 to 15 years old. Lubbock's hard to very hard water works a softener every day, so these signs show up clearly. This guide lists seven, with a quick check and a repair-or-replace verdict for each, so you can decide with a <a href=\"/\">water softener Lubbock TX</a> company you trust."
 formHeading: ""
 formIntro: ""
-images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}]
+leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
+images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true}]
 markerCount: 3
 ---
 

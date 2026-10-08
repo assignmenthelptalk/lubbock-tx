@@ -10,7 +10,8 @@ crumb: "Water Softener Replacement"
 openingHtml: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened water returns to every tap. <a href=\"/\">Lubbock Elite Water Softener</a> replaces whole systems, resin beds and control valves, and tells you honestly when a repair is the cheaper answer. Request a free estimate and a technician will inspect your current unit and your water."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}]
+leadImage: {"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}
+images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit","exists":true}]
 markerCount: 5
 ---
 

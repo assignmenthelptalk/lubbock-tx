@@ -10,7 +10,8 @@ crumb: "Salt-Free Water Softener Systems"
 openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so without salt, a brine tank or a drain line. <a href=\"/\">Lubbock Elite Water Softener</a> installs salt-free systems for homeowners who want lower maintenance and no added sodium. Request a free estimate and a technician will tell you honestly whether salt-free fits your water."
 formHeading: ""
 formIntro: ""
-images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}]
+leadImage: {"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}
+images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line","exists":true}]
 markerCount: 5
 ---
 

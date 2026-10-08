@@ -10,7 +10,8 @@ crumb: "Commercial Water Softener Installation"
 openingHtml: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard water leaves behind. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, installs and services commercial systems from peak flow rate, not household size. Request a free commercial estimate and a technician will review your equipment and water use."
 formHeading: ""
 formIntro: ""
-images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}]
+leadImage: {"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}
+images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room","exists":true}]
 markerCount: 6
 ---
 

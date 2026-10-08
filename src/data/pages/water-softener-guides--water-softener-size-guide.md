@@ -10,7 +10,8 @@ crumb: "How to Choose the Right Size Water Softener for Your Lubbock Home"
 openingHtml: "The right size water softener matches your household's daily hardness load, measured in grains, and regenerates every three to seven days. A unit that is too small regenerates constantly and lets hard water through, and one that is too large wastes salt and money. This guide shows the formula, a worked example for Lubbock water and the common sizes, so you can talk to a <a href=\"/\">water softener Lubbock TX</a> installer with real numbers."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart"}]
+leadImage: null
+images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart","exists":false}]
 markerCount: 3
 ---
 

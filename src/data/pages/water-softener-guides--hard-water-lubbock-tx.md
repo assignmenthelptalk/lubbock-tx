@@ -10,7 +10,8 @@ crumb: "Hard Water: Causes, Effects & Solutions"
 openingHtml: "Hard water in Lubbock, TX is water that carries dissolved calcium and magnesium, and it comes from the Ogallala Aquifer that supplies most of the city's drinking water. This guide explains why Lubbock water is hard, how hard it is, what it does to your home and which fixes work. For a <a href=\"/\">water softener Lubbock TX</a> homeowners trust, start with a free water test."
 formHeading: ""
 formIntro: ""
-images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed"}]
+leadImage: {"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed"}
+images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed","exists":true}]
 markerCount: 1
 ---
 

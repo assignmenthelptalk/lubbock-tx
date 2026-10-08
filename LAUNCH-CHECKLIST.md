@@ -9,8 +9,8 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Confirm the exact Lubbock hardness figure (169 vs 192 mg/L conflict) and update gpgLow/gpgHigh
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
-- [ ] Replace the homepage hero placeholder (placehold.co, see HERO_PLACEHOLDER in src/pages/index.astro) with a real Lubbock photo in src/assets
-- [ ] Replace other image placeholders with real WebP photos (alt text is stored in each page's frontmatter)
+- [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names
+- [ ] Build the images still missing (code-made diagrams, listed below): water-softener-size-guide-lubbock-tx.webp, water-softener-process-lubbock-tx.webp, water-softener-service-areas-lubbock-tx.webp
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Decide on Idalou and write the remaining nine town pages (see Local-SEO-Toolkit reports)
 

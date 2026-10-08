@@ -10,7 +10,8 @@ crumb: "Water Softener Repair"
 openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error code. <a href=\"/\">Lubbock Elite Water Softener</a> repairs control valves, motors, floats, injectors, heads and brine lines, and tells you honestly when replacement costs less. Request a free estimate or call for service."
 formHeading: ""
 formIntro: ""
-images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}]
+leadImage: {"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}
+images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve","exists":true}]
 markerCount: 4
 ---
 

@@ -10,7 +10,8 @@ crumb: "How Long Does a Water Softener Last in Lubbock, TX?"
 openingHtml: "A well-maintained water softener commonly lasts 10 to 15 years, and some last longer with regular care. In Lubbock, TX, hard water, mineral-rich groundwater and heavy daily use shape that lifespan. This guide explains what wears out, what shortens or extends life and when replacing makes more sense than repairing. A trusted <a href=\"/\">water softener Lubbock TX</a> company can inspect your unit and tell you where it stands."
 formHeading: ""
 formIntro: ""
-images: [{"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection"}]
+leadImage: {"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection"}
+images: [{"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection","exists":true}]
 markerCount: 4
 ---
 
