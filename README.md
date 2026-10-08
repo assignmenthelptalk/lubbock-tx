@@ -4,8 +4,8 @@ Rank-and-rent lead-generation site for **Lubbock Elite Water Softener**
 (lubbockelitewatersoftener.com, target keyword "water softener lubbock tx").
 Astro 7 static site built from `water-softener-boilerplate`.
 
-**Status: local build and preview only. Not pushed, not deployed.**
-No GitHub repo or Vercel project exists for this site yet.
+**Status: pushed to GitHub (`assignmenthelptalk/lubbock-tx`, branch `main`). Not deployed.**
+No Vercel project exists for this site yet. Do not deploy while `LAUNCH-CHECKLIST.md` has open items.
 
 ## Commands
 
@@ -52,12 +52,26 @@ next import overwrites them.
   enforces it. The source copy in Local-SEO-Toolkit is left as written.
 - Unresolved facts render as yellow `[NEEDS DATA]` / `[VERIFY]` highlights on
   every page. Do not launch while any remain.
-- Images: `IMAGE-PROMPTS.md` has a ready-to-paste prompt for each of the 31 photos (plus 3 images to build in code). Pages reference WebP placeholders in their frontmatter (`images`),
-  but no image tags are rendered yet.
+- Images: `IMAGE-PROMPTS.md` has the prompt for each of the 31 photos (plus 3
+  images to build in code). The photos are AI-generated stand-ins, converted to
+  WebP in `src/assets/images/<id>.webp` (max 1200px wide, hero 1376px). The
+  originals are in `brand_assets/unbranded-images/` (git-ignored). The hero uses
+  `hero-water-softener-lubbock-tx.webp`; `public/og-default.jpg` (1200x630) is
+  the social share image.
+  - The importer reads the `<!-- image: file | alt: text -->` comments in the
+    written copy. The first one on a page is its lead image (shown below the
+    hero); later ones become inline images. A file missing from
+    `src/assets/images` is skipped and listed in `LAUNCH-CHECKLIST.md`.
+  - Still missing: the three code-built images (installation process diagram,
+    size chart, service-areas map).
+  - To swap in a real job photo, save a WebP under the same file name.
+  - Three photos show a sliver of a face at the frame edge (water filtration,
+    reverse osmosis, Tech Terrace); crop or regenerate before launch.
 
 ## Before launch (see LAUNCH-CHECKLIST.md)
 
 Real phone and email (the quote form is disabled until `businessEmail` is
 set), exact Lubbock hardness figure, TCEQ licence number, warranty and
-guarantee terms, price ranges, reviews, final meta descriptions, photos, and
-the remaining town pages.
+guarantee terms, price ranges, reviews, final meta descriptions, real photos in
+place of the AI stand-ins, the three code-built images, and the remaining town
+pages.
