@@ -93,4 +93,4 @@ Salt-free systems usually cost less to run and may cost less or more to buy depe
 
 ## Get Your Free Estimate
 
-Request a free, itemized water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free, itemized water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

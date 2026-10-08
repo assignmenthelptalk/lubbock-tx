@@ -1,13 +1,13 @@
 ---
 title: "Salt-Free Water Softener Systems in Lubbock, TX"
-seoTitle: "Salt-Free Water Softener Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Salt-Free Water Softener Lubbock TX | Lubbock Elite Water Softener"
 description: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so..."
 metaDraft: true
 slug: "/salt-free-water-softener-systems/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Salt-Free Water Softener Systems"
-openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so without salt, a brine tank or a drain line. Lubbock Pure Water Softener installs salt-free systems for homeowners who want lower maintenance and no added sodium. <a href=\"#estimate\">Request a free estimate</a> and a technician will tell you honestly whether salt-free fits your water."
+openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard water so scale no longer clings to pipes, fixtures and appliances, and it does so without salt, a brine tank or a drain line. Lubbock Elite Water Softener installs salt-free systems for homeowners who want lower maintenance and no added sodium. <a href=\"#estimate\">Request a free estimate</a> and a technician will tell you honestly whether salt-free fits your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}]
@@ -68,4 +68,4 @@ Many units install on the main line with basic plumbing skills, but a correct si
 
 ## Get Your Free Estimate
 
-Request a free salt-free water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free salt-free water softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

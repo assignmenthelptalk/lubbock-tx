@@ -1,6 +1,6 @@
 # lubbockpurewatersoftener
 
-Rank-and-rent lead-generation site for **Lubbock Pure Water Softener**
+Rank-and-rent lead-generation site for **Lubbock Elite Water Softener**
 (lubbockpurewatersoftener.com, target keyword "water softener lubbock tx").
 Astro 7 static site built from `water-softener-boilerplate`.
 
@@ -38,7 +38,7 @@ next import overwrites them.
   not the boilerplate's fixed 22 pages. Its old pages and map/slider components
   were removed from this clone.
 - Design tokens use the owner's colors: deep blue `#1A3C5E`, orange `#E87722`.
-- `businessName` is "Lubbock Pure Water Softener" (owner's brand), not one of
+- `businessName` is "Lubbock Elite Water Softener" (owner's brand), not one of
   the boilerplate's two name formats.
 - Copyright year is fixed at 2025 (owner instruction).
 - Services nav is generated from the topical map; the guide hub and

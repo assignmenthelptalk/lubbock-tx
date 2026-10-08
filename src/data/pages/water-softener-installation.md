@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Installation in Lubbock, TX"
-seoTitle: "Water Softener Installation Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Installation Lubbock TX | Lubbock Elite Water Softener"
 description: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives..."
 metaDraft: true
 slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Installation"
-openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. Lubbock Pure Water Softener sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. <a href=\"#estimate\">Request a free estimate</a> and a technician will recommend a system for your home."
+openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. Lubbock Elite Water Softener sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. <a href=\"#estimate\">Request a free estimate</a> and a technician will recommend a system for your home."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram"}]
@@ -88,4 +88,4 @@ A bypass valve is standard on every installation we do. It lets you isolate the 
 
 ## Get Your Free Estimate
 
-Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).
+Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).

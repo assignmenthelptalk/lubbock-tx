@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Installation & Service in Tech Terrace, TX"
-seoTitle: "Water Softener Tech Terrace TX | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Tech Terrace TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University...."
 metaDraft: true
 slug: "/water-softener-tech-terrace-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Tech Terrace, TX"
-openingHtml: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University. Older homes mean older plumbing, and Lubbock's hard city water adds scale on top of that. Lubbock Pure Water Softener installs, replaces and services softeners across Tech Terrace as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will check your plumbing and your water."
+openingHtml: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University. Older homes mean older plumbing, and Lubbock's hard city water adds scale on top of that. Lubbock Elite Water Softener installs, replaces and services softeners across Tech Terrace as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will check your plumbing and your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-tech-terrace-tx.webp","alt":"Water softener Tech Terrace TX older home utility room installation"}]
@@ -42,4 +42,4 @@ We serve all of Lubbock, including the neighborhoods around Texas Tech, plus Wol
 
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Tech Terrace. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water softener estimate in Tech Terrace. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

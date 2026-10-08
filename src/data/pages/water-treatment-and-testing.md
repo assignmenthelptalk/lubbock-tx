@@ -1,13 +1,13 @@
 ---
 title: "Water Treatment Services in Lubbock, TX"
-seoTitle: "Water Treatment Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Water Treatment Lubbock TX | Lubbock Elite Water Softener"
 description: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and..."
 metaDraft: true
 slug: "/water-treatment-and-testing/"
 pageType: "hub"
 parentSlug: "/"
 crumb: "Water Treatment Services"
-openingHtml: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and tastes better. Lubbock Pure Water Softener installs and services conditioners, filters, reverse osmosis, UV and contaminant-removal systems, and starts every recommendation with a water test. <a href=\"#estimate\">Request a free estimate</a> and we will tell you which system your water actually needs."
+openingHtml: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and tastes better. Lubbock Elite Water Softener installs and services conditioners, filters, reverse osmosis, UV and contaminant-removal systems, and starts every recommendation with a water test. <a href=\"#estimate\">Request a free estimate</a> and we will tell you which system your water actually needs."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}]
@@ -76,4 +76,4 @@ Yes. Private wells are not covered by city reports and can carry iron, sulfur, n
 
 ## Get Your Free Estimate
 
-Request a free estimate and water test review. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for everything we install.
+Request a free estimate and water test review. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for everything we install.

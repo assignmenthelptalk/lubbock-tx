@@ -73,4 +73,4 @@ Often yes, since private wells draw directly from the aquifer. A test shows the 
 
 ## Get Your Free Estimate
 
-Request a free water test and softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water test and softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

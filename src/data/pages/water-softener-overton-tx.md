@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Installation & Service in Overton, TX"
-seoTitle: "Water Softener Overton TX | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Overton TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums..."
 metaDraft: true
 slug: "/water-softener-overton-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Overton, TX"
-openingHtml: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums built in the 2000s. That mix means each home needs a softener planned around its own plumbing and utility space. Lubbock Pure Water Softener installs, replaces and services softeners across Overton as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will visit first."
+openingHtml: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums built in the 2000s. That mix means each home needs a softener planned around its own plumbing and utility space. Lubbock Elite Water Softener installs, replaces and services softeners across Overton as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will visit first."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation"}]
@@ -42,4 +42,4 @@ We serve all of Lubbock, including the neighborhoods around Texas Tech and downt
 
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Overton. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water softener estimate in Overton. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

@@ -80,4 +80,4 @@ Re-run the formula. A larger load may call for the next size up or a dual tank s
 
 ## Get Your Free Estimate
 
-Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

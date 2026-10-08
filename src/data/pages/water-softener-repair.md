@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Repair in Lubbock, TX"
-seoTitle: "Water Softener Repair Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Repair Lubbock TX | Lubbock Elite Water Softener"
 description: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error..."
 metaDraft: true
 slug: "/water-softener-repair/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Repair"
-openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error code. Lubbock Pure Water Softener repairs control valves, motors, floats, injectors, heads and brine lines, and tells you honestly when replacement costs less. <a href=\"#estimate\">Request a free estimate</a> or call for service."
+openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error code. Lubbock Elite Water Softener repairs control valves, motors, floats, injectors, heads and brine lines, and tells you honestly when replacement costs less. <a href=\"#estimate\">Request a free estimate</a> or call for service."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}]
@@ -84,4 +84,4 @@ Leaks come from loose fittings, worn seals, a cracked drain line or a failing ta
 
 ## Get Your Free Estimate
 
-Request a free water softener repair estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water softener repair estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

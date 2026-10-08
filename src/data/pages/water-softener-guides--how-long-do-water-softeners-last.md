@@ -80,4 +80,4 @@ Hard water returns soon after regeneration even with salt in the tank and a work
 
 ## Get Your Free Estimate
 
-Request a free softener inspection and estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free softener inspection and estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

@@ -1,13 +1,13 @@
 ---
 title: "Water Filtration System Installation in Lubbock, TX"
-seoTitle: "Water Filtration Systems Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Water Filtration Systems Lubbock TX | Lubbock Elite Water Softener"
 description: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink..."
 metaDraft: true
 slug: "/water-filtration-systems/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Filtration System Installation"
-openingHtml: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink, at the shower and at the refrigerator. Lubbock Pure Water Softener installs and replaces filters of every type. <a href=\"#estimate\">Request a free estimate</a> and a technician will match filters to what a water test finds."
+openingHtml: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink, at the shower and at the refrigerator. Lubbock Elite Water Softener installs and replaces filters of every type. <a href=\"#estimate\">Request a free estimate</a> and a technician will match filters to what a water test finds."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}]
@@ -75,4 +75,4 @@ It reduces chlorine. It does not remove hardness minerals.
 
 ## Get Your Free Estimate
 
-Request a free water filtration estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water filtration estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

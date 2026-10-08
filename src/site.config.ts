@@ -274,7 +274,7 @@ export interface SiteConfig {
 const domain = "lubbockpurewatersoftener.com";
 
 /**
- * Lubbock Pure Water Softener. Data sources and open items:
+ * Lubbock Elite Water Softener. Data sources and open items:
  * Local-SEO-Toolkit/data/lubbockpurewatersoftener/reports/research-facts.md
  * Values marked NEEDS_DATA or VERIFY are unconfirmed and must be resolved
  * before launch (see LAUNCH-CHECKLIST.md).
@@ -300,7 +300,7 @@ export const siteConfig: SiteConfig = {
   primaryKeyword: "water softener lubbock tx",
   searchVol: 110, // from the portfolio's own keyword table; re-check
   metaDescription:
-    "Lubbock Pure Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now.",
+    "Lubbock Elite Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now.",
 
   // Local data
   population: "NEEDS_DATA_POPULATION",
@@ -315,7 +315,7 @@ export const siteConfig: SiteConfig = {
 
   // Business identity. Phone is the owner's placeholder; the email stays a
   // placeholder token so the quote form shows as unconfigured until set.
-  businessName: "Lubbock Pure Water Softener",
+  businessName: "Lubbock Elite Water Softener",
   phoneNumber: "(806) 000-0000",
   businessEmail: "BUSINESS_EMAIL",
   address: "",

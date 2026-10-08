@@ -1,13 +1,13 @@
 ---
 title: "UV Water Purification System Installation in Lubbock, TX"
-seoTitle: "UV Water Purification Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "UV Water Purification Lubbock TX | Lubbock Elite Water Softener"
 description: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without..."
 metaDraft: true
 slug: "/uv-water-purification/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "UV Water Purification System Installation"
-openingHtml: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without chemicals. Lubbock Pure Water Softener installs UV systems for homes, with a focus on private wells. <a href=\"#estimate\">Request a free estimate</a> and a technician will test your water first."
+openingHtml: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without chemicals. Lubbock Elite Water Softener installs UV systems for homes, with a focus on private wells. <a href=\"#estimate\">Request a free estimate</a> and a technician will test your water first."
 formHeading: ""
 formIntro: ""
 images: [{"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line"}]
@@ -56,4 +56,4 @@ Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sedime
 
 ## Get Your Free Estimate
 
-Request a free UV water purification estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free UV water purification estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

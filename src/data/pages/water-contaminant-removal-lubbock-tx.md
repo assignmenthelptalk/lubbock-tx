@@ -1,13 +1,13 @@
 ---
 title: "Water Contaminant Removal in Lubbock, TX"
-seoTitle: "Water Contaminant Removal Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Water Contaminant Removal Lubbock TX | Lubbock Elite Water Softener"
 description: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate..."
 metaDraft: true
 slug: "/water-contaminant-removal-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Contaminant Removal"
-openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. Lubbock Pure Water Softener starts with a water test, then recommends the filter that targets what the test finds. <a href=\"#estimate\">Request a free estimate</a> and a technician will explain your options."
+openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. Lubbock Elite Water Softener starts with a water test, then recommends the filter that targets what the test finds. <a href=\"#estimate\">Request a free estimate</a> and a technician will explain your options."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}]
@@ -72,4 +72,4 @@ No. A softener removes hardness. Contaminant removal needs a different filter.
 
 ## Get Your Free Estimate
 
-Request a free water contaminant removal estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water contaminant removal estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

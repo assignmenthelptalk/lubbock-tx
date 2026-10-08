@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Installation & Service in Shallowater, TX"
-seoTitle: "Water Softener Shallowater TX | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Shallowater TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the..."
 metaDraft: true
 slug: "/water-softener-shallowater-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Shallowater, TX"
-openingHtml: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the farms around it. Shallowater buys its drinking water from the Lubbock public water system, so homeowners deal with the same Ogallala Aquifer minerals as Lubbock. Lubbock Pure Water Softener serves Shallowater from its <a href=\"/\">water softener Lubbock TX</a> base. <a href=\"#estimate\">Request a free estimate</a> to get started."
+openingHtml: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the farms around it. Shallowater buys its drinking water from the Lubbock public water system, so homeowners deal with the same Ogallala Aquifer minerals as Lubbock. Lubbock Elite Water Softener serves Shallowater from its <a href=\"/\">water softener Lubbock TX</a> base. <a href=\"#estimate\">Request a free estimate</a> to get started."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation"}]
@@ -43,4 +43,4 @@ We serve Lubbock, Wolfforth, Slaton, Idalou, Levelland, Plainview, Floydada, Tah
 
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Shallowater, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free water softener estimate in Shallowater, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

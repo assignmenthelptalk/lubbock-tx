@@ -68,4 +68,4 @@ Most replacements finish in one visit. <mark class="data-gap">[NEEDS DATA: typic
 
 ## Get Your Free Estimate
 
-Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

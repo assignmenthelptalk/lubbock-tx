@@ -1,13 +1,13 @@
 ---
 title: "Drinking Water System Installation in Lubbock, TX"
-seoTitle: "Drinking Water Systems Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Drinking Water Systems Lubbock TX | Lubbock Elite Water Softener"
 description: "Drinking water system installation in Lubbock, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or on a..."
 metaDraft: true
 slug: "/drinking-water-systems/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Drinking Water System Installation"
-openingHtml: "Drinking water system installation in Lubbock, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or on a bottleless cooler. Lubbock Pure Water Softener installs each type for homes and offices and helps you choose between them. <a href=\"#estimate\">Request a free estimate</a> and a technician will match a system to your space and your water."
+openingHtml: "Drinking water system installation in Lubbock, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or on a bottleless cooler. Lubbock Elite Water Softener installs each type for homes and offices and helps you choose between them. <a href=\"#estimate\">Request a free estimate</a> and a technician will match a system to your space and your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}]
@@ -56,4 +56,4 @@ Yes. It needs a water line and power, and we size the unit to your headcount.
 
 ## Get Your Free Estimate
 
-Request a free drinking water system estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free drinking water system estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

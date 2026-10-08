@@ -1,13 +1,13 @@
 ---
 title: "Reverse Osmosis System Installation in Lubbock, TX"
-seoTitle: "Reverse Osmosis Installation Lubbock TX | Lubbock Pure Water Softener"
+seoTitle: "Reverse Osmosis Installation Lubbock TX | Lubbock Elite Water Softener"
 description: "Reverse osmosis system installation in Lubbock, TX adds a membrane filter that removes most dissolved solids from your drinking and cooking water...."
 metaDraft: true
 slug: "/reverse-osmosis-installation/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Reverse Osmosis System Installation"
-openingHtml: "Reverse osmosis system installation in Lubbock, TX adds a membrane filter that removes most dissolved solids from your drinking and cooking water. Lubbock Pure Water Softener installs under-sink and whole-house reverse osmosis systems and replaces worn membranes. <a href=\"#estimate\">Request a free estimate</a> and a technician will test your water and recommend a system."
+openingHtml: "Reverse osmosis system installation in Lubbock, TX adds a membrane filter that removes most dissolved solids from your drinking and cooking water. Lubbock Elite Water Softener installs under-sink and whole-house reverse osmosis systems and replaces worn membranes. <a href=\"#estimate\">Request a free estimate</a> and a technician will test your water and recommend a system."
 formHeading: ""
 formIntro: ""
 images: [{"file":"reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse osmosis installation Lubbock TX under sink system"}]
@@ -67,4 +67,4 @@ Yes, under-sink installation is our most common RO job.
 
 ## Get Your Free Estimate
 
-Request a free reverse osmosis installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free reverse osmosis installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

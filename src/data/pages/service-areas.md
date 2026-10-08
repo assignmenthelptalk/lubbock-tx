@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Service Areas Around Lubbock, TX"
-seoTitle: "Water Softener Service Areas Around Lubbock TX | Lubbock Pure Water Softener"
-description: "Lubbock Pure Water Softener installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on..."
+seoTitle: "Water Softener Service Areas Around Lubbock TX | Lubbock Elite Water Softener"
+description: "Lubbock Elite Water Softener installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on..."
 metaDraft: true
 slug: "/service-areas/"
 pageType: "geo-hub"
 parentSlug: "/"
 crumb: "Water Softener Service Areas"
-openingHtml: "Lubbock Pure Water Softener installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on the Ogallala Aquifer, and hard water is common, so we tailor each visit to the water source in your town. Choose your area below, or <a href=\"#estimate\">request a free estimate</a> and we will confirm service to your address."
+openingHtml: "Lubbock Elite Water Softener installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on the Ogallala Aquifer, and hard water is common, so we tailor each visit to the water source in your town. Choose your area below, or <a href=\"#estimate\">request a free estimate</a> and we will confirm service to your address."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-service-areas-lubbock-tx.webp","alt":"Water softener service areas Lubbock TX map of the South Plains"}]

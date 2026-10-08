@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Guides for Lubbock Homeowners"
-seoTitle: "Water Softener Guides for Lubbock TX Homeowners | Lubbock Pure Water Softener"
+seoTitle: "Water Softener Guides for Lubbock TX Homeowners | Lubbock Elite Water Softener"
 description: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and..."
 metaDraft: true
 slug: "/water-softener-guides/"
 pageType: "guide-hub"
 parentSlug: "/"
 crumb: "Water Softener Guides for Lubbock Homeowners"
-openingHtml: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">Lubbock Pure Water Softener</a>."
+openingHtml: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">Lubbock Elite Water Softener</a>."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water"}]

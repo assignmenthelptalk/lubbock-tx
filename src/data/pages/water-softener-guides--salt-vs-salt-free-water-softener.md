@@ -67,4 +67,4 @@ Yes for most people. Households limiting sodium can choose potassium chloride or
 
 ## Get Your Free Estimate
 
-Request a free estimate and we will compare both options for your home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free estimate and we will compare both options for your home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.

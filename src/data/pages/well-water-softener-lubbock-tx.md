@@ -1,13 +1,13 @@
 ---
 title: "Well Water Softener & Treatment in Lubbock, TX"
-seoTitle: "Well Water Softener Lubbock TX | Lubbock Pure Water Softener"
-description: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Pure Water..."
+seoTitle: "Well Water Softener Lubbock TX | Lubbock Elite Water Softener"
+description: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Elite Water..."
 metaDraft: true
 slug: "/well-water-softener-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Well Water Softener & Treatment"
-openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Pure Water Softener tests your well, then installs the softener and filters that match the result. <a href=\"#estimate\">Request a free estimate</a> and a technician will start with a water test."
+openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Elite Water Softener tests your well, then installs the softener and filters that match the result. <a href=\"#estimate\">Request a free estimate</a> and a technician will start with a water test."
 formHeading: ""
 formIntro: ""
 images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}]
@@ -67,4 +67,4 @@ Most wells need both. Filters handle iron, sulfur and sediment, and the softener
 
 ## Get Your Free Estimate
 
-Request a free well water treatment estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Pure Water Softener](/) for every service we offer.
+Request a free well water treatment estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to [Lubbock Elite Water Softener](/) for every service we offer.
