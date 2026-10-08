@@ -1,17 +1,114 @@
 ---
 /**
- * About page: built only from site.config.ts values. Anything the owner has
- * not confirmed renders as a highlighted [NEEDS DATA] marker; no facts are
- * invented.
+ * About page: full boilerplate structure (services, what sets us apart, who we
+ * serve, how it works, key facts, FAQ, closing CTA) plus the Henderson backlink
+ * pair (exact brand in the opening paragraph, brand + state in a closing
+ * paragraph). Built only from site.config.ts values and verified Lubbock facts.
+ * Anything the owner has not confirmed renders as a highlighted marker; no
+ * facts, prices, licences, timings or competitor names are invented.
  */
+import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
 import PageHero from "../components/PageHero.astro";
+import HomeLink from "../components/HomeLink.astro";
 import ContentProse from "../components/ContentProse.astro";
+import teamImage from "../assets/images/installed-softener-lubbock-tx.webp";
 import { site } from "../lib/site";
 
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const isPlaceholder = (value: string) => /^[A-Z0-9_]+$/.test(value);
-const fact = (value: string, label: string) => (isPlaceholder(value) ? `[NEEDS DATA: ${label}]` : value);
+const marker = (text: string) => `<mark class="data-gap">[${text}]</mark>`;
+const fact = (value: string, label: string) => (isPlaceholder(value) ? marker(`NEEDS DATA: ${label}`) : value);
+const hardness = `roughly ${site.gpgLow} to ${site.gpgHigh} gpg ${marker("VERIFY: exact figure in the City of Lubbock 2025 report")}`;
+
+const services = [
+  {
+    name: "Water Softener Installation",
+    body: "Salt-based softener installation sized to your household and your water, including dual-tank units and the plumbing hookups that go with them.",
+    href: "/water-softener-installation/",
+  },
+  {
+    name: "Water Softener Replacement",
+    body: "Out with the worn-out tank and control head, in with a correctly sized system, with the old unit removed.",
+    href: "/water-softener-replacement/",
+  },
+  {
+    name: "Water Softener Repair",
+    body: "Diagnosis and repair for control valves, resin problems and brine tank issues on the systems you already own.",
+    href: "/water-softener-repair/",
+  },
+  {
+    name: "Water Quality Testing",
+    body: "Testing so the system we recommend is based on your water, not a generic package.",
+    href: "/water-quality-testing/",
+  },
+];
+
+const differentiators = [
+  { name: "Sized to your water", body: `${site.city} water is hard, so we size by household and by hardness instead of selling one system to everyone.` },
+  { name: "Local water knowledge", body: `Most of ${site.city}'s supply is groundwater from the Ogallala Aquifer, which carries the calcium and magnesium that leave scale behind.` },
+  { name: "One company, start to finish", body: "Testing, installation, replacement, repair and maintenance with the same team, so nothing is handed off." },
+  { name: "Written estimate first", body: "You get a free estimate before any work begins, with no obligation to go ahead." },
+];
+
+const audiences = [
+  `Homeowners dealing with hard water in ${site.city}`,
+  "Families who want softer water for showers, laundry and dishes",
+  "Owners of an aging softener that needs repair or replacement",
+  "Rental and small commercial property owners",
+  `Homes outside the city limits in ${site.county} and the South Plains`,
+];
+
+const steps = [
+  { step: "Step 1", text: "Free estimate and a look at your water and plumbing" },
+  { step: "Step 2", text: "A system recommendation sized to your home" },
+  { step: "Step 3", text: "Professional installation, with the old unit removed on a replacement" },
+  { step: "Step 4", text: "Repair and maintenance support afterwards" },
+];
+
+const keyFacts = [
+  { label: "Company", value: site.businessName },
+  { label: "Type", value: `Water softener installation and service company in ${site.city}, ${site.stateAbbr}` },
+  { label: "Headquarters", value: `${site.city}, ${site.state}, USA` },
+  { label: "Website", value: site.domain },
+  { label: "Founded", value: fact(site.foundedYear, "year founded") },
+  { label: "Founder or team", value: fact(site.founderNames, "founder or team names") },
+  { label: "Services", value: "Softener installation, replacement, repair and maintenance, filtration, reverse osmosis, UV purification and water testing" },
+  { label: "Service area", value: `${site.city}, ${site.county} and nearby South Plains towns` },
+  { label: "Water treatment licence", value: marker("NEEDS DATA: TCEQ Water Treatment Specialist licence number") },
+  { label: "Customers served", value: fact(site.customersServed, "customers served") },
+  { label: "Pricing", value: "Free estimate first. Price ranges are on the cost guide." },
+];
+
+const faqs = [
+  {
+    q: `Do I need a water softener in ${site.city}?`,
+    a: `${site.city} water is hard, ${hardness}, and most of it is groundwater. Hard water leaves scale on fixtures and in appliances, so most homes here benefit from a softener.`,
+  },
+  {
+    q: "Should I choose a salt-based or a salt-free system?",
+    a: `A salt-based softener removes the hardness minerals, while a salt-free conditioner changes how scale forms. Our <a href="/water-softener-guides/salt-vs-salt-free-water-softener/">salt vs salt-free guide</a> compares them for ${site.city} water.`,
+  },
+  {
+    q: "How much does a water softener cost?",
+    a: `Cost depends on system size, type and the plumbing in your home. See the <a href="/water-softener-guides/water-softener-cost-lubbock-tx/">cost guide</a> or request a free estimate. ${marker("NEEDS DATA: confirmed price ranges")}`,
+  },
+  {
+    q: "Can you repair or replace the softener I already have?",
+    a: "Yes. We repair existing systems and replace ones that are past repairing, and we will tell you which makes more sense.",
+  },
+  {
+    q: `Do you serve towns outside ${site.city}?`,
+    a: `Yes. We serve ${site.city} and nearby South Plains communities. See the <a href="/service-areas/">service areas</a> page for the towns we cover.`,
+  },
+];
+
+const towns = [
+  { label: "Tech Terrace", href: "/water-softener-tech-terrace-tx/" },
+  { label: "Overton", href: "/water-softener-overton-tx/" },
+  { label: "Plainview", href: "/water-softener-plainview-tx/" },
+  { label: "Shallowater", href: "/water-softener-shallowater-tx/" },
+];
 ---
 
 <Layout
@@ -23,36 +120,179 @@ const fact = (value: string, label: string) => (isPlaceholder(value) ? `[NEEDS D
     breadcrumbs={[{ label: "About" }]}
     heading={`About ${site.businessName}`}
     primaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
-    secondaryCta={{ href: "#estimate", text: "Get a Free Estimate" }}
+    secondaryCta={{ href: "/contact/", text: "Get a Free Estimate" }}
   >
     <p slot="opening">
-      {site.businessName} installs, replaces and services water softeners and water treatment systems for homes
-      and businesses in {site.city}, {site.stateAbbr} and nearby South Plains towns.
+      <HomeLink variant="exact" />
+      {" "}installs, replaces and services water softeners and water treatment systems for homes and businesses
+      in {site.city}, {site.stateAbbr} and nearby South Plains towns.
     </p>
   </PageHero>
 
   <section class="section">
     <div class="container">
       <ContentProse>
-        <h2>Who We Are</h2>
         <p>
-          {site.businessName} serves {site.city} homeowners whose water comes from the Ogallala Aquifer and
-          nearby lakes. Our work covers softener installation and replacement, repair and maintenance, filtration,
-          reverse osmosis and water testing.
+          <a href="/" class="brand-link">{site.businessName} {site.stateAbbr}</a> provides water softener installation, replacement,
+          repair and maintenance for homes and businesses across {site.city} and {site.county}.
         </p>
-
-        <h2>Key Facts</h2>
-        <table>
-          <thead><tr><th>Fact</th><th>Detail</th></tr></thead>
-          <tbody>
-            <tr><td>Founder or team</td><td set:html={fact(site.founderNames, "founder or team names").replace(/\[(.*)\]/, '<mark class="data-gap">[$1]</mark>')} /></tr>
-            <tr><td>Year founded</td><td set:html={fact(site.foundedYear, "year founded").replace(/\[(.*)\]/, '<mark class="data-gap">[$1]</mark>')} /></tr>
-            <tr><td>Customers served</td><td set:html={fact(site.customersServed, "customers served").replace(/\[(.*)\]/, '<mark class="data-gap">[$1]</mark>')} /></tr>
-            <tr><td>Water treatment licence</td><td><mark class="data-gap">[NEEDS DATA: TCEQ Water Treatment Specialist licence number]</mark></td></tr>
-            <tr><td>Service area</td><td>{site.city}, {site.county} and nearby South Plains towns</td></tr>
-          </tbody>
-        </table>
+        <p>
+          {site.city}'s water comes mostly from the Ogallala Aquifer and is hard, <Fragment set:html={hardness} />.
+          The result is scale on fixtures, spotted glass, dry skin and appliances that work harder than they should.
+          We help {site.city} households fix that with a system chosen for their water.
+        </p>
       </ContentProse>
     </div>
   </section>
+
+  <section class="section" style="background: var(--color-surface);">
+    <div class="container">
+      <div class="section-header center">
+        <h2>What We Do | Water Softener {site.city} {site.stateAbbr} Services</h2>
+      </div>
+      <figure class="about-media">
+        <Image
+          src={teamImage}
+          alt={`Installed water softener system in a ${site.city} ${site.stateAbbr} garage`}
+          width={1200}
+          loading="lazy"
+        />
+      </figure>
+      <div class="grid grid-2">
+        {services.map((s) => (
+          <div class="card">
+            <h3>{s.name} {site.city} {site.stateAbbr}</h3>
+            <p>{s.body}</p>
+            <a class="service-learn-more" href={s.href}>Learn more →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header center">
+        <h2>What Sets {site.businessName} Apart</h2>
+      </div>
+      <div class="grid grid-2">
+        {differentiators.map((d) => (
+          <div class="card">
+            <h3>{d.name}</h3>
+            <p>{d.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="background: var(--color-surface);">
+    <div class="container">
+      <div class="section-header center">
+        <h2>Who We Serve</h2>
+      </div>
+      <ul class="about-audience-list">
+        {audiences.map((a) => <li>{a}</li>)}
+      </ul>
+      <div class="about-area-pills">
+        {towns.map((t) => <a class="about-area-pill" href={t.href}>{t.label}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header center">
+        <h2>How Our Water Softener Service Works</h2>
+      </div>
+      <div class="grid grid-2">
+        {steps.map((s) => (
+          <div class="card step-card">
+            <p class="card-title">{s.step}</p>
+            <p>{s.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="background: var(--color-surface);">
+    <div class="container">
+      <div class="section-header center">
+        <h2>Key Facts | Water Softener {site.city} {site.stateAbbr} Company</h2>
+      </div>
+      <table class="data-table">
+        <tbody>
+          {keyFacts.map((f) => (
+            <tr>
+              <td><strong>{f.label}</strong></td>
+              <td set:html={f.value} />
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header center">
+        <h2>Frequently Asked Questions | Water Softener {site.city} {site.stateAbbr}</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((item) => (
+          <details class="faq-item">
+            <summary>
+              {item.q}
+              <svg class="faq-chevron" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                <path d="M4 6.5 8 10.5 12 6.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </summary>
+            <p set:html={item.a} />
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark">
+    <div class="container final-cta">
+      <h2>Ready for softer water in {site.city}?</h2>
+      <p>Request a free, no-obligation estimate from {site.businessName}, or call us to talk through your home and your water.</p>
+      <a class="btn btn-primary" href="/contact/">Get in Touch →</a>
+    </div>
+  </section>
+
+  <style>
+    .final-cta { text-align: center; }
+    .final-cta p { max-width: 48ch; margin: 0 auto 24px; }
+    .about-media { margin: 0 0 32px; border-radius: var(--radius-brand); overflow: hidden; box-shadow: var(--shadow-card); }
+    .about-media :global(img) { display: block; width: 100%; height: auto; }
+    .about-audience-list {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 12px;
+    }
+    .about-audience-list li {
+      padding: 14px 18px;
+      background: var(--surface-elevated, #fff);
+      border-radius: 8px;
+      border: 1px solid var(--color-border, #e5e5e5);
+    }
+    .about-area-pills { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 24px; }
+    .about-area-pill {
+      padding: 8px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--color-border, #e5e5e5);
+      background: var(--surface-elevated, #fff);
+      color: var(--color-primary);
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .about-area-pill:hover { border-color: var(--color-accent); color: var(--color-accent-dark); }
+    .step-card { text-align: center; }
+  </style>
 </Layout>
