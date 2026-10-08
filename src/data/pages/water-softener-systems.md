@@ -7,7 +7,7 @@ slug: "/water-softener-systems/"
 pageType: "hub"
 parentSlug: "/"
 crumb: "Water Softener Systems"
-openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. <a href=\"/\">Lubbock Elite Water Softener</a> installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or <a href=\"#estimate\">request a free estimate</a> and a technician will recommend one."
+openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. <a href=\"/\">Lubbock Elite Water Softener</a> installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or request a free estimate and a technician will recommend one."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}]

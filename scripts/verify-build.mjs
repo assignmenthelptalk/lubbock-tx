@@ -71,6 +71,14 @@ for (const { route, html } of pages) {
     if (!anchors.some((a) => a.includes(BRAND))) errors.push(`${route}: no homepage link anchored on "${BRAND}"`);
   }
 
+  // Hero opening paragraph on content pages: at most one link, and never the estimate anchor.
+  if (!["/", "/thank-you/", "/about/", "/contact/"].includes(route)) {
+    const opening = (html.match(/<div class="page-hero-opening[^>]*>([\s\S]*?)<\/div>/) || [, ""])[1];
+    const openingLinks = [...opening.matchAll(/<a\b[^>]*\bhref="([^"]*)"/g)].map((m) => m[1]);
+    if (openingLinks.length > 1) errors.push(`${route}: ${openingLinks.length} links in the hero paragraph (expected at most 1): ${JSON.stringify(openingLinks)}`);
+    if (openingLinks.some((h) => h.includes("#estimate"))) errors.push(`${route}: hero paragraph still links to #estimate`);
+  }
+
   const gaps = (html.match(/class="data-gap"/g) || []).length;
   if (gaps) notes.push(`${route}: ${gaps} open marker(s)`);
 }

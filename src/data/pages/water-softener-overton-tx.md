@@ -7,7 +7,7 @@ slug: "/water-softener-overton-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Overton, TX"
-openingHtml: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums built in the 2000s. That mix means each home needs a softener planned around its own plumbing and utility space. Lubbock Elite Water Softener installs, replaces and services softeners across Overton as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will visit first."
+openingHtml: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums built in the 2000s. That mix means each home needs a softener planned around its own plumbing and utility space. Lubbock Elite Water Softener installs, replaces and services softeners across Overton as part of its <a href=\"/\">water softener Lubbock TX</a> service. Request a free estimate and a technician will visit first."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation"}]

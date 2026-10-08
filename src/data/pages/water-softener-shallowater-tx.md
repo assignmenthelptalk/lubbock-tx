@@ -7,7 +7,7 @@ slug: "/water-softener-shallowater-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Shallowater, TX"
-openingHtml: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the farms around it. Shallowater buys its drinking water from the Lubbock public water system, so homeowners deal with the same Ogallala Aquifer minerals as Lubbock. Lubbock Elite Water Softener serves Shallowater from its <a href=\"/\">water softener Lubbock TX</a> base. <a href=\"#estimate\">Request a free estimate</a> to get started."
+openingHtml: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the farms around it. Shallowater buys its drinking water from the Lubbock public water system, so homeowners deal with the same Ogallala Aquifer minerals as Lubbock. Lubbock Elite Water Softener serves Shallowater from its <a href=\"/\">water softener Lubbock TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation"}]

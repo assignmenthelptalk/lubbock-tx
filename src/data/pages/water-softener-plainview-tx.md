@@ -7,7 +7,7 @@ slug: "/water-softener-plainview-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Plainview, TX"
-openingHtml: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale County. Plainview's water is a blend of lake water and Ogallala Aquifer wells, so the hardness at your tap can shift with the mix. Lubbock Elite Water Softener serves Plainview from its <a href=\"/\">water softener Lubbock TX</a> base. <a href=\"#estimate\">Request a free estimate</a> and we will test your water first."
+openingHtml: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale County. Plainview's water is a blend of lake water and Ogallala Aquifer wells, so the hardness at your tap can shift with the mix. Lubbock Elite Water Softener serves Plainview from its <a href=\"/\">water softener Lubbock TX</a> base. Request a free estimate and we will test your water first."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation"}]

@@ -7,7 +7,7 @@ slug: "/water-softener-tech-terrace-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Tech Terrace, TX"
-openingHtml: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University. Older homes mean older plumbing, and Lubbock's hard city water adds scale on top of that. Lubbock Elite Water Softener installs, replaces and services softeners across Tech Terrace as part of its <a href=\"/\">water softener Lubbock TX</a> service. <a href=\"#estimate\">Request a free estimate</a> and a technician will check your plumbing and your water."
+openingHtml: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University. Older homes mean older plumbing, and Lubbock's hard city water adds scale on top of that. Lubbock Elite Water Softener installs, replaces and services softeners across Tech Terrace as part of its <a href=\"/\">water softener Lubbock TX</a> service. Request a free estimate and a technician will check your plumbing and your water."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-tech-terrace-tx.webp","alt":"Water softener Tech Terrace TX older home utility room installation"}]

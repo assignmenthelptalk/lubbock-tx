@@ -7,7 +7,7 @@ slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Installation"
-openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. <a href=\"#estimate\">Request a free estimate</a> and a technician will recommend a system for your home."
+openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. Request a free estimate and a technician will recommend a system for your home."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram"}]

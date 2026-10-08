@@ -179,6 +179,9 @@ for (const file of files) {
     }
   } else {
     body = body.replace(/\(\/#estimate\)/g, "(#estimate)");
+    // The hero opening paragraph keeps a single link (the homepage backlink); the
+    // "Request a free estimate" sentence stays as text and the hero buttons carry the CTA.
+    openingMd = openingMd.replace(/\[([^\]]+)\]\(\/#estimate\)/g, "$1");
     ({ openingMd, body } = applyHomeBacklinks({ slug, type: typeBySlug.get(slug) || "page", h1, openingMd, body }));
   }
 

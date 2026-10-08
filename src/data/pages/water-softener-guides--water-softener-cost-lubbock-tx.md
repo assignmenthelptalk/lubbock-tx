@@ -7,7 +7,7 @@ slug: "/water-softener-guides/water-softener-cost-lubbock-tx/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
 crumb: "How Much Does a Water Softener Cost in Lubbock, TX?"
-openingHtml: "The cost of a water softener in Lubbock, TX depends on the system type, its capacity and what the installation involves, so two homes can pay very different amounts for the same result. This guide shows what drives the price, what running a softener costs and how to compare quotes fairly. For an itemized price on your home, <a href=\"#estimate\">request a free estimate from our water softener Lubbock TX team</a>."
+openingHtml: "The cost of a water softener in Lubbock, TX depends on the system type, its capacity and what the installation involves, so two homes can pay very different amounts for the same result. This guide shows what drives the price, what running a softener costs and how to compare quotes fairly. For an itemized price on your home, request a free estimate from our water softener Lubbock TX team."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-softener-cost-lubbock-tx.webp","alt":"Water softener cost Lubbock TX installed softener and itemized quote"}]

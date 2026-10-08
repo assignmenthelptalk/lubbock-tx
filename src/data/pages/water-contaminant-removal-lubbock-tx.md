@@ -7,7 +7,7 @@ slug: "/water-contaminant-removal-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Contaminant Removal"
-openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. <a href=\"/\">Lubbock Elite Water Softener</a> starts with a water test, then recommends the filter that targets what the test finds. <a href=\"#estimate\">Request a free estimate</a> and a technician will explain your options."
+openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. <a href=\"/\">Lubbock Elite Water Softener</a> starts with a water test, then recommends the filter that targets what the test finds. Request a free estimate and a technician will explain your options."
 formHeading: ""
 formIntro: ""
 images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}]
