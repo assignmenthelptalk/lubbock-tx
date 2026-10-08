@@ -52,7 +52,7 @@ next import overwrites them.
   enforces it. The source copy in Local-SEO-Toolkit is left as written.
 - Unresolved facts render as yellow `[NEEDS DATA]` / `[VERIFY]` highlights on
   every page. Do not launch while any remain.
-- Images: pages reference WebP placeholders in their frontmatter (`images`),
+- Images: `IMAGE-PROMPTS.md` has a ready-to-paste prompt for each of the 31 photos (plus 3 images to build in code). Pages reference WebP placeholders in their frontmatter (`images`),
   but no image tags are rendered yet.
 
 ## Before launch (see LAUNCH-CHECKLIST.md)

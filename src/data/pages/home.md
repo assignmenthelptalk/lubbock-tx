@@ -10,7 +10,7 @@ crumb: "Lubbock Elite Water Softener | Water Softener Installation & System Expe
 openingHtml: "Lubbock's water softener problem starts at the source: roughly 60 to 70 percent of the city's water is pumped from the Ogallala Aquifer, and that groundwater carries calcium and magnesium that leave scale on pipes, fixtures and appliances. Lubbock Elite Water Softener installs, replaces and services water softener systems for homeowners in Lubbock and the surrounding West Texas towns. Request a free estimate and a technician will recommend the right system for your home and your water."
 formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
-images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"},{"file":"water-softener-installation-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage"},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX"},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram"}]
+images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"},{"file":"installed-softener-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage"},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX"},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram"}]
 markerCount: 12
 ---
 
