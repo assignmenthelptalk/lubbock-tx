@@ -57,7 +57,7 @@ const trustSignals = ["Free Consultation", "No obligation", `Local ${site.city} 
         <textarea
           id="qf-message"
           name="message"
-          rows="3"
+          rows="2"
           placeholder={`Describe the ${site.city} water softener service you need..`}
           aria-label="Describe the service you need"
         ></textarea>
@@ -259,6 +259,25 @@ const trustSignals = ["Free Consultation", "No obligation", `Local ${site.city} 
     gap: 8px;
     text-transform: uppercase;
     letter-spacing: 0.04em;
+  }
+
+  /* ---- Compact variant, shortened so the whole card fits above the fold ---- */
+  .quote-form.compact { padding: 18px 20px 16px; }
+  .quote-form.compact h3 { font-size: 1.1rem; margin-bottom: 12px; }
+  .quote-form.compact .form-field-compact { margin-bottom: 9px; }
+  .quote-form.compact .form-field-compact input,
+  .quote-form.compact .form-field-compact textarea {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+  .quote-form.compact .form-field-compact textarea { min-height: 62px; }
+  .quote-form.compact .form-submit-compact { padding: 11px 0; font-size: 1rem; }
+  .quote-form.compact .form-not-configured {
+    padding: 6px 10px;
+    margin: 8px 0 0;
+    font-size: 0.7rem;
+    line-height: 1.35;
   }
 
   .form-not-configured {
