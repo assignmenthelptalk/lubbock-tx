@@ -1,5 +1,7 @@
 ---
 import { SEO } from "astro-seo";
+import { Image } from "astro:assets";
+import logo from "../assets/logo.png";
 import { site } from "../lib/site";
 import "../styles/global.css";
 import "../styles/tailwind.css";
@@ -45,7 +47,7 @@ const footerNavLinks = [
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <!-- Loaded as a <link>, not @import, so it fetches in parallel with the
          rest of head instead of blocking on global.css first. 700 added
          alongside the requested 400/500/600 because several UI elements
@@ -88,18 +90,15 @@ const footerNavLinks = [
     <header class="site-header">
       <div class="container site-header-inner">
         <a class="logo" href="/" aria-label={`${site.businessName} home`}>
-          <svg class="logo-mark" width="48" height="48" viewBox="0 0 64 64" aria-hidden="true">
-            <circle cx="32" cy="32" r="28" fill="#FFFFFF" stroke="var(--color-primary)" stroke-width="5" />
-            <path d="M32 11C32 11 21.5 24.5 21.5 33C21.5 38.8 26.2 43.5 32 43.5C37.8 43.5 42.5 38.8 42.5 33C42.5 24.5 32 11 32 11Z" fill="var(--color-primary)" />
-            <path d="M27 33.5C27 36.4 28.8 38.6 31.2 39.2" fill="none" stroke="var(--color-primary-light)" stroke-width="2.4" stroke-linecap="round" />
-            <path d="M2 43C13 34.5 24 36 33 41.5C42 47 53 46 62 37C60.5 45 52 54 41 53C33 52.5 28 47.5 21 47.5C14 47.5 8 49.5 2 43Z" fill="var(--color-accent)" />
-            <path d="M5 49C14 44 22 45.5 30 50C38 54.5 50 55 59 47" fill="none" stroke="var(--color-primary)" stroke-width="3" stroke-linecap="round" />
-          </svg>
-          <span class="logo-text" aria-hidden="true">
-            {site.businessName.split(" ").map((word) => (
-              <span class="logo-line">{word}</span>
-            ))}
-          </span>
+          <Image
+            src={logo}
+            alt={site.businessName}
+            height={108}
+            format="webp"
+            quality="high"
+            loading="eager"
+            class="logo-img"
+          />
         </a>
 
         {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
@@ -254,7 +253,7 @@ const footerNavLinks = [
         align-items: center;
         justify-content: space-between;
         gap: 24px;
-        padding-block: 16px;
+        padding-block: 10px;
         position: relative;
       }
       .logo {
@@ -266,6 +265,7 @@ const footerNavLinks = [
       }
       .logo { display: inline-flex; align-items: center; gap: 10px; }
       .logo-mark { flex-shrink: 0; }
+      .logo :global(.logo-img) { display: block; height: 60px; width: auto; }
       .logo-text { display: flex; flex-direction: column; line-height: 1; }
       .logo-line { font-family: var(--font-body); font-weight: 800; font-size: 0.95rem; line-height: 1.12; letter-spacing: 0.04em; text-transform: uppercase; }
       .logo:hover { color: var(--color-accent); }
@@ -451,6 +451,7 @@ const footerNavLinks = [
       .nav-toggle:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 2px; }
 
       @media (max-width: 860px) {
+        .logo :global(.logo-img) { height: 46px; }
         .nav-toggle { display: inline-flex; order: 3; }
         .site-header-inner { flex-wrap: wrap; }
 
