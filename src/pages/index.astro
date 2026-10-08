@@ -1,45 +1,72 @@
 ---
 /**
- * Homepage. Section order follows the owner's spec: header, hero, lead form,
- * why choose us, core services, hard water problem, how it works, FAQ,
- * service areas, footer. Copy comes from src/data/pages/home.md. Body copy
- * contains no links to service, guide or location pages (navigation and
- * footer only).
+ * Homepage. Hero follows the Henderson site's pattern: full-bleed photo,
+ * dark overlay, content on the left, compact quote form on the right.
+ * The form lives in the hero (anchor #estimate), so the separate lead-form
+ * section from the original spec was folded into it.
+ *
+ * Copy comes from src/data/pages/home.md. Body copy contains no links to
+ * service, guide or location pages (navigation and footer only).
+ *
+ * PLACEHOLDER: the hero photo is a placehold.co image until a real Lubbock
+ * photo is added. Replace HERO_PLACEHOLDER with an import from src/assets.
  */
+import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
-import PageHero from "../components/PageHero.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
 import LocalSchema from "../components/LocalSchema.astro";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
+
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+const HERO_PLACEHOLDER =
+  "https://placehold.co/1376x768/12293F/FFFFFF.png?text=Hero+photo+placeholder";
+const badges = ["✓ Free Estimate", "✓ No Obligation", "✓ Lubbock, TX and the South Plains"];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
   <LocalSchema />
 
-  <PageHero
-    showForm={false}
-    heading={fm.title}
-    primaryCta={{ href: "#estimate", text: "Get a Free Estimate" }}
-    secondaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
-  >
-    <p slot="opening" set:html={fm.openingHtml} />
-  </PageHero>
+  <!-- 1. HERO: full-bleed image, content left, quote form right -->
+  <section class="hero-section">
+    <Image
+      src={HERO_PLACEHOLDER}
+      alt={`Professional water softener installation and service in ${site.city}, ${site.stateAbbr}`}
+      width={1376}
+      height={768}
+      format="webp"
+      quality="mid"
+      loading="eager"
+      class="hero-bg"
+    />
+    <div class="hero-overlay" aria-hidden="true"></div>
 
-  <section class="section form-section" id="estimate">
-    <div class="container form-section-inner">
-      <div class="form-section-copy">
-        <h2>{fm.formHeading}</h2>
-        <p>{fm.formIntro}</p>
+    <div class="hero-inner">
+      <div class="hero-content">
+        <div class="hero-badges">
+          {badges.map((badge) => <span class="hero-badge">{badge}</span>)}
+        </div>
+
+        <h1 class="hero-h1">{fm.title}</h1>
+
+        <p class="hero-p" set:html={fm.openingHtml} />
+
+        <a href={telHref} class="hero-phone-btn">
+          <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M3.5 1.5h2.2l1 3-1.6 1.2a9 9 0 0 0 4.2 4.2l1.2-1.6 3 1v2.2c0 .8-.7 1.4-1.4 1.3C7 12.4 3.6 9 3.2 3.9c-.1-.7.5-1.4 1.3-1.4Z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" />
+          </svg>
+          {site.phoneNumber}
+        </a>
       </div>
-      <div class="form-section-form">
-        <QuoteForm heading="Request Your Free Estimate" compact />
+
+      <div class="hero-form-card" id="estimate">
+        <QuoteForm heading="Get a Free Estimate" compact />
       </div>
     </div>
   </section>
 
+  <!-- 2 to 9. Page copy: why choose us, services, hard water, process, FAQ, areas -->
   <section class="section">
     <div class="container">
       <ContentProse>
@@ -49,16 +76,130 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
   </section>
 
   <style>
-    .form-section { background: var(--surface-elevated); }
-    .form-section-inner {
+    /* ---------- Hero: full-bleed image, split layout ---------- */
+    .hero-section {
+      position: relative;
+      min-height: 640px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .hero-section :global(.hero-bg) {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 0;
+    }
+
+    /* Darker on the left where the text sits, lighter toward the form */
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to right,
+        rgba(12, 29, 46, 0.86) 0%,
+        rgba(12, 29, 46, 0.76) 50%,
+        rgba(12, 29, 46, 0.5) 100%
+      );
+      z-index: 1;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 2;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 80px 24px;
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 400px;
       gap: 48px;
       align-items: center;
+      width: 100%;
     }
-    .form-section-copy p { color: var(--color-text-muted); max-width: 46ch; }
-    @media (max-width: 800px) {
-      .form-section-inner { grid-template-columns: 1fr; gap: 24px; }
+
+    .hero-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .hero-badge {
+      font-family: var(--font-body);
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(255, 255, 255, 0.85);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: var(--radius-sm);
+      padding: 4px 10px;
+      letter-spacing: 0.02em;
+    }
+
+    .hero-h1 {
+      font-family: var(--font-heading);
+      font-size: clamp(30px, 4.6vw, 50px);
+      color: #ffffff;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 20px;
+    }
+
+    .hero-p {
+      font-family: var(--font-body);
+      font-size: 15.5px;
+      color: rgba(255, 255, 255, 0.86);
+      line-height: 1.75;
+      margin-bottom: 20px;
+      max-width: 560px;
+    }
+    .hero-p :global(a) {
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .hero-p :global(a:hover) { color: var(--color-accent-light); }
+    .hero-p :global(a:focus-visible) { outline: 3px solid #ffffff; outline-offset: 2px; border-radius: 2px; }
+
+    .hero-phone-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 8px;
+      padding: 14px 28px;
+      background: var(--color-accent);
+      color: #ffffff;
+      border-radius: var(--radius-md);
+      font-family: var(--font-body);
+      font-size: 18px;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 2px 12px rgba(232, 119, 34, 0.35);
+      transition: background-color 150ms ease, transform 150ms ease, box-shadow 150ms ease;
+    }
+    .hero-phone-btn:hover {
+      color: #ffffff;
+      background: var(--color-accent-dark);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(232, 119, 34, 0.45);
+    }
+    .hero-phone-btn:focus-visible { outline: 3px solid #ffffff; outline-offset: 3px; }
+    .hero-phone-btn:active { transform: scale(0.98); }
+
+    /* The card chrome lives on QuoteForm's own compact styles */
+    .hero-form-card { align-self: start; scroll-margin-top: 96px; }
+
+    @media (max-width: 900px) {
+      .hero-section { min-height: auto; }
+      .hero-inner {
+        grid-template-columns: 1fr;
+        padding: 48px 20px;
+        gap: 32px;
+      }
+      .hero-overlay { background: rgba(12, 29, 46, 0.82); }
     }
   </style>
 </Layout>

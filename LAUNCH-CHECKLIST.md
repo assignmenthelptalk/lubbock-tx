@@ -9,7 +9,8 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Confirm the exact Lubbock hardness figure (169 vs 192 mg/L conflict) and update gpgLow/gpgHigh
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
-- [ ] Replace image placeholders with real WebP photos (alt text is stored in each page's frontmatter)
+- [ ] Replace the homepage hero placeholder (placehold.co, see HERO_PLACEHOLDER in src/pages/index.astro) with a real Lubbock photo in src/assets
+- [ ] Replace other image placeholders with real WebP photos (alt text is stored in each page's frontmatter)
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Decide on Idalou and write the remaining nine town pages (see Local-SEO-Toolkit reports)
 
