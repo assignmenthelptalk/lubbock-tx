@@ -1,7 +1,7 @@
-# lubbockpurewatersoftener
+# lubbockelitewatersoftener
 
 Rank-and-rent lead-generation site for **Lubbock Elite Water Softener**
-(lubbockpurewatersoftener.com, target keyword "water softener lubbock tx").
+(lubbockelitewatersoftener.com, target keyword "water softener lubbock tx").
 Astro 7 static site built from `water-softener-boilerplate`.
 
 **Status: local build and preview only. Not pushed, not deployed.**
@@ -21,7 +21,7 @@ npm run verify         # structural checks on dist/ (run after build)
 
 | What | Where |
 |---|---|
-| Strategy, briefs, written copy (source of truth) | `C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockpurewatersoftener/` |
+| Strategy, briefs, written copy (source of truth) | `C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockelitewatersoftener/` |
 | Imported pages (generated, do not hand-edit) | `src/data/pages/*.md` |
 | Navigation data (generated) | `src/data/nav.json` |
 | Site identity, colors, phone, email | `src/site.config.ts` |

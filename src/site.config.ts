@@ -271,11 +271,11 @@ export interface SiteConfig {
 
 // Declared separately so siteUrl below can derive from it without
 // duplicating the literal.
-const domain = "lubbockpurewatersoftener.com";
+const domain = "lubbockelitewatersoftener.com";
 
 /**
  * Lubbock Elite Water Softener. Data sources and open items:
- * Local-SEO-Toolkit/data/lubbockpurewatersoftener/reports/research-facts.md
+ * Local-SEO-Toolkit/data/lubbockelitewatersoftener/reports/research-facts.md
  * Values marked NEEDS_DATA or VERIFY are unconfirmed and must be resolved
  * before launch (see LAUNCH-CHECKLIST.md).
  */

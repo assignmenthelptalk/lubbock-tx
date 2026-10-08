@@ -19,7 +19,7 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..");
 const SOURCE =
   process.env.CONTENT_SOURCE ||
-  "C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockpurewatersoftener";
+  "C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockelitewatersoftener";
 const OUT_PAGES = path.join(root, "src", "data", "pages");
 const OUT_NAV = path.join(root, "src", "data", "nav.json");
 const OUT_CHECKLIST = path.join(root, "LAUNCH-CHECKLIST.md");
