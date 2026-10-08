@@ -1,0 +1,64 @@
+---
+/**
+ * Homepage. Section order follows the owner's spec: header, hero, lead form,
+ * why choose us, core services, hard water problem, how it works, FAQ,
+ * service areas, footer. Copy comes from src/data/pages/home.md. Body copy
+ * contains no links to service, guide or location pages (navigation and
+ * footer only).
+ */
+import Layout from "../components/Layout.astro";
+import PageHero from "../components/PageHero.astro";
+import QuoteForm from "../components/QuoteForm.astro";
+import ContentProse from "../components/ContentProse.astro";
+import LocalSchema from "../components/LocalSchema.astro";
+import { site } from "../lib/site";
+import { Content, frontmatter as fm } from "../data/pages/home.md";
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+---
+
+<Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
+  <LocalSchema />
+
+  <PageHero
+    showForm={false}
+    heading={fm.title}
+    primaryCta={{ href: "#estimate", text: "Get a Free Estimate" }}
+    secondaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
+  >
+    <p slot="opening" set:html={fm.openingHtml} />
+  </PageHero>
+
+  <section class="section form-section" id="estimate">
+    <div class="container form-section-inner">
+      <div class="form-section-copy">
+        <h2>{fm.formHeading}</h2>
+        <p>{fm.formIntro}</p>
+      </div>
+      <div class="form-section-form">
+        <QuoteForm heading="Request Your Free Estimate" compact />
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <ContentProse>
+        <Content />
+      </ContentProse>
+    </div>
+  </section>
+
+  <style>
+    .form-section { background: var(--surface-elevated); }
+    .form-section-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px;
+      align-items: center;
+    }
+    .form-section-copy p { color: var(--color-text-muted); max-width: 46ch; }
+    @media (max-width: 800px) {
+      .form-section-inner { grid-template-columns: 1fr; gap: 24px; }
+    }
+  </style>
+</Layout>
