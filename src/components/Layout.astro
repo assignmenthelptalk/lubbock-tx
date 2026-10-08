@@ -22,11 +22,15 @@ const { title, fullTitle, description = site.metaDescription, noindex = false } 
 const canonical = new URL(Astro.url.pathname, site.siteUrl).toString();
 
 // Navigation is generated from the topical map (npm run import-content).
-// Services dropdown: one column per hub, hub link first, then its services.
+// Two dropdowns, one per hub: "Services" (softener systems) and "Other Services"
+// (treatment, filtration, purification, testing). Hub link first, then its services.
 const serviceGroups = nav.hubs.map((hub) => ({
   hub,
   items: nav.services.filter((service) => service.parent === hub.href),
 }));
+
+// Menu names, in hub order: softener pages first, everything else second.
+const menuLabels = ["Services", "Other Services"];
 
 // Owner instruction: copyright year is fixed at 2025.
 const copyrightYear = 2025;
@@ -129,21 +133,19 @@ const footerNavLinks = [
           <ul>
             <li><a href="/">Home</a></li>
 
-            <li class="nav-has-dropdown">
-              <button type="button" class="nav-has-dropdown-btn" aria-haspopup="true">
-                Services
-              </button>
-              <div class="nav-dropdown nav-dropdown-wide">
-                {serviceGroups.map((group) => (
-                  <div class="nav-group">
-                    <a class="nav-group-title" href={group.hub.href}>{group.hub.label}</a>
-                    {group.items.map((item) => (
-                      <a href={item.href}>{item.label}</a>
-                    ))}
-                  </div>
-                ))}
-              </div>
-            </li>
+            {serviceGroups.map((group, index) => (
+              <li class="nav-has-dropdown">
+                <button type="button" class="nav-has-dropdown-btn" aria-haspopup="true">
+                  {menuLabels[index]}
+                </button>
+                <div class={index === serviceGroups.length - 1 ? "nav-dropdown nav-dropdown-right" : "nav-dropdown"}>
+                  <a class="nav-group-title" href={group.hub.href}>{group.hub.label}</a>
+                  {group.items.map((item) => (
+                    <a href={item.href}>{item.label}</a>
+                  ))}
+                </div>
+              </li>
+            ))}
 
             <li><a href="/about/">About</a></li>
             <li><a class="nav-contact-btn" href="/contact/">Contact</a></li>
@@ -385,17 +387,8 @@ const footerNavLinks = [
         .header-phone { padding: 10px 12px; }
       }
 
-      /* Services mega-dropdown: one column per hub */
-      .nav-has-dropdown .nav-dropdown.nav-dropdown-wide {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(250px, 1fr));
-        gap: 4px 20px;
-        min-width: 560px;
-        padding: 12px 8px;
-        left: auto;
-        right: -120px;
-      }
-      .nav-dropdown-wide a { white-space: normal; }
+      /* The last menu opens toward the left so it never runs off the right edge */
+      .nav-has-dropdown .nav-dropdown.nav-dropdown-right { left: auto; right: 0; }
       .nav-group { display: flex; flex-direction: column; }
       .nav-dropdown a.nav-group-title {
         font-weight: 700;
@@ -491,7 +484,7 @@ const footerNavLinks = [
           min-width: 0;
         }
         .nav-dropdown a { color: var(--color-text-muted); padding: 8px 4px; }
-        .nav-has-dropdown .nav-dropdown.nav-dropdown-wide { grid-template-columns: 1fr; min-width: 0; padding: 0 0 4px 16px; right: auto; }
+        .nav-has-dropdown .nav-dropdown.nav-dropdown-right { right: auto; }
 
         /* Contact — full-width button at the bottom of the mobile list */
         a.nav-contact-btn { display: block; width: 100%; text-align: center; margin-top: 8px; }
