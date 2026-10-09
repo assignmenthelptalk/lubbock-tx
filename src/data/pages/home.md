@@ -19,7 +19,7 @@ markerCount: 9
 
 Homeowners choose a water softener company on five things: who does the work, how the system is backed, how fast help arrives, whether the installer knows local water, and what happens if the result disappoints. Here is how Lubbock Elite Water Softener answers each one.
 
-- **Experience:** <mark class="data-gap">[NEEDS DATA: years in business and number of systems installed]</mark>. Every installation follows the same sizing and setup process.
+- **Experience:** Our founder has 14 years of experience. <mark class="data-gap">[NEEDS DATA: number of systems installed]</mark>. Every installation follows the same sizing and setup process.
 - **Warranty:** Systems and workmanship are backed by a written warranty. <mark class="data-gap">[NEEDS DATA: warranty length and terms]</mark>
 - **Licensed technicians:** Installations are performed by TCEQ-licensed water treatment specialists. <mark class="data-gap">[NEEDS DATA: licence number and insurance details]</mark>
 - **Local West Texas expertise:** Our technicians work with Ogallala Aquifer groundwater and the blended city supply every week, so they size systems for the water that actually comes out of Lubbock taps.

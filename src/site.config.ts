@@ -323,7 +323,7 @@ export const siteConfig: SiteConfig = {
   siteUrl: `https://${domain}`,
 
   // About page facts: placeholders until the operator confirms
-  founderNames: "FOUNDER_NAMES",
+  founderNames: "Marwin Eberhard",
   foundedYear: "FOUNDED_YEAR",
   customersServed: "CUSTOMERS_SERVED",
   projectsDelivered: "PROJECTS_DELIVERED",

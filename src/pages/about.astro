@@ -16,11 +16,13 @@ import ContentProse from "../components/ContentProse.astro";
 import whatWeDoImage from "../assets/images/installed-softener-lubbock-tx.webp";
 import differentImage from "../assets/images/water-softener-installation-lubbock-tx.webp";
 import audienceImage from "../assets/images/hard-water-lubbock-tx.webp";
-import teamImage from "../assets/images/water-softener-maintenance-lubbock-tx.webp";
+import founderImage from "../assets/images/founder-marwin-eberhard.webp";
 import faqImage from "../assets/images/signs-you-need-a-new-water-softener-lubbock-tx.webp";
 import { site } from "../lib/site";
 
-const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+const FOUNDER_YEARS = 14; // supplied by the owner
+
+const telHref =`tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const isPlaceholder = (value: string) => /^[A-Z0-9_]+$/.test(value);
 const marker = (text: string) => `<mark class="data-gap">[${text}]</mark>`;
 const fact = (value: string, label: string) => (isPlaceholder(value) ? marker(`NEEDS DATA: ${label}`) : value);
@@ -84,6 +86,7 @@ const keyFacts = [
   { label: "Type", value: `Water softener installation and service company in ${site.city}, ${site.stateAbbr}` },
   { label: "Founded", value: fact(site.foundedYear, "year founded") },
   { label: "Founder", value: fact(site.founderNames, "founder or team names") },
+  { label: "Founder Experience", value: `${FOUNDER_YEARS} years` },
   { label: "Headquarters", value: `${site.city}, ${site.state}, USA` },
   { label: "Website", value: site.domain },
   { label: "Core Offering", value: `Water softener ${site.city} ${site.stateAbbr} installation and service` },
@@ -199,13 +202,14 @@ const faqs = [
       <div class="section-header center">
         <h2>The Team Behind {site.businessName}</h2>
       </div>
-      <figure class="about-media">
-        <Image src={teamImage} alt={`Water softener maintenance check in ${site.city} ${site.stateAbbr}`} width={1200} loading="lazy" />
+      <figure class="about-founder">
+        <Image src={founderImage} alt={`${site.founderNames}, founder of ${site.businessName}`} width={300} height={300} loading="lazy" />
+        <figcaption><strong>{site.founderNames}</strong><br />Founder, {FOUNDER_YEARS} years of experience</figcaption>
       </figure>
       <ContentProse>
         <p>
           {site.businessName} was founded by <Fragment set:html={fact(site.founderNames, "founder or team names")} />,
-          specialists in plumbing and water treatment systems. <Fragment set:html={marker("NEEDS DATA: confirm background and experience")} />
+          who brings {FOUNDER_YEARS} years of experience to every job. <Fragment set:html={marker("NEEDS DATA: confirm what that experience covers, for example plumbing or water treatment")} />
         </p>
         <p>
           The team is built around one job: sizing, installing and servicing water softeners for {site.city} homes and
@@ -298,6 +302,16 @@ const faqs = [
     .final-cta p { max-width: 48ch; margin: 0 auto 24px; }
     .about-media { margin: 0 0 32px; border-radius: var(--radius-brand); overflow: hidden; box-shadow: var(--shadow-card); }
     .about-media :global(img) { display: block; width: 100%; height: auto; }
+    .about-founder { text-align: center; margin: 0 auto 28px; }
+    .about-founder :global(img) {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin: 0 auto 12px;
+      box-shadow: var(--shadow-card);
+    }
+    .about-founder figcaption { color: var(--color-text); line-height: 1.5; }
     .about-audience-list {
       max-width: 640px;
       margin: 0 auto;

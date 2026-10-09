@@ -23,7 +23,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 ### /
 - Meta description: final
 - Open markers: 9
-  - [NEEDS DATA: years in business and number of systems installed]
+  - [NEEDS DATA: number of systems installed]
   - [NEEDS DATA: warranty length and terms]
   - [NEEDS DATA: licence number and insurance details]
   - [NEEDS DATA: confirm same-day policy]
