@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}
 images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true}]
-markerCount: 6
+markerCount: 5
 ---
 
 ### Water Softener Resin Cleaning Service
@@ -29,11 +29,11 @@ The brine tank collects sludge from impurities in salt over time, and sludge can
 
 ### Annual Maintenance Plans
 
-An annual maintenance plan covers a scheduled inspection of the resin, control valve, injector, brine system and settings, along with cleaning. Regular service extends the life of the unit and spots small problems before they become repairs. <mark class="data-gap">[NEEDS DATA: plan terms, visit frequency and price]</mark>
+An annual maintenance plan covers a scheduled inspection of the resin, control valve, injector, brine system and settings, along with cleaning. Regular service extends the life of the unit and spots small problems before they become repairs. An annual service visit typically costs $150 to $250, including sanitization, a valve check and a tune-up; salt delivery is extra. <mark class="data-gap">[NEEDS DATA: plan terms and visit frequency]</mark>
 
 ### How Often Should You Service a Softener in Lubbock?
 
-Service a softener once a year, check salt monthly and clean the brine tank annually. Heavier hardness or iron in the water shortens those intervals. Lubbock water is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Service a softener once a year, check salt monthly and clean the brine tank annually. Heavier hardness or iron in the water shortens those intervals. Lubbock water is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 > **Not a good fit if...** your unit leaks, never regenerates or shows repeated error codes. That is a repair job, not maintenance. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 

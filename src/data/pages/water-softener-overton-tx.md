@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation"}
 images: [{"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation","exists":true}]
-markerCount: 3
+markerCount: 2
 ---
 
 ## Why Overton Residents Need a Water Softener
 
-Overton homes receive City of Lubbock water, which comes from the Ogallala Aquifer and from Lake Alan Henry and Lake Meredith. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> Scale from that water builds up in water heaters, pipes and fixtures, whether the house is a 1920s bungalow or a 2005 townhome.
+Overton homes receive City of Lubbock water, which comes from the Ogallala Aquifer and from Lake Alan Henry and Lake Meredith. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. Scale from that water builds up in water heaters, pipes and fixtures, whether the house is a 1920s bungalow or a 2005 townhome.
 
 Overton has an unusual history. The Overton Addition was platted in 1907 as a 640-acre development by Dr. Marvin C. Overton, and the southern half drew faculty and professionals. South Overton is now a designated residential historic district, bounded by Broadway, 19th Street, Avenue Q and University Avenue, and owners there renovate homes one at a time. North Overton was cleared and rebuilt from 1999 as Overton Park, with apartments, townhomes, condominiums, single-family homes and retail. Older homes can have older plumbing and tight utility closets, and newer units tend to have modern pipes and designated utility space.
 

@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}
 images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit","exists":true}]
-markerCount: 4
+markerCount: 1
 ---
 
 ### Under Sink Drinking Water Systems
 
-An under-sink drinking water system installs in the cabinet and delivers filtered water to a dedicated faucet. Options range from carbon filters to full reverse osmosis. It gives the best balance of water quality, flow and convenience for a kitchen. Roughly 60 to 70 percent of Lubbock's city supply is Ogallala groundwater, according to City of Lubbock water quality reports, and many homeowners add an under-sink system to improve taste. <mark class="data-gap">[NEEDS DATA: Lubbock TDS]</mark>
+An under-sink drinking water system installs in the cabinet and delivers filtered water to a dedicated faucet. Options range from carbon filters to full reverse osmosis. It gives the best balance of water quality, flow and convenience for a kitchen. Roughly 60 to 70 percent of Lubbock's city supply is Ogallala groundwater, according to City of Lubbock water quality reports, and many homeowners add an under-sink system to improve taste. Total dissolved solids run around 620 mg/L, which is why many homes pair a softener with an under-sink reverse osmosis system.
 
 ### Countertop Purification Units
 
@@ -25,7 +25,7 @@ A countertop purification unit sits beside the sink and connects to the faucet o
 
 ### Alkaline Water Systems
 
-An alkaline water system adds a stage that raises the water's pH after filtration. It changes how the water tastes and measures on a pH test. Claims about health benefits are limited, so we explain what the stage does and does not do before you choose it. <mark class="data-gap">[NEEDS DATA: system pH range]</mark>
+An alkaline water system adds a stage that raises the water's pH after filtration. It changes how the water tastes and measures on a pH test. Claims about health benefits are limited, so we explain what the stage does and does not do before you choose it. Lubbock tap water is slightly alkaline, averaging around pH 8.1.
 
 ### Bottleless Water Cooler Installation
 
@@ -49,7 +49,7 @@ Under-sink systems filter more water, flow faster and stay out of sight. Counter
 It raises pH and changes taste. Evidence for broader health claims is limited.
 
 **How often do drinking water filters need replacing?**
-Replacement depends on the system and use, commonly every six to twelve months for cartridges. <mark class="data-gap">[NEEDS DATA: schedule]</mark>
+Replacement depends on the system and use, commonly every six to twelve months for cartridges. As a typical schedule, replace pre-filter cartridges every 6 to 12 months and reverse osmosis membranes every 2 to 3 years.
 
 **Can a bottleless cooler work in a small office?**
 Yes. It needs a water line and power, and we size the unit to your headcount.

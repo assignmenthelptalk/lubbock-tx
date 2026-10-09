@@ -12,7 +12,7 @@ formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
 leadImage: {"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"}
 images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home","exists":true},{"file":"installed-softener-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage","exists":true},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram","exists":false}]
-markerCount: 12
+markerCount: 9
 ---
 
 ## Why Lubbock Elite Water Softener is Lubbock's Most Trusted Water Softener Company
@@ -62,7 +62,7 @@ We also install dual tank and commercial water softeners, water conditioners, re
 
 Lubbock's water is hard because of where it comes from. According to City of Lubbock water quality reports, groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields, supplies roughly 60 to 70 percent of the city's water. Surface water from Lake Alan Henry and Lake Meredith supplies most of the rest. Groundwater that has moved through the minerals of the High Plains picks up dissolved calcium and magnesium, and those two minerals define hardness.
 
-Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which sits at the hard to very hard end of that scale. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
+Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which sits at the hard to very hard end of that scale. A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
 
 Hard water leaves marks across the whole house:
 
@@ -96,10 +96,10 @@ A water softener removes calcium and magnesium through ion exchange and replaces
 Most questions homeowners ask before buying fall into eight areas: water hardness, cost, system choice, timeline, water source, upkeep and where we work.
 
 ### How hard is Lubbock water?
-Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and recent City of Lubbock reports put average hardness at roughly 170 to 190 mg/L, or 10 to 11 grains per gallon. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing.
+Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and recent City of Lubbock reports put average hardness at roughly 170 to 192 mg/L, or 10 to 11 grains per gallon. Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing.
 
 ### How much does water softener installation cost in Lubbock, TX?
-Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. <mark class="data-gap">[NEEDS DATA: local installed price range]</mark> The free estimate gives an itemized price for your home before any work begins.
+Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. A standard salt-based system typically runs $1,800 to $3,200 installed, depending on grain capacity, dual-tank options and valve type. The free estimate gives an itemized price for your home before any work begins.
 
 ### What is the best water softener for Lubbock water?
 The best system matches your household size and your test results. A salt-based softener removes hardness minerals and suits the harder end of Lubbock readings, and the technician sizes its capacity to your daily water use. Salt-free systems suit homeowners who prioritize low maintenance.

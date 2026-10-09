@@ -12,14 +12,14 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}
 images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line","exists":true}]
-markerCount: 5
+markerCount: 3
 ---
 
 ### What Is a Salt-Free Water Softener System?
 
 A salt-free water softener system is a conditioner that changes how hardness minerals behave instead of removing them. Calcium and magnesium stay in the water, but they are less likely to form hard scale. The unit installs on the main line, needs no electricity or a drain in most designs and has no regeneration cycle. Because it adds no sodium, it suits homeowners watching salt intake.
 
-Lubbock water is hard, with roughly 60 to 70 percent drawn from the Ogallala Aquifer according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a salt-based softener. For the full range, see our [water softener systems](/water-softener-systems/).
+Lubbock water is hard, with roughly 60 to 70 percent drawn from the Ogallala Aquifer according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a salt-based softener. For the full range, see our [water softener systems](/water-softener-systems/).
 
 ### Template Assisted Crystallization (TAC) Systems
 
@@ -64,7 +64,7 @@ It uses no salt and sends no brine to the drain. Salt-based systems discharge br
 Many units install on the main line with basic plumbing skills, but a correct size and pressure check matter. We install and test the unit for you.
 
 **What does a salt-free system cost in Lubbock?**
-<mark class="data-gap">[NEEDS DATA: local price range]</mark> Our estimate is free and itemized.
+Salt-free conditioners typically run $2,000 to $3,800 installed. Our estimate is free and itemized.
 
 
 

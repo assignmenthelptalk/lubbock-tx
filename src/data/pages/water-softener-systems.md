@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}
 images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Why Lubbock Water Needs a Water Softener System
 
-Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Elite Water Softener.
 

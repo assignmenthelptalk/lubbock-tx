@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}
 images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve","exists":true}]
-markerCount: 4
+markerCount: 3
 ---
 
 ### Water Softener Control Valve Repair
@@ -51,7 +51,7 @@ Leaks occur at the control head, drain line, tank connections or bypass valve. W
 - **Mushing:** salt dissolves and re-forms into sludge at the bottom, blocking brine flow. We empty and clean the tank.
 - **Error codes:** meanings differ by brand. We read the code, find the cause and clear it.
 
-<mark class="data-gap">[NEEDS DATA: brands serviced, diagnostic fee and same-day policy]</mark>
+The diagnostic call-out typically costs $95 to $150. <mark class="data-gap">[NEEDS DATA: brands serviced and same-day policy]</mark>
 
 > **Not a good fit if...** your softener is well past about 10 to 15 years old and fails repeatedly. A new unit costs less over time. Lubbock water, roughly 60 to 70 percent Ogallala groundwater according to City of Lubbock reports, works the resin hard every day. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 
@@ -77,7 +77,7 @@ Humidity and salt type cause a crust to form above the water in the brine tank. 
 Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part.
 
 **How much does water softener repair cost?**
-<mark class="data-gap">[NEEDS DATA: local price range]</mark> The cost depends on the part. We give a price before work begins.
+A repair call-out and diagnosis typically costs $95 to $150. The cost depends on the part. We give a price before work begins.
 
 **Do you offer same-day repair in Lubbock?**
 <mark class="data-gap">[NEEDS DATA: confirm same-day policy.]</mark> Call and we will do our best to schedule quickly.

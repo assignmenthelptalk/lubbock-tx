@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection"}
 images: [{"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection","exists":true}]
-markerCount: 4
+markerCount: 3
 ---
 
 ### Typical Water Softener Lifespan
@@ -39,7 +39,7 @@ Four conditions cut life short:
 
 ### What Affects Softener Life in Lubbock?
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, rated hard to very hard by the U.S. Geological Survey, and the 2025 report shows groundwater supplying 61 percent of the supply. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> Hardness minerals load the resin every day, so units in Lubbock work steadily. Homes on private wells may also face iron, which shortens resin life without a filter ahead of the softener.
+Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, rated hard to very hard by the U.S. Geological Survey, and the 2025 report shows groundwater supplying 61 percent of the supply. Hardness minerals load the resin every day, so units in Lubbock work steadily. Homes on private wells may also face iron, which shortens resin life without a filter ahead of the softener.
 
 ### How to Make a Water Softener Last Longer
 

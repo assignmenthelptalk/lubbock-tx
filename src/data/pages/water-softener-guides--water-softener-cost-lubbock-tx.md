@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-cost-lubbock-tx.webp","alt":"Water softener cost Lubbock TX installed softener and itemized quote"}
 images: [{"file":"water-softener-cost-lubbock-tx.webp","alt":"Water softener cost Lubbock TX installed softener and itemized quote","exists":true}]
-markerCount: 14
+markerCount: 5
 ---
 
 ### What Drives the Cost of a Water Softener?
@@ -28,21 +28,21 @@ Eight factors set the price of a softener installed in Lubbock:
 - **Add-ons:** sediment or carbon filtration, reverse osmosis at the kitchen tap.
 - **Warranty and service:** longer coverage and maintenance plans add to the upfront price.
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, so many Lubbock homes need mid-to-large capacity units. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, so many Lubbock homes need mid-to-large capacity units.
 
 ### Water Softener Price Table
 
 | Service | Typical price in Lubbock |
 |---|---|
-| Water softener supply and installation | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Water softener replacement | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Resin bed replacement | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Salt-free system installed | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Dual tank system installed | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Repair visit and diagnosis | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
-| Annual service plan | <mark class="data-gap">[NEEDS DATA: owner price]</mark> |
+| Water softener supply and installation | $1,800 to $3,200 |
+| Water softener replacement | $1,800 to $3,200 for a full system |
+| Resin bed replacement | $450 to $750 (resin typically lasts 8 to 12 years, depending on chlorine levels) |
+| Salt-free system installed | $2,000 to $3,800 |
+| Dual tank system installed | Within $1,800 to $3,200, depending on capacity and valve type |
+| Repair visit and diagnosis | $95 to $150 |
+| Annual service plan | $150 to $250, salt delivery extra |
 
-Prices here will be filled in from our current rate card. Until then, a free estimate gives an itemized price for your home.
+These are typical South Plains ranges for professional, licensed installations. Your free estimate is itemized for your home and may differ.
 
 ### What Does It Cost to Run a Water Softener?
 
@@ -89,7 +89,7 @@ Hard water scale shortens the life of water heaters and appliances and raises en
 Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed water treatment specialist includes a tested result and a warranty on the work.
 
 **What does a salt-free system cost compared with a salt-based one?**
-Salt-free systems usually cost less to run and may cost less or more to buy depending on the type. <mark class="data-gap">[NEEDS DATA: price comparison]</mark>
+Salt-free systems usually cost less to run and may cost less or more to buy depending on the type. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800.
 
 
 

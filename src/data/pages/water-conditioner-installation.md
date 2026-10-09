@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}
 images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line","exists":true}]
-markerCount: 3
+markerCount: 1
 ---
 
 ### Salt-Free Water Conditioners
@@ -25,7 +25,7 @@ A potassium chloride water softener works like a standard softener, using ion ex
 
 ### Hard Water Treatment Service
 
-A hard water treatment service starts with testing and ends with the right equipment. The options are a softener that removes hardness, a conditioner that reduces scale or a scale inhibitor that protects specific equipment. Roughly 60 to 70 percent of Lubbock's supply is Ogallala groundwater, according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+A hard water treatment service starts with testing and ends with the right equipment. The options are a softener that removes hardness, a conditioner that reduces scale or a scale inhibitor that protects specific equipment. Roughly 60 to 70 percent of Lubbock's supply is Ogallala groundwater, according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 ### Limescale Treatment Service
 
@@ -69,7 +69,7 @@ Not fully. Existing buildup needs a descaling service, and the conditioner slows
 They protect pipes and heaters, but they do not make water feel soft. They suit equipment protection more than comfort.
 
 **What does water conditioner installation cost in Lubbock?**
-<mark class="data-gap">[NEEDS DATA: local price range]</mark> The estimate is free and itemized.
+Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed. The estimate is free and itemized.
 
 
 

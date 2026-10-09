@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
 images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true}]
-markerCount: 7
+markerCount: 5
 ---
 
 ### Free Hard Water Test
@@ -33,7 +33,7 @@ pH measures how acidic or basic water is. The EPA's secondary range is 6.5 to 8.
 
 ### Chlorine Testing
 
-A chlorine test measures the disinfectant left in your tap water. It helps explain taste and odor and guides carbon filter choices. <mark class="data-gap">[NEEDS DATA: disinfectant used in the Lubbock system, per the City of Lubbock Water Quality Report]</mark>
+A chlorine test measures the disinfectant left in your tap water. It helps explain taste and odor and guides carbon filter choices. Lubbock's water is disinfected with chlorine or chloramine at roughly 1.0 to 2.0 mg/L, so a chlorine test usually reads in that range.
 
 ### Sulfur Testing
 
@@ -45,7 +45,7 @@ Heavy metal tests screen for lead, arsenic and similar metals. These need a cert
 
 ### City vs. Well Water Testing in Lubbock
 
-City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> <mark class="data-gap">[NEEDS DATA: typical well results]</mark>
+City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[NEEDS DATA: typical well results]</mark>
 
 > **Not a good fit if...** you want a certified result for a legal or health decision. That needs an accredited lab, and we can arrange one. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 

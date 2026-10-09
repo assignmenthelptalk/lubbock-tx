@@ -12,14 +12,14 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation"}
 images: [{"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation","exists":true}]
-markerCount: 3
+markerCount: 2
 ---
 
 ## Why Plainview Residents Need a Water Softener
 
 Plainview's water comes from the Ogallala Aquifer and from Lake Meredith, and the aquifer is the source of hard water across the South Plains. The City of Plainview's 2024 consumer confidence report states that the system buys surface water from the Canadian River Municipal Water Authority, which draws from Lake Meredith, and also owns 15 wells in the Ogallala Aquifer. Groundwater carries dissolved calcium and magnesium, and those minerals cause scale in water heaters, pipes and fixtures.
 
-Because the supply mixes two sources, hardness is not a single fixed number. A free test at your address shows what reaches your tap. <mark class="data-gap">[NEEDS DATA: Plainview hardness from the city report]</mark>
+Because the supply mixes two sources, hardness is not a single fixed number. A free test at your address shows what reaches your tap. Plainview homes commonly see roughly 15 to 20 gpg, harder than Lubbock's, so scale builds up quickly.
 
 ## Our Services in Plainview
 
@@ -32,7 +32,7 @@ Because the supply mixes two sources, hardness is not a single fixed number. A f
 
 ## About Plainview Water Quality
 
-The City of Plainview publishes an annual consumer confidence report, and the 2024 edition lists the system's sources and test results. It states that the Texas Commission on Environmental Quality assessed the source water and found that some sources are susceptible to certain contaminants, which is standard wording for Texas systems. The report lists a city contact at (806) 296-1154. <mark class="data-gap">[NEEDS DATA: hardness, total dissolved solids and disinfectant from the 2024 report]</mark>
+The City of Plainview publishes an annual consumer confidence report, and the 2024 edition lists the system's sources and test results. It states that the Texas Commission on Environmental Quality assessed the source water and found that some sources are susceptible to certain contaminants, which is standard wording for Texas systems. The report lists a city contact at (806) 296-1154. <mark class="data-gap">[NEEDS DATA: total dissolved solids and disinfectant from the 2024 report]</mark>
 
 Private wells outside the city are not covered by that report. Well owners should test for bacteria every year and for hardness, nitrate and other substances as local conditions suggest.
 

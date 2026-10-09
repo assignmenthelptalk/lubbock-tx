@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}
 images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit","exists":true}]
-markerCount: 5
+markerCount: 3
 ---
 
 ### Full Water Softener System Replacement
@@ -45,11 +45,11 @@ A technician checks the resin, valve, injector and brine system to confirm which
 
 ## How Long Do Water Softeners Last in Lubbock?
 
-A well-maintained water softener commonly lasts 10 to 15 years, and Lubbock water puts steady demand on it. Roughly 60 to 70 percent of the city's supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Regular salt refills and an annual service extend life, and iron or chlorine in the water shorten it. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+A well-maintained water softener commonly lasts 10 to 15 years, and Lubbock water puts steady demand on it. Roughly 60 to 70 percent of the city's supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Regular salt refills and an annual service extend life, and iron or chlorine in the water shorten it. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 ## Cost of Water Softener Replacement
 
-Replacement cost depends on whether you replace the whole system, only the resin, or only the valve; on the capacity you need; and on any plumbing corrections. <mark class="data-gap">[NEEDS DATA: local price range for full replacement and for resin-only]</mark> Our estimate is free and itemized, and it states clearly if repair costs less.
+Replacement cost depends on whether you replace the whole system, only the resin, or only the valve; on the capacity you need; and on any plumbing corrections. A full replacement typically runs $1,800 to $3,200 installed, and a resin bed replacement $450 to $750. Our estimate is free and itemized, and it states clearly if repair costs less.
 
 > **Not a good fit if...** your unit is under about five years old and only needs a service, or your real problem is iron, sediment or chlorine rather than hardness. In those cases repair or a filter fixes the issue for less.
 

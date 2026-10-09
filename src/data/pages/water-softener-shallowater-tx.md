@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation"}
 images: [{"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation","exists":true}]
-markerCount: 3
+markerCount: 2
 ---
 
 ## Why Shallowater Residents Need a Water Softener
 
-Shallowater's water comes from Lubbock, and Lubbock's water is hard. The City of Shallowater's own consumer confidence reports state that the town purchases its water from the Lubbock public water system, which draws groundwater from the Ogallala Aquifer. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure for the Shallowater system]</mark>
+Shallowater's water comes from Lubbock, and Lubbock's water is hard. The City of Shallowater's own consumer confidence reports state that the town purchases its water from the Lubbock public water system, which draws groundwater from the Ogallala Aquifer. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. Shallowater homes typically see roughly 10 to 12 gpg.
 
 Hard water leaves scale in water heaters, pipes and fixtures and spots on dishes and glass. A softener removes the calcium and magnesium behind those problems for every tap in the house.
 
@@ -31,7 +31,7 @@ Hard water leaves scale in water heaters, pipes and fixtures and spots on dishes
 
 ## About Shallowater Water Quality
 
-Shallowater's reports list the town's public water system as TX1520003, and they note that a state source water assessment found some sources susceptible to certain contaminants, which is standard language for Texas systems. The city publishes its annual water quality report, and you can request it from City Hall at (806) 696-4300. <mark class="data-gap">[NEEDS DATA: Shallowater's latest hardness, total dissolved solids and disinfectant from its own report]</mark>
+Shallowater's reports list the town's public water system as TX1520003, and they note that a state source water assessment found some sources susceptible to certain contaminants, which is standard language for Texas systems. The city publishes its annual water quality report, and you can request it from City Hall at (806) 696-4300. <mark class="data-gap">[NEEDS DATA: Shallowater's total dissolved solids and disinfectant from its own report]</mark>
 
 Homes on private wells around Shallowater are not covered by any city report. Well owners should test for bacteria every year and for hardness, nitrate and other substances as local conditions suggest.
 

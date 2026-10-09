@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
 images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true}]
-markerCount: 3
+markerCount: 2
 ---
 
 ### 1. Hard-Water Symptoms Return
 
-Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a hardness test on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, so the symptoms are obvious when softening fails. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a hardness test on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, so the symptoms are obvious when softening fails.
 
 ### 2. Salt Use Rises Sharply
 

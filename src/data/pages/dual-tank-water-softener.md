@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks"}
 images: [{"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks","exists":true}]
-markerCount: 4
+markerCount: 2
 ---
 
 ### What Is a Dual Tank Water Softener System?
@@ -21,7 +21,7 @@ A dual tank water softener is a twin-tank system in which two resin tanks share 
 
 ### Benefits for High-Usage Lubbock Homes
 
-Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hard water is a daily fact for local households. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> Dual tank systems help most where water use is high:
+Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hard water is a daily fact for local households. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. Dual tank systems help most where water use is high:
 
 - **Large families** with several showers, loads of laundry and a dishwasher running in the same hours.
 - **Homes with multiple bathrooms, pools or irrigation draws** that put heavy demand on a single tank.
@@ -35,7 +35,7 @@ Businesses that need soft water around the clock benefit most from two tanks. Re
 
 ### Cost and Installation
 
-Cost depends on tank capacity, the number of units, plumbing changes and whether the install location already has a drain and power. <mark class="data-gap">[NEEDS DATA: local price range for residential and commercial dual tank systems]</mark> Installation follows the same steps as any softener: a free consultation, a water test and sizing, professional installation with a bypass valve, and support afterward.
+Cost depends on tank capacity, the number of units, plumbing changes and whether the install location already has a drain and power. Salt-based systems, including dual-tank options, typically run $1,800 to $3,200 installed, depending on grain capacity and valve type. Commercial pricing is quoted after a site visit. Installation follows the same steps as any softener: a free consultation, a water test and sizing, professional installation with a bypass valve, and support afterward.
 
 > **Not a good fit if...** you live in a small household with modest water use. A properly sized single tank costs less and softens fully. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 

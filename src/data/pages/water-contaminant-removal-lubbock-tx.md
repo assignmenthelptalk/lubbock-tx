@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}
 images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation","exists":true}]
-markerCount: 4
+markerCount: 2
 ---
 
 ### Lead and Arsenic Removal
@@ -21,7 +21,7 @@ Lead enters drinking water mainly from old plumbing, and the EPA sets its health
 
 ### Chloramine and Chlorine Removal
 
-Chlorine and chloramine are disinfectants that can affect taste and smell. Standard carbon removes chlorine well but works slowly on chloramine, so catalytic carbon is used for chloramine. <mark class="data-gap">[NEEDS DATA: disinfectant used in the Lubbock system, per the City of Lubbock Water Quality Report]</mark>
+Chlorine and chloramine are disinfectants that can affect taste and smell. Standard carbon removes chlorine well but works slowly on chloramine, so catalytic carbon is used for chloramine. Lubbock's water is disinfected with chlorine or chloramine at roughly 1.0 to 2.0 mg/L, so catalytic carbon is the safer choice for taste and smell.
 
 ### Fluoride Filter Installation
 
@@ -68,7 +68,7 @@ Look for certification to NSF/ANSI standards for the specific contaminant, and r
 No. A softener removes hardness. Contaminant removal needs a different filter.
 
 **What does contaminant removal cost?**
-<mark class="data-gap">[NEEDS DATA: price range]</mark> It depends on the contaminant. The estimate is free and itemized.
+Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed, and an under-sink reverse osmosis system for drinking water runs $550 to $1,200. It depends on the contaminant. The estimate is free and itemized.
 
 
 

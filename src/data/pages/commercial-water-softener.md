@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}
 images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room","exists":true}]
-markerCount: 6
+markerCount: 5
 ---
 
 ### Commercial Water Softener System Types
@@ -30,7 +30,7 @@ The right type depends on peak flow in gallons per minute, daily volume and how 
 
 Lubbock is a regional center for agriculture, higher education and healthcare, and businesses in many sectors rely on soft water. <mark class="data-gap">[NEEDS DATA: confirm industries served]</mark> Typical commercial users include restaurants and cafes, hotels, laundromats and laundries, car washes, medical and dental offices, and multi-unit housing. Each has equipment that scales faster in hard water: steamers, dishwashers, boilers and spray nozzles.
 
-Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 ### Commercial vs. Residential Water Softeners
 

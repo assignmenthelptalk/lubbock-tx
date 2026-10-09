@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
 images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true}]
-markerCount: 2
+markerCount: 1
 ---
 
 ### Lubbock Water Quality Overview
 
-Lubbock's water comes from two kinds of sources. According to City of Lubbock water quality reports, roughly 60 to 70 percent is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith, delivered through the Canadian River Municipal Water Authority. The mix shifts from year to year, so the water at your tap can change too. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Lubbock's water comes from two kinds of sources. According to City of Lubbock water quality reports, roughly 60 to 70 percent is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith, delivered through the Canadian River Municipal Water Authority. The mix shifts from year to year, so the water at your tap can change too. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 City reports describe water as it leaves the treatment system. They do not describe what your home's plumbing adds, and they do not cover private wells. A test at your tap shows your real numbers.
 

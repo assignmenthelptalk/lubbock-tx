@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison"}
 images: [{"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ### How a Salt-Based Water Softener Works
@@ -37,7 +37,7 @@ A salt-free system does not remove calcium and magnesium. The most common type, 
 
 ### Which Is Better for Lubbock Water?
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> At that level, a salt-based softener is the better fit when you want soft-feeling water, no spotting and full protection for the water heater. A salt-free system fits homeowners who prioritize no salt, no drain and minimal upkeep, and who accept scale reduction instead of removal.
+Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. At that level, a salt-based softener is the better fit when you want soft-feeling water, no spotting and full protection for the water heater. A salt-free system fits homeowners who prioritize no salt, no drain and minimal upkeep, and who accept scale reduction instead of removal.
 
 > **Not a good fit if...** you choose salt-free expecting soft water. It will not feel or behave like softened water. Wells with iron or sulfur need filtration first with either type. Read more about the salt-free option on our [salt-free water softener systems](/salt-free-water-softener-systems/) page.
 
@@ -60,7 +60,7 @@ It reduces scale, and results depend on the technology and the water. It does no
 A salt-based softener uses water for each regeneration. A salt-free system sends no water to the drain.
 
 **Which costs more?**
-Prices vary by size and brand. <mark class="data-gap">[NEEDS DATA: local price ranges for both types]</mark> Salt-free has lower running costs, and salt-based has the stronger result.
+Prices vary by size and brand. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800. Salt-free has lower running costs, and salt-based has the stronger result.
 
 **Is softened water safe to drink?**
 Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water.

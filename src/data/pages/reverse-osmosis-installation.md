@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse osmosis installation Lubbock TX under sink system"}
 images: [{"file":"reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse osmosis installation Lubbock TX under sink system","exists":true}]
-markerCount: 5
+markerCount: 3
 ---
 
 ### How Reverse Osmosis Systems Work
@@ -29,15 +29,15 @@ A whole house RO system treats all the water entering the home. It needs a large
 
 ### RO Membrane Replacement
 
-The membrane wears out as it loads with minerals. Membranes commonly last two to five years, depending on water quality and use, and sediment and carbon filters need changing more often. <mark class="data-gap">[NEEDS DATA: replacement intervals by system]</mark> We replace the membrane, change the filters and sanitize the system.
+The membrane wears out as it loads with minerals. Membranes commonly last two to three years, depending on water quality and use, and sediment and carbon filters need changing more often. As a typical schedule, replace pre-filter cartridges every 6 to 12 months and the membrane every 2 to 3 years. We replace the membrane, change the filters and sanitize the system.
 
 ### RO and Water Softener Combination
 
-Hard water scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, so the pairing makes sense for many local homes. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Hard water scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, so the pairing makes sense for many local homes. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 ### Reverse Osmosis Cost in Lubbock
 
-Cost depends on system size, number of stages, storage capacity and installation work. <mark class="data-gap">[NEEDS DATA: local price range for under-sink and whole-house RO]</mark> Ongoing cost includes filter and membrane replacement. Our estimate is free and itemized.
+Cost depends on system size, number of stages, storage capacity and installation work. Under-sink systems typically run $550 to $1,200 installed. <mark class="data-gap">[NEEDS DATA: whole-house RO price range]</mark> Ongoing cost includes filter and membrane replacement. Our estimate is free and itemized.
 
 > **Not a good fit if...** you want mineral-rich water, since RO removes beneficial minerals along with the rest, or you cannot spare space under the sink. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 

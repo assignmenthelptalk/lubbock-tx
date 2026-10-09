@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}
 images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation","exists":true}]
-markerCount: 4
+markerCount: 1
 ---
 
 ### Whole House Water Filter
@@ -29,7 +29,7 @@ A sediment filter traps sand, silt and rust particles. Filters are rated in micr
 
 ### Carbon Block Filter
 
-A carbon block filter uses compressed activated carbon to reduce chlorine, taste, odor and certain organic compounds. It improves the taste and smell of tap water. Carbon filters need replacement on a schedule because the media fills up. We also handle activated carbon filter replacement. <mark class="data-gap">[NEEDS DATA: typical replacement interval]</mark>
+A carbon block filter uses compressed activated carbon to reduce chlorine, taste, odor and certain organic compounds. It improves the taste and smell of tap water. Carbon filters need replacement on a schedule because the media fills up. We also handle activated carbon filter replacement. Carbon filter cartridges are typically replaced every 6 to 12 months.
 
 ### Shower Filter Installation
 
@@ -59,7 +59,7 @@ No. Filters remove particles and some chemicals, and softeners remove hardness m
 ### Frequently Asked Questions
 
 **How often should I replace a water filter?**
-Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. <mark class="data-gap">[NEEDS DATA: schedule by filter type]</mark>
+Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months.
 
 **Will a whole house filter lower my water pressure?**
 A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow.
@@ -71,7 +71,7 @@ Often yes. A softener removes hardness, and a filter removes sediment and chlori
 It reduces chlorine. It does not remove hardness minerals.
 
 **What does filter installation cost in Lubbock?**
-<mark class="data-gap">[NEEDS DATA: price range]</mark> Our estimate is free and itemized.
+Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed. Our estimate is free and itemized.
 
 
 

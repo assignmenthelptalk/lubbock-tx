@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"}
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram","exists":false}]
-markerCount: 6
+markerCount: 5
 ---
 
 ### Whole-House Water Softener Installation
@@ -65,7 +65,7 @@ Water softener installation in Lubbock costs depend on five things: system type 
 
 ## What decides which water softener fits a Lubbock home?
 
-Three things decide it: how many people use the water, how hard the water is at your tap and whether the home uses city water or a well. Hardness readings in Lubbock vary with the supply mix, so a free test at your address replaces guesswork. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark>
+Three things decide it: how many people use the water, how hard the water is at your tap and whether the home uses city water or a well. Hardness readings in Lubbock vary with the supply mix, so a free test at your address replaces guesswork. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
 
 
 

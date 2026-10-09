@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart","exists":false}]
-markerCount: 3
+markerCount: 1
 ---
 
 ### Why Softener Size Matters
@@ -33,7 +33,7 @@ Multiply them to get the grains your household uses each day, then multiply by t
 
 ### Worked Example for a Lubbock Home
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 190 mg/L, about 10 to 11 grains per gallon. <mark class="data-gap">[VERIFY: exact figure in the City of Lubbock 2025 report]</mark> Use 11 gpg as an example, and replace it with your own test result.
+Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon. Use 11 gpg as an example, and replace it with your own test result.
 
 - Four people at 80 gallons each use 320 gallons a day.
 - 320 gallons x 11 gpg = 3,520 grains a day.
@@ -53,7 +53,7 @@ Iron makes the resin work harder. As a rule, add roughly 3 to 5 grains per gallo
 | 48,000 | 4 to 6 people, high hardness or iron |
 | 64,000 | 6 or more people, very hard water or heavy use |
 
-These ranges are guides, since your test result and daily use change the answer. <mark class="data-gap">[NEEDS DATA: confirm brand capacities]</mark>
+These ranges are guides, since your test result and daily use change the answer. At Lubbock's baseline of about 10 gpg, a four-person household using roughly 300 gallons a day removes about 3,000 grains daily. On paper a 32,000-grain unit then regenerates about every 10 to 11 days, and in practice sooner because part of the rated capacity is held in reserve. Softeners generally operate at 20 to 125 PSI and 34°F to 100°F, so check pressure and location before you choose.
 
 > **Not a good fit if...** you want to pick a size without a water test. Hardness and iron vary by address, and the formula needs your actual numbers.
 
