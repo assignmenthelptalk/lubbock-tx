@@ -1,6 +1,6 @@
 ---
-title: "Water Conditioner Installation in Lubbock, TX"
-seoTitle: "Water Conditioner Installation Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Conditioner Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Conditioner Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures...."
 metaDraft: true
 slug: "/water-conditioner-installation/"
@@ -25,7 +25,7 @@ A potassium chloride water softener works like a standard softener, using ion ex
 
 ### Hard Water Treatment Service
 
-A hard water treatment service starts with testing and ends with the right equipment. The options are a softener that removes hardness, a conditioner that reduces scale or a scale inhibitor that protects specific equipment. Roughly 60 to 70 percent of Lubbock's supply is Ogallala groundwater, according to City of Lubbock water quality reports. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+A hard water treatment service starts with testing and ends with the right equipment. The options are a softener that removes hardness, a conditioner that reduces scale or a scale inhibitor that protects specific equipment. Roughly 60 to 70 percent of Lubbock's supply is Ogallala groundwater, according to City of Lubbock water quality reports. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 ### Limescale Treatment Service
 

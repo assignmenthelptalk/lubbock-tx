@@ -287,12 +287,12 @@ export const siteConfig: SiteConfig = {
   region: "the South Plains",
   domain,
 
-  // Water hardness data. VERIFY: recent City of Lubbock reports show an
-  // average near 170-190 mg/L (about 10-11 gpg). Two sources conflict
-  // (169 vs 192 mg/L), so the exact figure is unconfirmed.
-  gpgLow: 10,
-  gpgHigh: 11,
-  gpgLabel: "Hard to Very Hard",
+  // Water hardness data: 12.0 gpg (205.3 mg/L), the utility-reported figure for City of Lubbock
+  // Water Utilities (USGS/EPA Water Quality Portal, supplied by the owner 2026-10-10). Very Hard on
+  // the Water Quality Association scale (above 10.5 gpg).
+  gpgLow: 12,
+  gpgHigh: 12,
+  gpgLabel: "Very Hard",
   waterSource: "Ogallala Aquifer wells (Roberts and Bailey Counties), Lake Alan Henry and Lake Meredith",
   waterAuthority: "City of Lubbock Water Utilities",
 

@@ -55,7 +55,7 @@ these; leave the trust section out of a page until real ones exist.
 
 | # | Data | Source |
 |---|---|---|
-| 1 | Exact Lubbock hardness figure (22 pages carry this marker; sources conflict, 169 vs 192 mg/L) | City of Lubbock 2025 Water Quality Report; then update `gpgLow` and `gpgHigh` |
+| 1 | Lubbock hardness: SET to 12.0 gpg (205.3 mg/L) on 2026-10-10 from the owner's USGS/EPA Water Quality Portal figure; re-check when the city publishes a new report | City of Lubbock Water Utilities |
 | 2 | Lubbock TDS, disinfectant used, system pH range, hardness, TDS and disinfectant from the 2024 report | same report |
 | 3 | Shallowater hardness, TDS and disinfectant | Shallowater's own report |
 | 4 | Plainview hardness | City of Plainview report |

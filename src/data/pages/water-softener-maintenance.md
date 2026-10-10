@@ -1,12 +1,12 @@
 ---
-title: "Water Softener Maintenance & Service in Lubbock, TX"
-seoTitle: "Water Softener Maintenance Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Maintenance in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Maintenance in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps..."
 metaDraft: true
 slug: "/water-softener-maintenance/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
-crumb: "Water Softener Maintenance & Service"
+crumb: "Water Softener Maintenance"
 openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps softening at full capacity. <a href=\"/\">Lubbock Elite Water Softener</a> services all major softener brands and schedules visits around your household. Request a free estimate and we will tell you what your system needs."
 formHeading: ""
 formIntro: ""
@@ -33,7 +33,7 @@ An annual maintenance plan covers a scheduled inspection of the resin, control v
 
 ### How Often Should You Service a Softener in Lubbock?
 
-Service a softener once a year, check salt monthly and clean the brine tank annually. Heavier hardness or iron in the water shortens those intervals. Lubbock water is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+Service a softener once a year, check salt monthly and clean the brine tank annually. Heavier hardness or iron in the water shortens those intervals. Lubbock water is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 > **Not a good fit if...** your unit leaks, never regenerates or shows repeated error codes. That is a repair job, not maintenance. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 
@@ -63,7 +63,7 @@ Yes. We service most major brands. <mark class="data-gap">[NEEDS DATA: confirm b
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener maintenance and service for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Elite Water Softener TX](/) provides water softener maintenance for homes and businesses across Lubbock and Lubbock County.
 
 ## Get Your Free Estimate
 

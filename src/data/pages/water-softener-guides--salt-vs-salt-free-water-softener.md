@@ -1,13 +1,13 @@
 ---
-title: "Salt-Based vs Salt-Free Water Softener: Lubbock Homeowner's Guide"
-seoTitle: "Salt vs Salt-Free Water Softener | Which Is Best for Lubbock TX?"
+title: "Salt-Based vs Salt-Free Water Softener in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Salt-Based vs Salt-Free Water Softener in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For Lubbock..."
 metaDraft: true
 slug: "/water-softener-guides/salt-vs-salt-free-water-softener/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
-crumb: "Salt-Based vs Salt-Free Water Softener: Lubbock Homeowner's Guide"
-openingHtml: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For Lubbock, TX homes with hard to very hard water, the salt-based softener gives the stronger result and the salt-free system gives the lower maintenance. This guide compares them so you can choose with a <a href=\"/\">water softener Lubbock TX</a> company that explains both."
+crumb: "Salt-Based vs Salt-Free Water Softener"
+openingHtml: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For Lubbock, TX homes with very hard water, the salt-based softener gives the stronger result and the salt-free system gives the lower maintenance. This guide compares them so you can choose with a <a href=\"/\">water softener Lubbock TX</a> company that explains both."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison"}
@@ -37,7 +37,7 @@ A salt-free system does not remove calcium and magnesium. The most common type, 
 
 ### Which Is Better for Lubbock Water?
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. At that level, a salt-based softener is the better fit when you want soft-feeling water, no spotting and full protection for the water heater. A salt-free system fits homeowners who prioritize no salt, no drain and minimal upkeep, and who accept scale reduction instead of removal.
+City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, which the U.S. Geological Survey rates as very hard. At that level, a salt-based softener is the better fit when you want soft-feeling water, no spotting and full protection for the water heater. A salt-free system fits homeowners who prioritize no salt, no drain and minimal upkeep, and who accept scale reduction instead of removal.
 
 > **Not a good fit if...** you choose salt-free expecting soft water. It will not feel or behave like softened water. Wells with iron or sulfur need filtration first with either type. Read more about the salt-free option on our [salt-free water softener systems](/salt-free-water-softener-systems/) page.
 

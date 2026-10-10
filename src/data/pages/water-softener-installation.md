@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Installation in Lubbock, TX"
-seoTitle: "Water Softener Installation Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives..."
 metaDraft: true
 slug: "/water-softener-installation/"
@@ -65,7 +65,7 @@ Water softener installation in Lubbock costs depend on five things: system type 
 
 ## What decides which water softener fits a Lubbock home?
 
-Three things decide it: how many people use the water, how hard the water is at your tap and whether the home uses city water or a well. Hardness readings in Lubbock vary with the supply mix, so a free test at your address replaces guesswork. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+Three things decide it: how many people use the water, how hard the water is at your tap and whether the home uses city water or a well. Hardness readings in Lubbock vary with the supply mix, so a free test at your address replaces guesswork. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 
 

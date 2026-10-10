@@ -1,6 +1,6 @@
 ---
-title: "Water Contaminant Removal in Lubbock, TX"
-seoTitle: "Water Contaminant Removal Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Contaminant Removal in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Contaminant Removal in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate..."
 metaDraft: true
 slug: "/water-contaminant-removal-lubbock-tx/"

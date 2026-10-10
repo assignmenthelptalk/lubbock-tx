@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Guides for Lubbock Homeowners"
-seoTitle: "Water Softener Guides for Lubbock TX Homeowners | Lubbock Elite Water Softener"
+title: "Water Softener Guides for Lubbock Homeowners | Trusted Local Specialists"
+seoTitle: "Water Softener Guides for Lubbock Homeowners | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and..."
 metaDraft: true
 slug: "/water-softener-guides/"

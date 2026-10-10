@@ -1,12 +1,12 @@
 ---
-title: "Lubbock Elite Water Softener | Water Softener Installation & System Experts"
-seoTitle: "Lubbock Elite Water Softener | Water Softener Installation & Systems – Lubbock, TX"
+title: "Lubbock Elite Water Softener - Premier Water Softener Installation in Lubbock, TX"
+seoTitle: "Water Softener Lubbock, TX | Expert Water Softener Installation Lubbock | Lubbock Elite Water Softener"
 description: "Lubbock Elite Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now."
 metaDraft: false
 slug: "/"
 pageType: "home"
 parentSlug: null
-crumb: "Lubbock Elite Water Softener | Water Softener Installation & System Experts"
+crumb: "Lubbock Elite Water Softener - Premier Water Softener Installation"
 openingHtml: "Lubbock's water softener problem starts at the source: roughly 60 to 70 percent of the city's water is pumped from the Ogallala Aquifer, and that groundwater carries calcium and magnesium that leave scale on pipes, fixtures and appliances. Lubbock Elite Water Softener installs, replaces and services water softener systems for homeowners in Lubbock and the surrounding West Texas towns. Request a free estimate and a technician will recommend the right system for your home and your water."
 formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
@@ -62,7 +62,7 @@ We also install dual tank and commercial water softeners, water conditioners, re
 
 Lubbock's water is hard because of where it comes from. According to City of Lubbock water quality reports, groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields, supplies roughly 60 to 70 percent of the city's water. Surface water from Lake Alan Henry and Lake Meredith supplies most of the rest. Groundwater that has moved through the minerals of the High Plains picks up dissolved calcium and magnesium, and those two minerals define hardness.
 
-Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which sits at the hard to very hard end of that scale. A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
+Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association. A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
 
 Hard water leaves marks across the whole house:
 
@@ -96,7 +96,7 @@ A water softener removes calcium and magnesium through ion exchange and replaces
 Most questions homeowners ask before buying fall into eight areas: water hardness, cost, system choice, timeline, water source, upkeep and where we work.
 
 ### How hard is Lubbock water?
-Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and recent City of Lubbock reports put average hardness at roughly 170 to 192 mg/L, or 10 to 11 grains per gallon. Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing.
+Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association. Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing.
 
 ### How much does water softener installation cost in Lubbock, TX?
 Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. A standard salt-based system typically runs $1,800 to $3,200 installed, depending on grain capacity, dual-tank options and valve type. The free estimate gives an itemized price for your home before any work begins.

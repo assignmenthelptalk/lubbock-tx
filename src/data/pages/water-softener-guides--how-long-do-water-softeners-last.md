@@ -1,12 +1,12 @@
 ---
-title: "How Long Does a Water Softener Last in Lubbock, TX?"
-seoTitle: "How Long Do Water Softeners Last? Lubbock TX Guide"
+title: "How Long Does a Water Softener Last in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "How Long Does a Water Softener Last in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "A well-maintained water softener commonly lasts 10 to 15 years, and some last longer with regular care. In Lubbock, TX, hard water, mineral-rich..."
 metaDraft: true
 slug: "/water-softener-guides/how-long-do-water-softeners-last/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
-crumb: "How Long Does a Water Softener Last in Lubbock, TX?"
+crumb: "How Long Does a Water Softener Last"
 openingHtml: "A well-maintained water softener commonly lasts 10 to 15 years, and some last longer with regular care. In Lubbock, TX, hard water, mineral-rich groundwater and heavy daily use shape that lifespan. This guide explains what wears out, what shortens or extends life and when replacing makes more sense than repairing. A trusted <a href=\"/\">water softener Lubbock TX</a> company can inspect your unit and tell you where it stands."
 formHeading: ""
 formIntro: ""
@@ -39,7 +39,7 @@ Four conditions cut life short:
 
 ### What Affects Softener Life in Lubbock?
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, rated hard to very hard by the U.S. Geological Survey, and the 2025 report shows groundwater supplying 61 percent of the supply. Hardness minerals load the resin every day, so units in Lubbock work steadily. Homes on private wells may also face iron, which shortens resin life without a filter ahead of the softener.
+City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, rated very hard by the U.S. Geological Survey, and the 2025 report shows groundwater supplying 61 percent of the supply. Hardness minerals load the resin every day, so units in Lubbock work steadily. Homes on private wells may also face iron, which shortens resin life without a filter ahead of the softener.
 
 ### How to Make a Water Softener Last Longer
 

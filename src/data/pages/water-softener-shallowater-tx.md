@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Installation & Service in Shallowater, TX"
-seoTitle: "Water Softener Shallowater TX | Lubbock Elite Water Softener"
+title: "Water Softener Installation & Service in Shallowater, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Installation & Service in Shallowater, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the..."
 metaDraft: true
 slug: "/water-softener-shallowater-tx/"
@@ -17,7 +17,7 @@ markerCount: 2
 
 ## Why Shallowater Residents Need a Water Softener
 
-Shallowater's water comes from Lubbock, and Lubbock's water is hard. The City of Shallowater's own consumer confidence reports state that the town purchases its water from the Lubbock public water system, which draws groundwater from the Ogallala Aquifer. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. Shallowater homes typically see roughly 10 to 12 gpg.
+Shallowater's water comes from Lubbock, and Lubbock's water is hard. The City of Shallowater's own consumer confidence reports state that the town purchases its water from the Lubbock public water system, which draws groundwater from the Ogallala Aquifer. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, which the U.S. Geological Survey rates as very hard. Because Shallowater buys Lubbock water, homes there see about the same, roughly 12 gpg.
 
 Hard water leaves scale in water heaters, pipes and fixtures and spots on dishes and glass. A softener removes the calcium and magnesium behind those problems for every tap in the house.
 

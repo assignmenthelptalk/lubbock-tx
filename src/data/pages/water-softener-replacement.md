@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Replacement in Lubbock, TX"
-seoTitle: "Water Softener Replacement Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Replacement in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Replacement in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened..."
 metaDraft: true
 slug: "/water-softener-replacement/"
@@ -45,7 +45,7 @@ A technician checks the resin, valve, injector and brine system to confirm which
 
 ## How Long Do Water Softeners Last in Lubbock?
 
-A well-maintained water softener commonly lasts 10 to 15 years, and Lubbock water puts steady demand on it. Roughly 60 to 70 percent of the city's supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Regular salt refills and an annual service extend life, and iron or chlorine in the water shorten it. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+A well-maintained water softener commonly lasts 10 to 15 years, and Lubbock water puts steady demand on it. Roughly 60 to 70 percent of the city's supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness minerals load the resin every day. Regular salt refills and an annual service extend life, and iron or chlorine in the water shorten it. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 ## Cost of Water Softener Replacement
 

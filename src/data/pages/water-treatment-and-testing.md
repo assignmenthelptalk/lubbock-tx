@@ -1,6 +1,6 @@
 ---
-title: "Water Treatment Services in Lubbock, TX"
-seoTitle: "Water Treatment Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Treatment Services in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Treatment Services in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and..."
 metaDraft: true
 slug: "/water-treatment-and-testing/"
@@ -17,7 +17,7 @@ markerCount: 1
 
 ### Lubbock Water Quality Overview
 
-Lubbock's water comes from two kinds of sources. According to City of Lubbock water quality reports, roughly 60 to 70 percent is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith, delivered through the Canadian River Municipal Water Authority. The mix shifts from year to year, so the water at your tap can change too. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+Lubbock's water comes from two kinds of sources. According to City of Lubbock water quality reports, roughly 60 to 70 percent is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith, delivered through the Canadian River Municipal Water Authority. The mix shifts from year to year, so the water at your tap can change too. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 City reports describe water as it leaves the treatment system. They do not describe what your home's plumbing adds, and they do not cover private wells. A test at your tap shows your real numbers.
 

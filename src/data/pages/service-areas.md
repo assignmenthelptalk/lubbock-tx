@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Service Areas Around Lubbock, TX"
-seoTitle: "Water Softener Service Areas Around Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Service Areas in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Service Areas in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Lubbock Elite Water Softener installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on..."
 metaDraft: true
 slug: "/service-areas/"

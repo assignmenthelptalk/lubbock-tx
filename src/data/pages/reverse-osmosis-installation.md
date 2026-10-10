@@ -1,6 +1,6 @@
 ---
-title: "Reverse Osmosis System Installation in Lubbock, TX"
-seoTitle: "Reverse Osmosis Installation Lubbock TX | Lubbock Elite Water Softener"
+title: "Reverse Osmosis System Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Reverse Osmosis System Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Reverse osmosis system installation in Lubbock, TX adds a membrane filter that removes most dissolved solids from your drinking and cooking water...."
 metaDraft: true
 slug: "/reverse-osmosis-installation/"
@@ -33,7 +33,7 @@ The membrane wears out as it loads with minerals. Membranes commonly last two to
 
 ### RO and Water Softener Combination
 
-Hard water scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, so the pairing makes sense for many local homes. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+Hard water scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, so the pairing makes sense for many local homes. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 ### Reverse Osmosis Cost in Lubbock
 

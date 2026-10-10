@@ -6,7 +6,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 ## Site-wide
 - [ ] Replace the placeholder phone (806) 000-0000 in src/site.config.ts
 - [ ] Set businessEmail in src/site.config.ts (the quote form stays disabled until then)
-- [ ] Confirm the exact Lubbock hardness figure (169 vs 192 mg/L conflict) and update gpgLow/gpgHigh
+- [x] Hardness is set to 12.0 gpg (205.3 mg/L), the City of Lubbock Water Utilities figure from the USGS/EPA Water Quality Portal. Re-check it when the city publishes a new report
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names

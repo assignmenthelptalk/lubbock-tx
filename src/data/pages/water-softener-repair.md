@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Repair in Lubbock, TX"
-seoTitle: "Water Softener Repair Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Repair in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Repair in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error..."
 metaDraft: true
 slug: "/water-softener-repair/"

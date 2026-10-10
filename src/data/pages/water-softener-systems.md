@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Systems in Lubbock, TX"
-seoTitle: "Water Softener Systems Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Softener Systems in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Systems in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. Lubbock Elite Water Softener installs..."
 metaDraft: true
 slug: "/water-softener-systems/"
@@ -17,7 +17,7 @@ markerCount: 0
 
 ### Why Lubbock Water Needs a Water Softener System
 
-Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Elite Water Softener.
 

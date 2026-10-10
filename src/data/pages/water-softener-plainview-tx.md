@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Installation & Service in Plainview, TX"
-seoTitle: "Water Softener Plainview TX | Lubbock Elite Water Softener"
+title: "Water Softener Installation & Service in Plainview, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Installation & Service in Plainview, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale..."
 metaDraft: true
 slug: "/water-softener-plainview-tx/"

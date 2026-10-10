@@ -1,12 +1,12 @@
 ---
-title: "Well Water Softener & Treatment in Lubbock, TX"
-seoTitle: "Well Water Softener Lubbock TX | Lubbock Elite Water Softener"
+title: "Well Water Softener and Treatment in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Well Water Softener and Treatment in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. Lubbock Elite Water..."
 metaDraft: true
 slug: "/well-water-softener-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
-crumb: "Well Water Softener & Treatment"
+crumb: "Well Water Softener and Treatment"
 openingHtml: "A well water softener in Lubbock, TX treats private-well water that is hard and often carries iron, sulfur or sediment as well. <a href=\"/\">Lubbock Elite Water Softener</a> tests your well, then installs the softener and filters that match the result. Request a free estimate and a technician will start with a water test."
 formHeading: ""
 formIntro: ""

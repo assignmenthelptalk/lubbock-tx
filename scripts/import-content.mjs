@@ -88,7 +88,12 @@ function draftDescription(openingMd) {
  * natural (header logo, "Home" nav and breadcrumbs also link home).
  */
 const lc = (s) => s.toLowerCase().replace(/&/g, "and").replace(/\buv\b/g, "UV");
+// Inner-page H1s end with " | Trusted Local Specialists". Breadcrumbs, menu labels and the
+// closing backlink phrase are built from the H1 without it.
+const stripSuffix = (h1) => h1.replace(/ \| Trusted Local Specialists$/, "");
+
 function backlinkPhrase(slug, type, h1) {
+  h1 = stripSuffix(h1);
   if (type === "geo") return h1.replace(/^Water Softener Installation & Service in /, "water softener installation and service in ");
   if (type === "guide") {
     const parent = guideParent.get(slug) || "/water-softener-installation/";
@@ -113,7 +118,7 @@ function applyHomeBacklinks({ slug, type, h1, openingMd, body }) {
 }
 
 const slugToFile = (slug) => (slug === "/" ? "home" : slug.replace(/^\/|\/$/g, "").replace(/\//g, "--"));
-const crumbOf = (h1) => h1.replace(/ in Lubbock, TX$/, "").replace(/ Around Lubbock, TX$/, "").replace(/^Lubbock TX /, "").trim();
+const crumbOf = (h1) => stripSuffix(h1).replace(/ in Lubbock, TX$/, "").replace(/ Around Lubbock, TX$/, "").replace(/^Lubbock TX /, "").trim();
 
 fs.rmSync(OUT_PAGES, { recursive: true, force: true });
 fs.mkdirSync(OUT_PAGES, { recursive: true });
@@ -278,7 +283,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 ## Site-wide
 - [ ] Replace the placeholder phone (806) 000-0000 in src/site.config.ts
 - [ ] Set businessEmail in src/site.config.ts (the quote form stays disabled until then)
-- [ ] Confirm the exact Lubbock hardness figure (169 vs 192 mg/L conflict) and update gpgLow/gpgHigh
+- [x] Hardness is set to 12.0 gpg (205.3 mg/L), the City of Lubbock Water Utilities figure from the USGS/EPA Water Quality Portal. Re-check it when the city publishes a new report
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names

@@ -1,6 +1,6 @@
 ---
-title: "Drinking Water System Installation in Lubbock, TX"
-seoTitle: "Drinking Water Systems Lubbock TX | Lubbock Elite Water Softener"
+title: "Drinking Water System Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Drinking Water System Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Drinking water system installation in Lubbock, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or on a..."
 metaDraft: true
 slug: "/drinking-water-systems/"

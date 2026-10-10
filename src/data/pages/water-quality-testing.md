@@ -1,6 +1,6 @@
 ---
-title: "Water Quality Testing in Lubbock, TX"
-seoTitle: "Water Quality Testing Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Quality Testing in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Quality Testing in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water quality testing in Lubbock, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything..."
 metaDraft: true
 slug: "/water-quality-testing/"
@@ -45,7 +45,7 @@ Heavy metal tests screen for lead, arsenic and similar metals. These need a cert
 
 ### City vs. Well Water Testing in Lubbock
 
-City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. <mark class="data-gap">[NEEDS DATA: typical well results]</mark>
+City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard. <mark class="data-gap">[NEEDS DATA: typical well results]</mark>
 
 > **Not a good fit if...** you want a certified result for a legal or health decision. That needs an accredited lab, and we can arrange one. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
 

@@ -1,6 +1,6 @@
 ---
-title: "Water Softener Installation & Service in Tech Terrace, TX"
-seoTitle: "Water Softener Tech Terrace TX | Lubbock Elite Water Softener"
+title: "Water Softener Installation & Service in Tech Terrace, TX | Trusted Local Specialists"
+seoTitle: "Water Softener Installation & Service in Tech Terrace, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University...."
 metaDraft: true
 slug: "/water-softener-tech-terrace-tx/"
@@ -17,7 +17,7 @@ markerCount: 1
 
 ## Why Tech Terrace Residents Need a Water Softener
 
-Tech Terrace gets City of Lubbock water, which comes from the Ogallala Aquifer and from Lake Alan Henry and Lake Meredith. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, which the U.S. Geological Survey rates as hard to very hard. Hardness minerals form scale inside water heaters and pipes, and older pipes already have rougher surfaces and tighter passages where scale gathers.
+Tech Terrace gets City of Lubbock water, which comes from the Ogallala Aquifer and from Lake Alan Henry and Lake Meredith. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, which the U.S. Geological Survey rates as very hard. Hardness minerals form scale inside water heaters and pipes, and older pipes already have rougher surfaces and tighter passages where scale gathers.
 
 Listing records show many Tech Terrace homes date from the late 1930s through the 1940s, with others added in later decades. Texas Tech opened in 1923, and the neighborhood grew beside it. Homes of that age may have galvanized steel pipe, and homes plumbed before 1986 may have lead-bearing solder on copper joints, since lead solder was banned that year. No survey maps the plumbing house by house, so a test and an inspection give the real answer for your home.
 

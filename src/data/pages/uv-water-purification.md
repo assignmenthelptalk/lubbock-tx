@@ -1,6 +1,6 @@
 ---
-title: "UV Water Purification System Installation in Lubbock, TX"
-seoTitle: "UV Water Purification Lubbock TX | Lubbock Elite Water Softener"
+title: "UV Water Purification System Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "UV Water Purification System Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without..."
 metaDraft: true
 slug: "/uv-water-purification/"
@@ -25,7 +25,7 @@ We install the UV unit on the main line after any sediment or carbon filters, so
 
 ### UV and Water Softener Combination
 
-A UV system disinfects, and a softener removes hardness, so they solve different problems. Hardness scale can coat the quartz sleeve and reduce UV output, so softened water helps the UV unit work better. Many homes that use both place the softener ahead of the UV system. Roughly 60 to 70 percent of Lubbock's city supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness is the common local concern. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard.
+A UV system disinfects, and a softener removes hardness, so they solve different problems. Hardness scale can coat the quartz sleeve and reduce UV output, so softened water helps the UV unit work better. Many homes that use both place the softener ahead of the UV system. Roughly 60 to 70 percent of Lubbock's city supply is Ogallala groundwater, according to City of Lubbock water quality reports, and hardness is the common local concern. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
 ### Ideal for Well Water in Lubbock
 

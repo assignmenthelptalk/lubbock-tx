@@ -1,6 +1,6 @@
 ---
-title: "Dual Tank Water Softener Installation in Lubbock, TX"
-seoTitle: "Dual Tank Water Softener Lubbock TX | Lubbock Elite Water Softener"
+title: "Dual Tank Water Softener Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Dual Tank Water Softener Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "A dual tank water softener in Lubbock, TX uses two resin tanks so one always serves the house while the other regenerates, and softened water never..."
 metaDraft: true
 slug: "/dual-tank-water-softener/"
@@ -21,7 +21,7 @@ A dual tank water softener is a twin-tank system in which two resin tanks share 
 
 ### Benefits for High-Usage Lubbock Homes
 
-Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hard water is a daily fact for local households. Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. Dual tank systems help most where water use is high:
+Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hard water is a daily fact for local households. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard. Dual tank systems help most where water use is high:
 
 - **Large families** with several showers, loads of laundry and a dishwasher running in the same hours.
 - **Homes with multiple bathrooms, pools or irrigation draws** that put heavy demand on a single tank.

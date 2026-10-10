@@ -13,11 +13,13 @@ interface Props {
    * construction — for pages (like the homepage) that need a specific exact
    * title order instead. */
   fullTitle?: string;
+  /** Overrides the og:title (defaults to the page title). Used by the homepage. */
+  ogTitle?: string;
   description?: string;
   noindex?: boolean;
 }
 
-const { title, fullTitle, description = site.metaDescription, noindex = false } = Astro.props;
+const { title, fullTitle, ogTitle, description = site.metaDescription, noindex = false } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, site.siteUrl).toString();
 
@@ -68,7 +70,7 @@ const footerNavLinks = [
       noindex={noindex}
       openGraph={{
         basic: {
-          title,
+          title: ogTitle ?? title,
           type: "website",
           image: `${site.siteUrl}/og-default.jpg`,
           url: canonical,

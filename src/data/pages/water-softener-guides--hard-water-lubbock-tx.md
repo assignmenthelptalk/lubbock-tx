@@ -1,12 +1,12 @@
 ---
-title: "Lubbock TX Hard Water: Causes, Effects & Solutions"
-seoTitle: "Hard Water in Lubbock TX | What You Need to Know"
+title: "Hard Water in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Hard Water in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Hard water in Lubbock, TX is water that carries dissolved calcium and magnesium, and it comes from the Ogallala Aquifer that supplies most of the..."
 metaDraft: true
 slug: "/water-softener-guides/hard-water-lubbock-tx/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"
-crumb: "Hard Water: Causes, Effects & Solutions"
+crumb: "Hard Water"
 openingHtml: "Hard water in Lubbock, TX is water that carries dissolved calcium and magnesium, and it comes from the Ogallala Aquifer that supplies most of the city's drinking water. This guide explains why Lubbock water is hard, how hard it is, what it does to your home and which fixes work. For a <a href=\"/\">water softener Lubbock TX</a> homeowners trust, start with a free water test."
 formHeading: ""
 formIntro: ""
@@ -25,7 +25,7 @@ Lubbock water is hard because most of it comes from underground. According to th
 
 ### How Hard Is Lubbock Water?
 
-Recent City of Lubbock water quality reports put average hardness at roughly 170 to 192 mg/L, about 10 to 11 grains per gallon, which the U.S. Geological Survey rates as hard to very hard. Readings vary across the city and through the year because the mix of well and lake water changes, so the number at your tap can differ. A free test at your address gives the figure that matters for choosing equipment.
+City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard. Readings vary across the city and through the year because the mix of well and lake water changes, so the number at your tap can differ. A free test at your address gives the figure that matters for choosing equipment.
 
 ### What Hard Water Does to a Home
 

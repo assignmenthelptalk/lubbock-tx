@@ -1,6 +1,6 @@
 ---
-title: "Water Filtration System Installation in Lubbock, TX"
-seoTitle: "Water Filtration Systems Lubbock TX | Lubbock Elite Water Softener"
+title: "Water Filtration System Installation in Lubbock, TX | Trusted Local Specialists"
+seoTitle: "Water Filtration System Installation in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
 description: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink..."
 metaDraft: true
 slug: "/water-filtration-systems/"

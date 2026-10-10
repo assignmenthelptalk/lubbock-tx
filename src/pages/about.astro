@@ -26,7 +26,8 @@ const telHref =`tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const isPlaceholder = (value: string) => /^[A-Z0-9_]+$/.test(value);
 const marker = (text: string) => `<mark class="data-gap">[${text}]</mark>`;
 const fact = (value: string, label: string) => (isPlaceholder(value) ? marker(`NEEDS DATA: ${label}`) : value);
-const hardness = `${site.gpgLow} to ${site.gpgHigh} gpg ${marker("VERIFY: exact figure in the City of Lubbock 2025 report")}`;
+const gpgText = site.gpgLow === site.gpgHigh ? `${site.gpgLow}` : `${site.gpgLow} to ${site.gpgHigh}`;
+const hardness = `${gpgText} gpg (about ${Math.round(site.gpgHigh * 17.1)} mg/L)`;
 
 const services = [
   {
@@ -127,7 +128,7 @@ const faqs = [
 
 <Layout
   title={`About ${site.businessName}`}
-  fullTitle={`About ${site.businessName} | Water Softener Installation in ${site.city}, ${site.stateAbbr}`}
+  fullTitle={`About ${site.businessName} | ${site.businessName}: Water Softener Installation and Repair`}
   description={`About ${site.businessName}: water softener installation, replacement, repair and water testing for ${site.city}, ${site.stateAbbr} and the South Plains.`}
 >
   <PageHero
@@ -139,7 +140,7 @@ const faqs = [
     <p slot="opening">
       <HomeLink variant="exact" />
       {" "}provides professional water softener installation, replacement, repair and maintenance across
-      {" "}{site.city} and {site.county}. {site.waterAuthority} delivers roughly {site.gpgLow} to {site.gpgHigh} gpg
+      {" "}{site.city} and {site.county}. {site.waterAuthority} delivers roughly {gpgText} gpg
       water to {site.city} homes. We size every system to your actual hardness reading, not a regional estimate.
     </p>
   </PageHero>
