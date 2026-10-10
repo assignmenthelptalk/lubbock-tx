@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}
 images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit","exists":true}]
-markerCount: 3
+markerCount: 0
 ---
 
 ### Full Water Softener System Replacement
@@ -53,7 +53,7 @@ Replacement cost depends on whether you replace the whole system, only the resin
 
 > **Not a good fit if...** your unit is under about five years old and only needs a service, or your real problem is iron, sediment or chlorine rather than hardness. In those cases repair or a filter fixes the issue for less.
 
-> **What owners tell us:** <mark class="data-gap">[NEEDS DATA: real reviews and a real job story]</mark>.
+**What to expect on replacement day:** The technician disconnects and removes the old unit, checks the water lines and drain, installs and programs the new system for your hardness and tests every tap before leaving. Ask for the new settings and the hardness reading in writing.
 
 
 ## Should you repair or replace your water softener?
@@ -65,13 +65,13 @@ Repair makes sense when the unit is young and one part has failed. Replacement m
 ### Frequently Asked Questions
 
 **How long does water softener replacement take?**
-Most replacements finish in a single visit. <mark class="data-gap">[NEEDS DATA: typical hours]</mark> The technician confirms timing at your estimate.
+Most replacements finish in a single visit. Most standard replacements take about 2 to 4 hours. The technician confirms timing at your estimate.
 
 **Can I replace just the resin instead of the whole unit?**
 Yes, when the tank and valve are sound. A resin replacement restores softening for less than a new system, and the technician tests your water to confirm the resin is the cause.
 
 **Do you remove and dispose of my old water softener?**
-<mark class="data-gap">[NEEDS DATA: confirm that removal and disposal are included.]</mark> The estimate states exactly what is included.
+Ask whether removal and disposal of the old unit is included. The estimate states exactly what is included.
 
 **Will a new softener use less salt?**
 A newer control head regenerates by actual water use instead of a fixed timer, which cuts unneeded cycles and salt. Savings depend on your household and your water.

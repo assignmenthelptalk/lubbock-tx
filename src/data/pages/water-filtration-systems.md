@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}
 images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Whole House Water Filter
@@ -47,7 +47,7 @@ A multi-stage system combines sediment, carbon and specialty media in sequence, 
 
 A backwash filter system cleans its own media by reversing flow on a schedule, which flushes captured particles to the drain. It lasts longer between media changes than a cartridge filter, and it suits whole-house use with higher flow.
 
-> **Not a good fit if...** your main concern is hard water. Filters do not soften. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness needs a softener or conditioner. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** your main concern is hard water. Filters do not soften. Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports, and hardness needs a softener or conditioner.
 
 
 ## Does filtration replace a water softener?

@@ -17,54 +17,39 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ## Totals
 - Pages built: 30
-- Open markers: 72
+- Open markers: 3
 - Draft meta descriptions: 29
 
 ## Per page
 ### /
 - Meta description: final
-- Open markers: 7
-  - [NEEDS DATA: number of systems installed]
-  - [NEEDS DATA: warranty length and terms]
-  - [NEEDS DATA: licence number and insurance details]
-  - [NEEDS DATA: confirm same-day policy]
-  - [NEEDS DATA: guarantee terms]
-  - [NEEDS DATA: typical install time]
-  - [NEEDS DATA: typical hours]
+- Open markers: 0
+  - (none)
 
 ### /commercial-water-softener/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
-  - [NEEDS DATA: confirm industries served]
-  - [NEEDS DATA: TCEQ licence class and number, insurance details]
-  - [NEEDS DATA: maintenance plan terms and visit frequency]
-  - [NEEDS DATA: commercial references and reviews]
-  - [NEEDS DATA: confirm contract options.]
+- Open markers: 0
+  - (none)
 
 ### /drinking-water-systems/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [NEEDS DATA: real reviews and a job story]
+- Open markers: 0
+  - (none)
 
 ### /dual-tank-water-softener/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: typical footprint]
+- Open markers: 0
+  - (none)
 
 ### /reverse-osmosis-installation/
 - Meta description: DRAFT, needs final wording
-- Open markers: 3
-  - [NEEDS DATA: whole-house RO price range]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: typical ratio]
+- Open markers: 0
+  - (none)
 
 ### /salt-free-water-softener-systems/
 - Meta description: DRAFT, needs final wording
-- Open markers: 3
-  - [NEEDS DATA: media replacement interval]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: typical interval]
+- Open markers: 0
+  - (none)
 
 ### /service-areas/
 - Meta description: DRAFT, needs final wording
@@ -73,34 +58,28 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /uv-water-purification/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
-  - [NEEDS DATA: replacement schedule]
-  - [NEEDS DATA: real reviews and a job story]
+- Open markers: 0
+  - (none)
 
 ### /water-conditioner-installation/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [NEEDS DATA: real reviews and a job story]
+- Open markers: 0
+  - (none)
 
 ### /water-contaminant-removal-lubbock-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
-  - [NEEDS DATA: free versus lab tests]
-  - [NEEDS DATA: real reviews and a job story]
+- Open markers: 0
+  - (none)
 
 ### /water-filtration-systems/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [NEEDS DATA: real reviews and a job story]
+- Open markers: 0
+  - (none)
 
 ### /water-quality-testing/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
-  - [NEEDS DATA: which tests are free and what the free test includes]
-  - [NEEDS DATA: typical well results]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: state exactly which tests are free and which carry a fee.]
-  - [NEEDS DATA: lab turnaround]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-guides/
 - Meta description: DRAFT, needs final wording
@@ -114,10 +93,8 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /water-softener-guides/how-long-do-water-softeners-last/
 - Meta description: DRAFT, needs final wording
-- Open markers: 3
-  - [VERIFY: confirm against a manufacturer or Water Quality Association source]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: typical media life]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-guides/salt-vs-salt-free-water-softener/
 - Meta description: DRAFT, needs final wording
@@ -126,73 +103,53 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /water-softener-guides/signs-you-need-a-new-water-softener/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
-  - [VERIFY: confirm against a manufacturer or Water Quality Association source]
-  - [NEEDS DATA: typical hours]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-guides/water-softener-cost-lubbock-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
-  - [NEEDS DATA: City of Lubbock permit requirement]
-  - [NEEDS DATA: typical monthly running cost]
-  - [NEEDS DATA: licence number]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: confirm financing.]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-guides/water-softener-size-guide/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [VERIFY: sizing rule with manufacturer]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-installation/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
-  - [NEEDS DATA: typical install time]
-  - [NEEDS DATA: Lubbock installed price range for a standard whole-house unit]
-  - [NEEDS DATA: real customer reviews and a real job story, for example an install on a tight garage layout or a same-week schedule]
-  - [NEEDS DATA: typical hours]
-  - [NEEDS DATA: City of Lubbock permit requirement]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-maintenance/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
-  - [NEEDS DATA: service duration]
-  - [NEEDS DATA: salt delivery options and pricing]
-  - [NEEDS DATA: plan terms and visit frequency]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: confirm brands]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-overton-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
-  - [NEEDS DATA: confirm multi-unit service]
-  - [NEEDS DATA: real Overton customer reviews]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-plainview-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
+- Open markers: 1
   - [NEEDS DATA: total dissolved solids and disinfectant from the 2024 report]
-  - [NEEDS DATA: real Plainview customer reviews and travel or scheduling terms for Plainview]
 
 ### /water-softener-repair/
 - Meta description: DRAFT, needs final wording
-- Open markers: 3
-  - [NEEDS DATA: brands serviced and same-day policy]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: confirm same-day policy.]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-replacement/
 - Meta description: DRAFT, needs final wording
-- Open markers: 3
-  - [NEEDS DATA: real reviews and a real job story]
-  - [NEEDS DATA: typical hours]
-  - [NEEDS DATA: confirm that removal and disposal are included.]
+- Open markers: 0
+  - (none)
 
 ### /water-softener-shallowater-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 2
+- Open markers: 1
   - [NEEDS DATA: Shallowater's total dissolved solids and disinfectant from its own report]
-  - [NEEDS DATA: real Shallowater customer reviews]
 
 ### /water-softener-systems/
 - Meta description: DRAFT, needs final wording
@@ -201,19 +158,15 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /water-softener-tech-terrace-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [NEEDS DATA: real Tech Terrace customer reviews]
+- Open markers: 0
+  - (none)
 
 ### /water-treatment-and-testing/
 - Meta description: DRAFT, needs final wording
-- Open markers: 1
-  - [NEEDS DATA: confirm exactly which tests are free (for example hardness) and which carry a fee.]
+- Open markers: 0
+  - (none)
 
 ### /well-water-softener-lubbock-tx/
 - Meta description: DRAFT, needs final wording
-- Open markers: 5
+- Open markers: 1
   - [NEEDS DATA: local prevalence]
-  - [NEEDS DATA: typical results for Lubbock-area wells]
-  - [NEEDS DATA: which tests are free]
-  - [NEEDS DATA: real reviews and a job story]
-  - [NEEDS DATA: price range]

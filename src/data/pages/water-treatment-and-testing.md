@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
 images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Lubbock Water Quality Overview
@@ -72,7 +72,7 @@ City of Lubbock water quality reports list test results for regulated substances
 Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV.
 
 **Is a free water test really free?**
-<mark class="data-gap">[NEEDS DATA: confirm exactly which tests are free (for example hardness) and which carry a fee.]</mark>
+Ask exactly which tests are free and which carry a fee.
 
 
 

@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}
 images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room","exists":true}]
-markerCount: 5
+markerCount: 0
 ---
 
 ### Commercial Water Softener System Types
@@ -28,7 +28,7 @@ The right type depends on peak flow in gallons per minute, daily volume and how 
 
 ### Industries We Serve in Lubbock
 
-Lubbock is a regional center for agriculture, higher education and healthcare, and businesses in many sectors rely on soft water. <mark class="data-gap">[NEEDS DATA: confirm industries served]</mark> Typical commercial users include restaurants and cafes, hotels, laundromats and laundries, car washes, medical and dental offices, and multi-unit housing. Each has equipment that scales faster in hard water: steamers, dishwashers, boilers and spray nozzles.
+Lubbock is a regional center for agriculture, higher education and healthcare, and businesses in many sectors rely on soft water. Typical commercial users include restaurants and cafes, hotels, laundromats and laundries, car washes, medical and dental offices, and multi-unit housing. Each has equipment that scales faster in hard water: steamers, dishwashers, boilers and spray nozzles.
 
 Lubbock's supply is roughly 60 to 70 percent Ogallala groundwater, according to City of Lubbock water quality reports. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
@@ -40,14 +40,14 @@ Commercial units differ from residential ones in four ways: they handle higher f
 
 1. **Site visit and water test.** We measure flow, pressure and hardness and review the equipment to protect.
 2. **Written proposal.** You receive a sized system and an itemized price.
-3. **Installation.** A licensed technician installs the unit with a bypass valve and drain, scheduled to limit downtime. <mark class="data-gap">[NEEDS DATA: TCEQ licence class and number, insurance details]</mark>
+3. **Installation.** A qualified technician installs the unit with a bypass valve and drain, scheduled to limit downtime. Ask for the technician's TCEQ licence number and proof of insurance before the work starts.
 4. **Handover and support.** We show your staff how to check salt and read the control head.
 
 ### Maintenance Plans
 
-Commercial softeners need salt, cleaning and inspection on a regular schedule so equipment stays protected. <mark class="data-gap">[NEEDS DATA: maintenance plan terms and visit frequency]</mark> Plans keep the system at capacity and catch problems before they cause downtime.
+Commercial softeners need salt, cleaning and inspection on a regular schedule so equipment stays protected. Ask what each visit includes and how often it is scheduled. Plans keep the system at capacity and catch problems before they cause downtime.
 
-> **Not a good fit if...** your site is a very small office with little water use. A residential-size unit costs less and works fine. <mark class="data-gap">[NEEDS DATA: commercial references and reviews]</mark>
+> **Not a good fit if...** your site is a very small office with little water use. A residential-size unit costs less and works fine.
 
 
 ## What should a business check before choosing a system?
@@ -68,7 +68,7 @@ Most installs need a short water shutoff. We schedule around your busiest hours 
 It protects boilers, water heaters, dishwashers, ice machines, steamers and plumbing from scale buildup.
 
 **Do you offer service contracts?**
-<mark class="data-gap">[NEEDS DATA: confirm contract options.]</mark> The proposal states what is included.
+Ask whether service is offered by contract or per visit. The proposal states what is included.
 
 **Does a commercial system need filtration too?**
 Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries.

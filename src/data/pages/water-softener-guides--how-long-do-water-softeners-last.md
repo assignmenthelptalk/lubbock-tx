@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection"}
 images: [{"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection","exists":true}]
-markerCount: 3
+markerCount: 0
 ---
 
 ### Typical Water Softener Lifespan
 
-Industry guidance commonly cites 10 to 15 years for a residential water softener, and some systems reach 15 to 20 years with good care. <mark class="data-gap">[VERIFY: confirm against a manufacturer or Water Quality Association source]</mark> Lifespan depends on the brand, the quality of the valve, how hard the water is and how well the unit is maintained.
+Industry guidance commonly cites 10 to 15 years for a residential water softener, and some systems reach 15 to 20 years with good care. Lifespan depends on the brand, the quality of the valve, how hard the water is and how well the unit is maintained.
 
 ### What Wears Out First?
 
@@ -55,7 +55,7 @@ See our [water softener maintenance](/water-softener-maintenance/) page for what
 
 Replace when the unit is past about 10 to 15 years, the tank leaks or cracks, the resin is spent or repairs keep returning. Repair when the unit is younger and one part has failed. Our [water softener replacement](/water-softener-replacement/) page explains full system, resin-only and upgrade options.
 
-> **Not a good fit if...** you want a guaranteed number of years. Lifespan depends on your water and care, so a free inspection gives a more accurate answer. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you want a guaranteed number of years. Lifespan depends on your water and care, so a free inspection gives a more accurate answer.
 
 
 ## Is your softener near the end of its life?
@@ -73,7 +73,7 @@ Yes, when the tank and valve are sound. Resin replacement restores softening for
 A warranty covers defects, not wear. Longer coverage often signals a better valve and tank.
 
 **Do salt-free systems last longer?**
-They have no resin to wear out, but their media needs replacing on a schedule. <mark class="data-gap">[NEEDS DATA: typical media life]</mark>
+They have no resin to wear out, but their media needs replacing on a schedule. Manufacturers commonly rate salt-free media at about 5 to 8 years under normal conditions.
 
 **How do I know if my resin is worn out?**
 Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it.

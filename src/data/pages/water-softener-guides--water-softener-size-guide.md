@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart","exists":false}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Why Softener Size Matters
@@ -42,7 +42,7 @@ City of Lubbock Water Utilities reports average hardness at approximately 205 mg
 
 ### Adjust for Iron and High Use
 
-Iron makes the resin work harder. As a rule, add roughly 3 to 5 grains per gallon to your hardness for every 1 part per million of iron in the water. <mark class="data-gap">[VERIFY: sizing rule with manufacturer]</mark> High-use homes with pools, large tubs or irrigation drawing softened water should size up or consider a [dual tank system](/dual-tank-water-softener/).
+Iron makes the resin work harder. As a rule, add roughly 3 to 5 grains per gallon to your hardness for every 1 part per million of iron in the water. Check your softener manufacturer's sizing guide for the exact adjustment. High-use homes with pools, large tubs or irrigation drawing softened water should size up or consider a [dual tank system](/dual-tank-water-softener/).
 
 ### Common Water Softener Sizes
 

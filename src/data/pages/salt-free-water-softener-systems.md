@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}
 images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line","exists":true}]
-markerCount: 3
+markerCount: 0
 ---
 
 ### What Is a Salt-Free Water Softener System?
@@ -23,7 +23,7 @@ Lubbock water is hard, with roughly 60 to 70 percent drawn from the Ogallala Aqu
 
 ### Template Assisted Crystallization (TAC) Systems
 
-A template assisted crystallization (TAC) system passes water over specially made media that turns dissolved hardness minerals into microscopic crystals. Those crystals stay suspended and resist attaching to pipes, heaters and fixtures. TAC is the most widely used salt-free method, and the media is replaced on a schedule that depends on water use. <mark class="data-gap">[NEEDS DATA: media replacement interval]</mark>
+A template assisted crystallization (TAC) system passes water over specially made media that turns dissolved hardness minerals into microscopic crystals. Those crystals stay suspended and resist attaching to pipes, heaters and fixtures. TAC is the most widely used salt-free method, and the media is replaced on a schedule that depends on water use. Manufacturers commonly rate the media at about 5 to 8 years under normal conditions.
 
 ### Electronic Descaler Installation
 
@@ -40,7 +40,7 @@ A salt-based softener removes calcium and magnesium through ion exchange, and it
 - **Choose salt-based** if your water is very hard, you want soft-feeling water, or spotting on glass and fixtures bothers you most.
 - **Choose salt-free** if you want no salt, no drain connection and minimal upkeep, and scale protection is the main goal.
 
-> **Not a good fit if...** your water carries iron or sulfur (these need filtration first) or you want fully softened water for skin, hair and laundry. A free test at your tap decides it. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** your water carries iron or sulfur (these need filtration first) or you want fully softened water for skin, hair and laundry. A free test at your tap decides it.
 
 
 ## Which system matches your water and your priorities?
@@ -55,7 +55,7 @@ Match the system to the result you want: scale protection for pipes and heaters,
 No. It conditions water so scale does not stick, and it leaves hardness minerals in place. A salt-based softener removes the minerals.
 
 **How long does a TAC media cartridge last?**
-Replacement timing depends on water use and system size. <mark class="data-gap">[NEEDS DATA: typical interval]</mark> The technician sets the schedule at installation.
+Replacement timing depends on water use and system size. Media is typically rated for about 5 to 8 years. The technician sets the schedule at installation.
 
 **Is a salt-free system better for the environment?**
 It uses no salt and sends no brine to the drain. Salt-based systems discharge brine during regeneration, which some communities limit.

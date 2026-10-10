@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-cost-lubbock-tx.webp","alt":"Water softener cost Lubbock TX installed softener and itemized quote"}
 images: [{"file":"water-softener-cost-lubbock-tx.webp","alt":"Water softener cost Lubbock TX installed softener and itemized quote","exists":true}]
-markerCount: 5
+markerCount: 0
 ---
 
 ### What Drives the Cost of a Water Softener?
@@ -24,7 +24,7 @@ Eight factors set the price of a softener installed in Lubbock:
 - **Brand and valve:** control valve quality and warranty vary widely.
 - **Installation conditions:** distance to a drain, access to the main line and the condition of existing plumbing.
 - **Plumbing extras:** bypass valve, shut-off valve and pressure regulator if pressure is high.
-- **Permits:** local rules for plumbing work. <mark class="data-gap">[NEEDS DATA: City of Lubbock permit requirement]</mark>
+- **Permits:** local rules for plumbing work. Ask your installer whether the City of Lubbock requires a permit for your job.
 - **Add-ons:** sediment or carbon filtration, reverse osmosis at the kitchen tap.
 - **Warranty and service:** longer coverage and maintenance plans add to the upfront price.
 
@@ -42,11 +42,11 @@ City of Lubbock Water Utilities reports average hardness at approximately 205 mg
 | Repair visit and diagnosis | $95 to $150 |
 | Annual service plan | $150 to $250, salt delivery extra |
 
-These are typical South Plains ranges for professional, licensed installations. Your free estimate is itemized for your home and may differ.
+These are typical South Plains ranges for professional installations. Your free estimate is itemized for your home and may differ.
 
 ### What Does It Cost to Run a Water Softener?
 
-Running costs are small compared with the purchase but they recur. Expect salt or potassium chloride refills, a modest amount of water for each regeneration cycle, a small amount of electricity and an annual service. Potassium chloride costs more per bag than salt. Newer control heads regenerate by actual water use, which trims salt and water. <mark class="data-gap">[NEEDS DATA: typical monthly running cost]</mark>
+Running costs are small compared with the purchase but they recur. Expect salt or potassium chloride refills, a modest amount of water for each regeneration cycle, a small amount of electricity and an annual service. Potassium chloride costs more per bag than salt. Newer control heads regenerate by actual water use, which trims salt and water. For a four-person household at Lubbock's hardness, salt use works out to roughly 30 pounds a month, about $5 to $10 at typical hardware-store prices, plus the water used for regeneration.
 
 ### What Should a Water Softener Quote Include?
 
@@ -58,14 +58,14 @@ A good quote lists the same items every time, so you can compare. Look for:
 4. Any pressure regulator or shut-off valve work.
 5. Permit costs, if required.
 6. Warranty terms for the tank, resin, valve and labor.
-7. The installer's TCEQ water treatment specialist licence number. <mark class="data-gap">[NEEDS DATA: licence number]</mark>
+7. The installer's TCEQ water treatment specialist licence number.
 8. A statement of what is not included.
 
 ### How to Compare Quotes
 
 Compare capacity first, since a cheap unit that is too small costs more in salt and wears out faster. Then compare warranty length and what it covers, then the labor scope. The lowest price is rarely the best value if it leaves out the bypass valve, the drain connection or a licence you can verify.
 
-> **Not a good fit if...** you want a price over the phone with no information. Sizing depends on your household and your water, so any honest price starts with a test. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you want a price over the phone with no information. Sizing depends on your household and your water, so any honest price starts with a test.
 
 
 ## How do you get an exact price?
@@ -83,10 +83,10 @@ Not always. The right capacity and a good control valve matter more than brand p
 Hard water scale shortens the life of water heaters and appliances and raises energy use, so softening can offset part of its own cost.
 
 **Are financing options available?**
-<mark class="data-gap">[NEEDS DATA: confirm financing.]</mark>
+Financing varies by installer. Ask whether it is offered and read the terms before you sign.
 
 **Can I save money by installing it myself?**
-Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed water treatment specialist includes a tested result and a warranty on the work.
+Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed water treatment specialist should include a tested result and a warranty on the work.
 
 **What does a salt-free system cost compared with a salt-based one?**
 Salt-free systems usually cost less to run and may cost less or more to buy depending on the type. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800.

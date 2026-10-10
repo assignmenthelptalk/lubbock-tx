@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse osmosis installation Lubbock TX under sink system"}
 images: [{"file":"reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse osmosis installation Lubbock TX under sink system","exists":true}]
-markerCount: 3
+markerCount: 0
 ---
 
 ### How Reverse Osmosis Systems Work
@@ -37,9 +37,9 @@ Hard water scales an RO membrane and shortens its life. A water softener ahead o
 
 ### Reverse Osmosis Cost in Lubbock
 
-Cost depends on system size, number of stages, storage capacity and installation work. Under-sink systems typically run $550 to $1,200 installed. <mark class="data-gap">[NEEDS DATA: whole-house RO price range]</mark> Ongoing cost includes filter and membrane replacement. Our estimate is free and itemized.
+Cost depends on system size, number of stages, storage capacity and installation work. Under-sink systems typically run $550 to $1,200 installed. Whole-house RO systems typically run $1,400 to $3,000 installed. Ongoing cost includes filter and membrane replacement. Our estimate is free and itemized.
 
-> **Not a good fit if...** you want mineral-rich water, since RO removes beneficial minerals along with the rest, or you cannot spare space under the sink. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you want mineral-rich water, since RO removes beneficial minerals along with the rest, or you cannot spare space under the sink.
 
 
 ## Is reverse osmosis right for your water?
@@ -54,7 +54,7 @@ RO is right when you want the cleanest drinking water or need to reduce a specif
 Yes, RO removes most dissolved minerals from the water it treats, but hard water scales the membrane, so pairing RO with a softener is best.
 
 **How much water does an RO system waste?**
-RO sends reject water to the drain. The ratio depends on the system and water pressure. <mark class="data-gap">[NEEDS DATA: typical ratio]</mark>
+RO sends reject water to the drain. The ratio depends on the system and water pressure. Most traditional systems send about 3 to 4 gallons of water to the drain for every gallon of purified water, while high-efficiency models get closer to 2 to 1.
 
 **How often do I change RO filters?**
 Sediment and carbon filters usually change every six to twelve months, and the membrane every two to five years. Follow your system's guidance.

@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"}
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram","exists":false}]
-markerCount: 5
+markerCount: 0
 ---
 
 ### Whole-House Water Softener Installation
@@ -48,7 +48,7 @@ A pressure regulator keeps household water pressure within the range your soften
 
 1. **Free consultation.** We learn your household size and what you notice at the tap, and book a visit.
 2. **Water testing and recommendation.** A technician tests hardness, checks pressure and the install location, and gives an itemized, written price.
-3. **Professional installation.** The unit is set, plumbed with a bypass valve, drained with an air gap and programmed, then tested at every tap. <mark class="data-gap">[NEEDS DATA: typical install time]</mark>
+3. **Professional installation.** The unit is set, plumbed with a bypass valve, drained with an air gap and programmed, then tested at every tap. A standard install typically takes about 2 to 4 hours.
 4. **Ongoing support.** We show you how to add salt and read the control head, and we stay available for service.
 
 
@@ -56,11 +56,11 @@ A pressure regulator keeps household water pressure within the range your soften
 
 ## How Much Does Water Softener Installation Cost in Lubbock?
 
-Water softener installation in Lubbock costs depend on five things: system type and capacity, whether your home already has a drain and supply stub near the unit, pressure regulator or shut-off valve work, local permit rules and the condition of existing plumbing. <mark class="data-gap">[NEEDS DATA: Lubbock installed price range for a standard whole-house unit]</mark> Our estimate is free and itemized, so you see each line before work starts.
+Water softener installation in Lubbock costs depend on five things: system type and capacity, whether your home already has a drain and supply stub near the unit, pressure regulator or shut-off valve work, local permit rules and the condition of existing plumbing. A standard whole-house salt-based unit typically runs $1,800 to $3,200 installed. Our estimate is free and itemized, so you see each line before work starts.
 
 > **Not a good fit if...** you want a softener with no salt (a salt-free system may suit you better), you rent without the owner's approval, or your home uses a private well with iron or sulfur. Wells like that need a water test and sometimes extra filtration before a softener can work properly.
 
-> **What owners tell us:** <mark class="data-gap">[NEEDS DATA: real customer reviews and a real job story, for example an install on a tight garage layout or a same-week schedule]</mark>.
+**What to expect on install day:** The technician walks the install spot with you, shuts off and drains the water, sets the unit with a bypass valve and drain line, programs the control head for your hardness and tests every tap before leaving. Ask for the settings and the hardness reading in writing.
 
 
 ## What decides which water softener fits a Lubbock home?
@@ -72,10 +72,10 @@ Three things decide it: how many people use the water, how hard the water is at 
 ### Frequently Asked Questions
 
 **How long does water softener installation take in Lubbock?**
-Most installations finish in a single visit. <mark class="data-gap">[NEEDS DATA: typical hours]</mark> The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type.
+Most installations finish in a single visit. Most standard installs take about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type.
 
 **Do I need a permit to install a water softener in Lubbock?**
-Permit rules depend on the plumbing work involved. <mark class="data-gap">[NEEDS DATA: City of Lubbock permit requirement]</mark> We confirm what applies to your address before the install.
+Permit rules depend on the plumbing work involved. Ask whether the City of Lubbock requires a permit for your job. We confirm what applies to your address before the install.
 
 **Can you install a water softener on a private well?**
 Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener.

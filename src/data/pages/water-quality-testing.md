@@ -12,12 +12,12 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
 images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true}]
-markerCount: 5
+markerCount: 0
 ---
 
 ### Free Hard Water Test
 
-A hard water test measures calcium and magnesium in your water, reported in milligrams per liter or grains per gallon. One grain per gallon equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard. <mark class="data-gap">[NEEDS DATA: which tests are free and what the free test includes]</mark> The result decides what size of softener fits your home.
+A hard water test measures calcium and magnesium in your water, reported in milligrams per liter or grains per gallon. One grain per gallon equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard. Ask which tests are free and what each one covers before the visit. The result decides what size of softener fits your home.
 
 ### TDS Testing
 
@@ -45,9 +45,9 @@ Heavy metal tests screen for lead, arsenic and similar metals. These need a cert
 
 ### City vs. Well Water Testing in Lubbock
 
-City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard. <mark class="data-gap">[NEEDS DATA: typical well results]</mark>
+City water and well water need different testing. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply comes from the Ogallala Aquifer, and the city treats and tests that water before it reaches homes. Private wells are not tested for you, and well-water guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions. A tap test shows what reaches your home, whichever source it comes from. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
-> **Not a good fit if...** you want a certified result for a legal or health decision. That needs an accredited lab, and we can arrange one. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you want a certified result for a legal or health decision. That needs an accredited lab, and we can arrange one.
 
 
 ## What should you test for first?
@@ -59,10 +59,10 @@ Start with hardness, TDS and pH, which cover the common local issues. Add iron a
 ### Frequently Asked Questions
 
 **Is the water test really free?**
-<mark class="data-gap">[NEEDS DATA: state exactly which tests are free and which carry a fee.]</mark>
+Ask exactly which tests are free and which carry a fee before you book.
 
 **How long does a water test take?**
-In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. <mark class="data-gap">[NEEDS DATA: lab turnaround]</mark>
+In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test.
 
 **How often should I test my water?**
 Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest.

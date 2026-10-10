@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation"}
 images: [{"file":"water-softener-overton-tx.webp","alt":"Water softener Overton TX historic home and townhome installation","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ## Why Overton Residents Need a Water Softener
@@ -28,7 +28,7 @@ Overton has an unusual history. The Overton Addition was platted in 1907 as a 64
 - **Replacement and upgrade:** removal of a failing unit and a correctly sized new one.
 - **Repair and maintenance:** valves, injectors, leaks, salt and resin service.
 - **Water testing:** hardness, iron and pH at your tap.
-- **Property managers:** softeners and service for rental properties and small multi-unit buildings. <mark class="data-gap">[NEEDS DATA: confirm multi-unit service]</mark>
+- **Property managers:** ask about softeners and service for rental properties and small multi-unit buildings.
 
 ## About Overton Water Quality
 
@@ -38,7 +38,7 @@ City of Lubbock water quality reports describe water as it leaves the system, an
 
 We serve all of Lubbock, including the neighborhoods around Texas Tech and downtown, plus Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview and nearby towns. See the full [service areas](/service-areas/) page.
 
-> **Not a good fit if...** your building's owner or HOA controls the plumbing and has not approved a softener, or the unit has no room for one. We check space and approvals first. <mark class="data-gap">[NEEDS DATA: real Overton customer reviews]</mark>
+> **Not a good fit if...** your building's owner or HOA controls the plumbing and has not approved a softener, or the unit has no room for one. We check space and approvals first.
 
 
 

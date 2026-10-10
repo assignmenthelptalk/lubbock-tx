@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}
 images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ### Lead and Arsenic Removal
@@ -42,9 +42,9 @@ Volatile organic compounds are chemicals from fuels, solvents and industrial sou
 
 ## When to Test for Contaminants
 
-Test your water if you have a private well, an infant in the home, old plumbing, a change in taste or smell or a nearby source such as farming, fuel storage or industry. City of Lubbock water quality reports describe water that leaves the system, and roughly 60 to 70 percent of the city's supply comes from the Ogallala Aquifer. A test at your tap shows what reaches you. <mark class="data-gap">[NEEDS DATA: free versus lab tests]</mark>
+Test your water if you have a private well, an infant in the home, old plumbing, a change in taste or smell or a nearby source such as farming, fuel storage or industry. City of Lubbock water quality reports describe water that leaves the system, and roughly 60 to 70 percent of the city's supply comes from the Ogallala Aquifer. A test at your tap shows what reaches you. Ask which tests are free and which need an accredited lab, and what each costs.
 
-> **Not a good fit if...** you have no test result. We do not sell a filter for a problem you may not have. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you have no test result. We do not sell a filter for a problem you may not have.
 
 
 ## How do you know which contaminant matters?

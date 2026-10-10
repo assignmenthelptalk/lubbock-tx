@@ -26,13 +26,7 @@ const localBusinessSchema = {
     name,
   })),
   serviceType: "Water Softener Installation & Water Treatment",
-  // Placeholder until the rented business confirms real hours in Keystatic.
-  openingHoursSpecification: {
-    "@type": "OpeningHoursSpecification",
-    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    opens: "08:00",
-    closes: "17:00",
-  },
+  // No openingHoursSpecification: add one only when the business confirms its real hours.
   sameAs: site.googleBusinessUrl ? [site.googleBusinessUrl] : undefined,
 };
 ---

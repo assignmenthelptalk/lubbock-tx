@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}
 images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Salt-Free Water Conditioners
@@ -45,7 +45,7 @@ A softener removes hardness. A conditioner reduces scale without removing it.
 
 For the full softener range, see the [water treatment services](/water-treatment-and-testing/) overview.
 
-> **Not a good fit if...** your water is very hard and you want true soft water, or your well carries iron. A conditioner will not fix either. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** your water is very hard and you want true soft water, or your well carries iron. A conditioner will not fix either.
 
 
 ## What does your home need to protect?

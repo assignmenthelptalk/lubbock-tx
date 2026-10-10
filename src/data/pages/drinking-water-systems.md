@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}
 images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ### Under Sink Drinking Water Systems
@@ -31,7 +31,7 @@ An alkaline water system adds a stage that raises the water's pH after filtratio
 
 A bottleless water cooler connects to your water line and filters water on demand, so you stop buying and lifting jugs. It suits offices, clinics and homes that use a lot of drinking water. We install the line, the drain if needed, and the filter set.
 
-> **Not a good fit if...** you want to treat the whole house. A drinking water system treats one tap, so hardness elsewhere remains. A [water softener system](/water-softener-systems/) handles the rest. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you want to treat the whole house. A drinking water system treats one tap, so hardness elsewhere remains. A [water softener system](/water-softener-systems/) handles the rest.
 
 
 ## Which drinking water system fits your home or office?

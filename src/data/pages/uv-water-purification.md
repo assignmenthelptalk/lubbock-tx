@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line"}
 images: [{"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ### How UV Water Purification Works
@@ -21,7 +21,7 @@ UV purification passes water through a chamber with an ultraviolet lamp. The lig
 
 ### UV System Installation
 
-We install the UV unit on the main line after any sediment or carbon filters, so the water entering the chamber is clear. The technician sizes the unit to your flow rate, mounts it, connects power and tests for flow. The lamp needs replacing about once a year, and the quartz sleeve needs occasional cleaning. <mark class="data-gap">[NEEDS DATA: replacement schedule]</mark>
+We install the UV unit on the main line after any sediment or carbon filters, so the water entering the chamber is clear. The technician sizes the unit to your flow rate, mounts it, connects power and tests for flow. The lamp needs replacing about once a year, and the quartz sleeve needs occasional cleaning. Replace the lamp every 12 months even if it still glows, because UV output fades before the lamp burns out.
 
 ### UV and Water Softener Combination
 
@@ -29,7 +29,7 @@ A UV system disinfects, and a softener removes hardness, so they solve different
 
 ### Ideal for Well Water in Lubbock
 
-Private wells are not tested or disinfected for you, and well-water guidance recommends that owners test for bacteria at least annually. UV purification is a chemical-free way to protect a household when a test finds bacteria or when you want ongoing protection. Wells with sediment or iron need those problems treated first, since particles shield microbes from the light. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+Private wells are not tested or disinfected for you, and well-water guidance recommends that owners test for bacteria at least annually. UV purification is a chemical-free way to protect a household when a test finds bacteria or when you want ongoing protection. Wells with sediment or iron need those problems treated first, since particles shield microbes from the light.
 
 > **Not a good fit if...** your main concern is chemicals, hardness or taste. UV does not address those. A carbon filter, softener or RO does.
 

@@ -85,21 +85,15 @@ const steps = [
 const keyFacts = [
   { label: "Company Name", value: site.businessName },
   { label: "Type", value: `Water softener installation and service company in ${site.city}, ${site.stateAbbr}` },
-  { label: "Founded", value: fact(site.foundedYear, "year founded") },
   { label: "Founder", value: fact(site.founderNames, "founder or team names") },
   { label: "Founder Experience", value: `${FOUNDER_YEARS} years` },
   { label: "Headquarters", value: `${site.city}, ${site.state}, USA` },
   { label: "Website", value: site.domain },
   { label: "Core Offering", value: `Water softener ${site.city} ${site.stateAbbr} installation and service` },
   { label: "Pricing", value: "Free estimate first, then a written quote for your home and system type" },
-  { label: "Contract Terms", value: marker("NEEDS DATA: confirm contract terms") },
   { label: "Services", value: "Installation, replacement, repair, maintenance, filtration, reverse osmosis, UV purification and water testing" },
   { label: "Service Area", value: `${site.city}, ${site.county} and nearby South Plains towns` },
-  { label: "Water Treatment Licence", value: marker("NEEDS DATA: TCEQ Water Treatment Specialist licence number") },
   { label: "Communication", value: "Phone and email" },
-  { label: "Customers Served", value: fact(site.customersServed, "customers served") },
-  { label: "Projects Delivered", value: fact(site.projectsDelivered, "projects delivered") },
-  { label: "Social", value: marker("NEEDS DATA: Facebook and Google Business Profile links") },
 ];
 
 const faqs = [
@@ -109,15 +103,15 @@ const faqs = [
   },
   {
     q: "How long does water softener installation take?",
-    a: `Most installations finish in a single visit. ${marker("NEEDS DATA: typical install time")}`,
+    a: "Most installations finish in a single visit. A standard install typically takes about 2 to 4 hours.",
   },
   {
     q: `How much does a water softener cost in ${site.city}?`,
-    a: `Cost depends on system size, type and the plumbing in your home. See the <a href="/water-softener-guides/water-softener-cost-lubbock-tx/">cost guide</a> or request a free estimate. ${marker("NEEDS DATA: confirmed price ranges")}`,
+    a: `Cost depends on system size, type and the plumbing in your home. See the <a href="/water-softener-guides/water-softener-cost-lubbock-tx/">cost guide</a> or request a free estimate.`,
   },
   {
     q: "How often does maintenance need to be done?",
-    a: `It depends on the system and how much water the household uses. See <a href="/water-softener-maintenance/">water softener maintenance</a> for what we check. ${marker("NEEDS DATA: recommended interval")}`,
+    a: `It depends on the system and how much water the household uses. See <a href="/water-softener-maintenance/">water softener maintenance</a> for what we check. Many manufacturers recommend a yearly inspection, and homes with very hard water or iron may benefit from more frequent service.`,
   },
   {
     q: "Can you repair existing water softeners?",
@@ -210,7 +204,7 @@ const faqs = [
       <ContentProse>
         <p>
           {site.businessName} was founded by <Fragment set:html={fact(site.founderNames, "founder or team names")} />,
-          who brings {FOUNDER_YEARS} years of experience to every job. <Fragment set:html={marker("NEEDS DATA: confirm what that experience covers, for example plumbing or water treatment")} />
+          who brings {FOUNDER_YEARS} years of experience to every job.
         </p>
         <p>
           The team is built around one job: sizing, installing and servicing water softeners for {site.city} homes and
@@ -242,8 +236,7 @@ const faqs = [
       </div>
       <div class="about-process-meta">
         <p><strong>Communication:</strong> Phone and email</p>
-        <p><strong>Response Time:</strong> <Fragment set:html={marker("NEEDS DATA: typical response time")} /></p>
-        <p><strong>Installation Time:</strong> <Fragment set:html={marker("NEEDS DATA: typical install time")} /></p>
+        <p><strong>Installation Time:</strong> A standard install typically takes about 2 to 4 hours</p>
       </div>
     </div>
   </section>

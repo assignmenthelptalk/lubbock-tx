@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation"}
 images: [{"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation","exists":true}]
-markerCount: 2
+markerCount: 1
 ---
 
 ## Why Plainview Residents Need a Water Softener
@@ -40,7 +40,7 @@ Private wells outside the city are not covered by that report. Well owners shoul
 
 We serve Lubbock, Wolfforth, Shallowater, Slaton, Idalou, Levelland, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. See the full [service areas](/service-areas/) page.
 
-> **Not a good fit if...** your home runs on a private well with iron or bacteria. We test and treat those first. <mark class="data-gap">[NEEDS DATA: real Plainview customer reviews and travel or scheduling terms for Plainview]</mark>
+> **Not a good fit if...** your home runs on a private well with iron or bacteria. We test and treat those first. Ask about scheduling for Plainview when you request an estimate.
 
 
 

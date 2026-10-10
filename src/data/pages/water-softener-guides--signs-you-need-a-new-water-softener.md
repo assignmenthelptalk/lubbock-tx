@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
 images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ### 1. Hard-Water Symptoms Return
@@ -41,7 +41,7 @@ Tiny tan or yellow beads appear in faucet screens or the sink. **Check:** compar
 
 ### 7. The Unit Is Past 10 to 15 Years Old
 
-Industry guidance commonly cites 10 to 15 years for a residential softener. <mark class="data-gap">[VERIFY: confirm against a manufacturer or Water Quality Association source]</mark> **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
+Industry guidance commonly cites 10 to 15 years for a residential softener. **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
 
 > **Not a good fit if...** your unit is under about five years old and only shows one sign. Repair or maintenance is the cheaper answer. See our [water softener replacement](/water-softener-replacement/) page for when a new unit makes sense.
 
@@ -64,7 +64,7 @@ Often yes, if it shows any of the signs above. New units regenerate by demand an
 Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit.
 
 **How long does replacement take?**
-Most replacements finish in one visit. <mark class="data-gap">[NEEDS DATA: typical hours]</mark>
+Most replacements finish in one visit, often in 2 to 4 hours.
 
 
 

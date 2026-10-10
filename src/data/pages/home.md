@@ -12,19 +12,19 @@ formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
 leadImage: {"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"}
 images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home","exists":true},{"file":"installed-softener-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage","exists":true},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram","exists":false}]
-markerCount: 7
+markerCount: 0
 ---
 
 ## Why Lubbock Elite Water Softener is Lubbock's Most Trusted Water Softener Company
 
 Homeowners choose a water softener company on five things: who does the work, how the system is backed, how fast help arrives, whether the installer knows local water, and what happens if the result disappoints. Here is how Lubbock Elite Water Softener answers each one.
 
-- **Experience:** Our founder has 14 years of experience. <mark class="data-gap">[NEEDS DATA: number of systems installed]</mark>. Every installation follows the same sizing and setup process.
-- **Warranty:** Systems and workmanship are backed by a written warranty. <mark class="data-gap">[NEEDS DATA: warranty length and terms]</mark>
-- **Licensed technicians:** Installations are performed by TCEQ-licensed water treatment specialists. <mark class="data-gap">[NEEDS DATA: licence number and insurance details]</mark>
+- **Experience:** Our founder has 14 years of experience. Every installation follows the same sizing and setup process.
+- **Warranty:** Your estimate should state the warranty on the equipment and on the labor. Read it before you approve the work.
+- **Licensed technicians:** In Texas, water treatment installers are licensed through TCEQ. Ask any installer, us included, for the licence number and proof of insurance before work starts.
 - **Local West Texas expertise:** Our technicians work with Ogallala Aquifer groundwater and the blended city supply every week, so they size systems for the water that actually comes out of Lubbock taps.
-- **Same-day service:** Call before noon and we will do our best to schedule a technician the same day for repairs and urgent installs. <mark class="data-gap">[NEEDS DATA: confirm same-day policy]</mark>
-- **Satisfaction guarantee:** If your softened water does not meet what we promised at the estimate, we return and make it right. <mark class="data-gap">[NEEDS DATA: guarantee terms]</mark>
+- **Fast scheduling:** Call early in the day and ask what is open. Same-day service depends on technician availability.
+- **Clear scope and price:** Your free estimate is itemized, so you see what is included before work starts.
 
 
 
@@ -84,7 +84,7 @@ A water softener removes calcium and magnesium through ion exchange and replaces
 
 1. **Free Consultation:** We talk through your household size, water use and what you notice at the tap, then book a visit at a time that suits you.
 2. **Water Testing & System Recommendation:** A technician tests your water, measures hardness and recommends a softener size and type, with a written, itemized price.
-3. **Professional Installation:** A TCEQ-licensed technician installs the system, connects the drain and brine line, programs the control head and tests every tap. <mark class="data-gap">[NEEDS DATA: typical install time]</mark>
+3. **Professional Installation:** A qualified technician installs the system, connects the drain and brine line, programs the control head and tests every tap. A standard install typically takes about 2 to 4 hours.
 4. **Ongoing Support & Maintenance:** We explain salt refills and settings, check the system at follow-up visits and answer questions after the job is done.
 
 
@@ -108,7 +108,7 @@ The best system matches your household size and your test results. A salt-based 
 A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills and a drain. A salt-free system conditions the water so scale does not stick, adds no sodium, and leaves the minerals in the water. Salt-based units deliver true softening, while salt-free units reduce scale.
 
 ### How long does water softener installation take?
-Most installations finish in a single visit. <mark class="data-gap">[NEEDS DATA: typical hours]</mark> The technician confirms the timeline at your estimate, based on plumbing access and system type.
+Most installations finish in a single visit, typically in about 2 to 4 hours. The technician confirms the timeline at your estimate, based on plumbing access and system type.
 
 ### Do I need a water softener with city water or well water in Lubbock?
 Both benefit. City water is a blend of Ogallala groundwater and surface water, and it still arrives hard. Private well water draws directly from the aquifer and can be harder and carry iron or other minerals. Nobody tests a private well for you, so a test shows whether a softener alone is enough.

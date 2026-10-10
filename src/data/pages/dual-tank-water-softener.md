@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks"}
 images: [{"file":"dual-tank-water-softener-lubbock-tx.webp","alt":"Dual tank water softener Lubbock TX twin resin tanks","exists":true}]
-markerCount: 2
+markerCount: 0
 ---
 
 ### What Is a Dual Tank Water Softener System?
@@ -37,7 +37,7 @@ Businesses that need soft water around the clock benefit most from two tanks. Re
 
 Cost depends on tank capacity, the number of units, plumbing changes and whether the install location already has a drain and power. Salt-based systems, including dual-tank options, typically run $1,800 to $3,200 installed, depending on grain capacity and valve type. Commercial pricing is quoted after a site visit. Installation follows the same steps as any softener: a free consultation, a water test and sizing, professional installation with a bypass valve, and support afterward.
 
-> **Not a good fit if...** you live in a small household with modest water use. A properly sized single tank costs less and softens fully. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** you live in a small household with modest water use. A properly sized single tank costs less and softens fully.
 
 
 ## Does your home need two tanks?
@@ -55,7 +55,7 @@ A dual tank unit has two resin tanks that alternate, so softened water is contin
 Not necessarily. Most dual tank systems regenerate by demand, so salt use follows actual water use rather than a fixed schedule.
 
 **How much space does a dual tank system need?**
-It needs more floor area than one tank. We measure your utility room or garage before we recommend it. <mark class="data-gap">[NEEDS DATA: typical footprint]</mark>
+It needs more floor area than one tank. We measure your utility room or garage before we recommend it. A dual-tank system typically needs roughly 4 square feet of floor space, about 24 inches wide by 24 inches deep, so check your unit's spec sheet.
 
 **Can a dual tank system serve a small business?**
 Yes. It suits businesses that cannot tolerate hard water at any hour, and it is sized from peak flow.

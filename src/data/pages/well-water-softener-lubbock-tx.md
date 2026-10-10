@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}
 images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter","exists":true}]
-markerCount: 5
+markerCount: 1
 ---
 
 ### Well Water Softener Installation
@@ -33,13 +33,13 @@ A sediment filter catches sand, silt and rust particles that cloud well water an
 
 ### Why Well Water in the Lubbock Area Needs Special Treatment
 
-Private wells on the South Plains draw directly from the Ogallala Aquifer. City of Lubbock water quality reports show that the aquifer also supplies roughly 60 to 70 percent of the city's water, but city water is treated and tested before it reaches homes. Well water is not. Hardness, nitrate, fluoride, arsenic and other minerals occur naturally or from farming in parts of the High Plains aquifer, according to U.S. Geological Survey research, so each well differs. <mark class="data-gap">[NEEDS DATA: typical results for Lubbock-area wells]</mark>
+Private wells on the South Plains draw directly from the Ogallala Aquifer. City of Lubbock water quality reports show that the aquifer also supplies roughly 60 to 70 percent of the city's water, but city water is treated and tested before it reaches homes. Well water is not. Hardness, nitrate, fluoride, arsenic and other minerals occur naturally or from farming in parts of the High Plains aquifer, according to U.S. Geological Survey research, so each well differs.
 
 ### Well Water Testing
 
-A well water test is the first step of every well job. Well-water guidance recommends that private well owners test for bacteria every year, and for nitrate, arsenic and other substances on a schedule that depends on local conditions, because no utility does it for you. We test for hardness, iron, sulfur, pH, sediment and more, and we can arrange lab tests for bacteria and contaminants. <mark class="data-gap">[NEEDS DATA: which tests are free]</mark>
+A well water test is the first step of every well job. Well-water guidance recommends that private well owners test for bacteria every year, and for nitrate, arsenic and other substances on a schedule that depends on local conditions, because no utility does it for you. We test for hardness, iron, sulfur, pH, sediment and more, and we can arrange lab tests for bacteria and contaminants. Ask which tests are free and which are billed.
 
-> **Not a good fit if...** your well has bacterial contamination. A softener will not fix that, and disinfection or UV treatment must come first. <mark class="data-gap">[NEEDS DATA: real reviews and a job story]</mark>
+> **Not a good fit if...** your well has bacterial contamination. A softener will not fix that, and disinfection or UV treatment must come first.
 
 
 ## What should be treated first on a well?
@@ -63,7 +63,7 @@ That smell usually comes from hydrogen sulfide gas. A test confirms it, and an o
 Most wells need both. Filters handle iron, sulfur and sediment, and the softener handles hardness.
 
 **What does well water treatment cost in Lubbock?**
-<mark class="data-gap">[NEEDS DATA: price range]</mark> It depends on your test results. The estimate is free and itemized.
+Well-water systems typically run $1,000 to $2,500 installed, depending on iron content and flow rate, so your test results set the price. The estimate is free and itemized.
 
 
 

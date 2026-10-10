@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation"}
 images: [{"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation","exists":true}]
-markerCount: 2
+markerCount: 1
 ---
 
 ## Why Shallowater Residents Need a Water Softener
@@ -39,7 +39,7 @@ Homes on private wells around Shallowater are not covered by any city report. We
 
 We serve Lubbock, Wolfforth, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. See the full [service areas](/service-areas/) page for the list.
 
-> **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first. <mark class="data-gap">[NEEDS DATA: real Shallowater customer reviews]</mark>
+> **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
 
 
 

@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-tech-terrace-tx.webp","alt":"Water softener Tech Terrace TX older home utility room installation"}
 images: [{"file":"water-softener-tech-terrace-tx.webp","alt":"Water softener Tech Terrace TX older home utility room installation","exists":true}]
-markerCount: 1
+markerCount: 0
 ---
 
 ## Why Tech Terrace Residents Need a Water Softener
@@ -38,7 +38,7 @@ City of Lubbock water quality reports describe water as it leaves the treatment 
 
 We serve all of Lubbock, including the neighborhoods around Texas Tech, plus Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview and nearby towns. See the full [service areas](/service-areas/) page.
 
-> **Not a good fit if...** you rent without the owner's approval, or your home needs major plumbing repair first. A softener cannot fix failing pipes. <mark class="data-gap">[NEEDS DATA: real Tech Terrace customer reviews]</mark>
+> **Not a good fit if...** you rent without the owner's approval, or your home needs major plumbing repair first. A softener cannot fix failing pipes.
 
 
 
