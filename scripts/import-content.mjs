@@ -240,9 +240,29 @@ const nav = {
 };
 fs.writeFileSync(OUT_NAV, JSON.stringify(nav, null, 2) + "\n");
 
+// ---- service-areas map -----------------------------------------------------
+// The strategy folder's map-points.json lists the city centre and one point per location page.
+// Only points whose page was imported are kept, so a pin never links to a missing page.
+const OUT_MAP = path.join(root, "src", "data", "map-points.json");
+const mapSrc = path.join(SOURCE, "map-points.json");
+let mapOut = { source: "", center: null, points: [] };
+let mapNote = "none (add map-points.json to the strategy folder)";
+if (fs.existsSync(mapSrc)) {
+  const raw = JSON.parse(fs.readFileSync(mapSrc, "utf8"));
+  const num = (v) => typeof v === "number" && Number.isFinite(v);
+  if (!raw.center || !num(raw.center.lat) || !num(raw.center.lng)) throw new Error("map-points.json needs center { name, lat, lng }");
+  const points = (raw.points || []).filter((p) => built.has(p.slug));
+  for (const p of points) if (!num(p.lat) || !num(p.lng)) throw new Error(`map-points.json: bad coordinates for ${p.slug}`);
+  const skipped = (raw.points || []).length - points.length;
+  mapOut = { source: raw.source || "", center: raw.center, points };
+  mapNote = `${points.length} pins${skipped ? `, ${skipped} skipped (page not built yet)` : ""}${points.some((p) => p.approx) ? ", some approximate" : ""}`;
+}
+fs.writeFileSync(OUT_MAP, JSON.stringify(mapOut, null, 2) + "\n");
+
 // ---- launch checklist ------------------------------------------------------
 const total = pages.reduce((n, p) => n + p.markers.length, 0);
-const missingImages = [...new Set(pages.flatMap((p) => p.missingImages))];
+// The service-areas map image is replaced by the interactive map once it has pins.
+const missingImages = [...new Set(pages.flatMap((p) => p.missingImages))].filter((f) => !(mapOut.points.length && /service-areas/.test(f)));
 const rows = pages
   .sort((a, b) => a.slug.localeCompare(b.slug))
   .map((p) => {
@@ -262,6 +282,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names
+- [ ] Service-areas map: ${mapNote}. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Build the images still missing (code-made diagrams, listed below): ${missingImages.length ? missingImages.join(", ") : "none"}
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Decide on Idalou and write the remaining nine town pages (see Local-SEO-Toolkit reports)

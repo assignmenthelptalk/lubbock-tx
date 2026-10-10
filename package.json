@@ -16,8 +16,10 @@
     "@astrojs/sitemap": "^3.7.4",
     "@astrojs/vercel": "^11.0.10",
     "@tailwindcss/vite": "^4.3.3",
+    "@types/leaflet": "^1.9.22",
     "astro": "^7.3.1",
     "astro-seo": "^1.2.0",
+    "leaflet": "^1.9.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "tailwindcss": "^4.3.3"

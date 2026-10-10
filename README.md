@@ -62,8 +62,8 @@ next import overwrites them.
     written copy. The first one on a page is its lead image (shown below the
     hero); later ones become inline images. A file missing from
     `src/assets/images` is skipped and listed in `LAUNCH-CHECKLIST.md`.
-  - Still missing: the three code-built images (installation process diagram,
-    size chart, service-areas map).
+  - Still missing: the two code-built images (installation process diagram and
+    size chart). The service-areas map is built (see below).
   - To swap in a real job photo, save a WebP under the same file name.
   - Three photos show a sliver of a face at the frame edge (water filtration,
     reverse osmosis, Tech Terrace); crop or regenerate before launch.
@@ -73,5 +73,9 @@ next import overwrites them.
 Real phone and email (the quote form is disabled until `businessEmail` is
 set), exact Lubbock hardness figure, TCEQ licence number, warranty and
 guarantee terms, price ranges, reviews, final meta descriptions, real photos in
-place of the AI stand-ins, the three code-built images, and the remaining town
+place of the AI stand-ins, the two code-built images, and the remaining town
 pages.
+
+## Service-areas map
+
+The service-areas page has an interactive map (`src/components/ServiceAreaMap.astro`, Leaflet on OpenStreetMap). Pins come from `map-points.json` in the strategy folder (`Local-SEO-Toolkit/data/lubbockelitewatersoftener/`); `npm run import-content` copies it to `src/data/map-points.json` and keeps only pins whose page is built. Add a point when a town page is written. Tech Terrace and Overton pins are approximate (OpenStreetMap returned a place inside each neighbourhood, not its centre).

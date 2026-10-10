@@ -8,6 +8,7 @@ import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
 import PageHero from "../components/PageHero.astro";
 import ContentProse from "../components/ContentProse.astro";
+import ServiceAreaMap from "../components/ServiceAreaMap.astro";
 import { site } from "../lib/site";
 
 export function getStaticPaths() {
@@ -54,6 +55,8 @@ const primaryCta = { href: telHref, text: `📞 ${site.phoneNumber}` };
   >
     <p slot="opening" set:html={fm.openingHtml} />
   </PageHero>
+
+  {fm.pageType === "geo-hub" && <ServiceAreaMap />}
 
   <section class="section">
     <div class="container">

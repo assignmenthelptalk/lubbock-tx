@@ -1,0 +1,38 @@
+{
+  "source": "OpenStreetMap Nominatim, looked up 2026-10-10. City and town points are the OSM boundary centres. Neighbourhood points (approx: true) are a feature inside the neighbourhood (Tech Terrace: a business on Elgin Avenue in the Tech Terrace U.N.I.T. area; Overton: the U Club Townhomes at Overton Park), not the neighbourhood centre. Replace them with a surveyed centre if exact placement matters. Add a point here for every location page once it is written.",
+  "center": {
+    "name": "Lubbock",
+    "lat": 33.5856,
+    "lng": -101.847
+  },
+  "points": [
+    {
+      "name": "Tech Terrace",
+      "slug": "/water-softener-tech-terrace-tx/",
+      "lat": 33.5637,
+      "lng": -101.879,
+      "approx": true
+    },
+    {
+      "name": "Overton",
+      "slug": "/water-softener-overton-tx/",
+      "lat": 33.589,
+      "lng": -101.8652,
+      "approx": true
+    },
+    {
+      "name": "Shallowater",
+      "slug": "/water-softener-shallowater-tx/",
+      "lat": 33.6912,
+      "lng": -101.9927,
+      "approx": false
+    },
+    {
+      "name": "Plainview",
+      "slug": "/water-softener-plainview-tx/",
+      "lat": 34.1848,
+      "lng": -101.7068,
+      "approx": false
+    }
+  ]
+}

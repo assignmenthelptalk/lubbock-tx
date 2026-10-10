@@ -72,7 +72,7 @@ these; leave the trust section out of a page until real ones exist.
 | 2 | Final meta description for each of 29 pages (now drafted from the opening paragraph) | page frontmatter, set in the written copy |
 | 3 | Neighbourhood list (only Tech Terrace and Overton are set) | `neighbourhoods` |
 | 4 | Real photos to replace the AI stand-ins; crop or regenerate three with face edges (filtration, reverse osmosis, Tech Terrace) | `src/assets/images` |
-| 5 | Three code-built images: installation process diagram, size chart, service-areas map | not yet built |
+| 5 | Two code-built images: installation process diagram and size chart (the service-areas map is built, see section G) | not yet built |
 | 6 | Search volume re-check | `searchVol` (110) |
 
 ## F. Content still to write
@@ -85,3 +85,8 @@ these; leave the trust section out of a page until real ones exist.
 ## Update 2026-10-09
 
 Approximate values from the downloaded water-system report were applied (hardness range, price ranges, TDS, pH, disinfectant, Plainview and Shallowater ranges, intervals). Markers fell from about 110 to 74. Sections B, D and the town items above are partly resolved; see `Local-SEO-Toolkit/DATA-REQUIRED.md` for the current status.
+
+
+## G. Service-areas map (added 2026-10-10)
+
+Built: `map-points.json` (strategy folder) feeds the map on /service-areas/. Open: confirm the Tech Terrace and Overton pin positions (approximate), and add a point for each new town page.
