@@ -158,8 +158,10 @@ for (const file of files) {
   });
   body = body.replace(/<!--[\s\S]*?-->/g, "");
 
-  const noteMatch = body.match(/^\*(Page type:[^\n]*)\*\s*$/m);
-  body = body.replace(/^\*Page type:[^\n]*\*\s*$/m, "");
+  // Internal author note at the end of a page ("*Page type: ...*" or "*Word count: ... | Page type: ...*").
+  // It is for the writer, never for the site, so it is stripped before rendering.
+  const noteMatch = body.match(/^\*((?:Page type|Word count):[^\n]*)\*\s*$/m);
+  body = body.replace(/^\*(?:Page type|Word count):[^\n]*\*\s*$/m, "");
 
   const lines = body.split("\n");
   const cleaned = [];

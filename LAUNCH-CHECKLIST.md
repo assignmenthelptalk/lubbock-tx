@@ -17,13 +17,13 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ## Totals
 - Pages built: 30
-- Open markers: 74
+- Open markers: 72
 - Draft meta descriptions: 29
 
 ## Per page
 ### /
 - Meta description: final
-- Open markers: 9
+- Open markers: 7
   - [NEEDS DATA: number of systems installed]
   - [NEEDS DATA: warranty length and terms]
   - [NEEDS DATA: licence number and insurance details]
@@ -31,8 +31,6 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - [NEEDS DATA: guarantee terms]
   - [NEEDS DATA: typical install time]
   - [NEEDS DATA: typical hours]
-  - [NEEDS DATA]
-  - [VERIFY]
 
 ### /commercial-water-softener/
 - Meta description: DRAFT, needs final wording

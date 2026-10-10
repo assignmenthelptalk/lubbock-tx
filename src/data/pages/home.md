@@ -12,7 +12,7 @@ formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
 leadImage: {"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"}
 images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home","exists":true},{"file":"installed-softener-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage","exists":true},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram","exists":false}]
-markerCount: 9
+markerCount: 7
 ---
 
 ## Why Lubbock Elite Water Softener is Lubbock's Most Trusted Water Softener Company
@@ -123,8 +123,3 @@ We serve Lubbock and surrounding West Texas communities, including Wolfforth, Sh
 ## Lubbock Areas We Serve
 
 Lubbock Elite Water Softener provides water softener installation, replacement, repair and water testing across Lubbock and the South Plains, including Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. Whether your home uses city water or a private well, call or request a free estimate and we will confirm service to your address.
-
-
-
-
-*Word count: about 1,450 | Page type: homepage | Central entity: water softener | Open <mark class="data-gap">[NEEDS DATA]</mark> items: 8, <mark class="data-gap">[VERIFY]</mark> items: 2*
