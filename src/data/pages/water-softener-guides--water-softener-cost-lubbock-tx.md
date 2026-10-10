@@ -58,7 +58,7 @@ A good quote lists the same items every time, so you can compare. Look for:
 4. Any pressure regulator or shut-off valve work.
 5. Permit costs, if required.
 6. Warranty terms for the tank, resin, valve and labor.
-7. The installer's TCEQ water treatment specialist licence number.
+7. The installer's licence number: a TCEQ Water Treatment Specialist licence or a Texas State Board of Plumbing Examiners licence.
 8. A statement of what is not included.
 
 ### How to Compare Quotes
@@ -86,7 +86,7 @@ Hard water scale shortens the life of water heaters and appliances and raises en
 Financing varies by installer. Ask whether it is offered and read the terms before you sign.
 
 **Can I save money by installing it myself?**
-Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed water treatment specialist should include a tested result and a warranty on the work.
+Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed installer should include a tested result and a warranty on the work.
 
 **What does a salt-free system cost compared with a salt-based one?**
 Salt-free systems usually cost less to run and may cost less or more to buy depending on the type. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800.

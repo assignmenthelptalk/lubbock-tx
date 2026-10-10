@@ -40,7 +40,7 @@ Commercial units differ from residential ones in four ways: they handle higher f
 
 1. **Site visit and water test.** We measure flow, pressure and hardness and review the equipment to protect.
 2. **Written proposal.** You receive a sized system and an itemized price.
-3. **Installation.** A qualified technician installs the unit with a bypass valve and drain, scheduled to limit downtime. Ask for the technician's TCEQ licence number and proof of insurance before the work starts.
+3. **Installation.** A qualified technician installs the unit with a bypass valve and drain, scheduled to limit downtime. Ask for the technician's TCEQ or plumbing-board licence number and proof of insurance before the work starts.
 4. **Handover and support.** We show your staff how to check salt and read the control head.
 
 ### Maintenance Plans

@@ -21,7 +21,7 @@ Homeowners choose a water softener company on five things: who does the work, ho
 
 - **Experience:** Our founder has 14 years of experience. Every installation follows the same sizing and setup process.
 - **Warranty:** Your estimate should state the warranty on the equipment and on the labor. Read it before you approve the work.
-- **Licensed technicians:** In Texas, water treatment installers are licensed through TCEQ. Ask any installer, us included, for the licence number and proof of insurance before work starts.
+- **Licensed technicians:** In Texas, anyone who installs a water softener under contract must hold a TCEQ Water Treatment Specialist licence or be licensed by the Texas State Board of Plumbing Examiners. Ask any installer, us included, for the licence number and proof of insurance before work starts.
 - **Local West Texas expertise:** Our technicians work with Ogallala Aquifer groundwater and the blended city supply every week, so they size systems for the water that actually comes out of Lubbock taps.
 - **Fast scheduling:** Call early in the day and ask what is open. Same-day service depends on technician availability.
 - **Clear scope and price:** Your free estimate is itemized, so you see what is included before work starts.
