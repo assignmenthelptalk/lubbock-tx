@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
 images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true}]
+faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often should I test my water?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply. Lubbock Elite Water Softener TX provides water quality testing for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -56,26 +57,50 @@ Start with hardness, TDS and pH, which cover the common local issues. Add iron a
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is the water test really free?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is the water test really free?</summary>
+
 Ask exactly which tests are free and which carry a fee before you book.
 
-**How long does a water test take?**
+</details>
+
+<details class="faq-item">
+<summary>How long does a water test take?</summary>
+
 In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test.
 
-**How often should I test my water?**
+</details>
+
+<details class="faq-item">
+<summary>How often should I test my water?</summary>
+
 Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest.
 
-**Do I need a test before buying a softener?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a test before buying a softener?</summary>
+
 Yes. The result sizes the softener and shows whether you also need a filter.
 
-**What test shows if my water is safe to drink?**
+</details>
+
+<details class="faq-item">
+<summary>What test shows if my water is safe to drink?</summary>
+
 A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water quality testing for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

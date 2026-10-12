@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart","exists":false}]
+faq: [{"q":"Is bigger always better for a water softener?","a":"No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days."},{"q":"How often should a softener regenerate?","a":"Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use."},{"q":"Does the number of bathrooms matter?","a":"Bathrooms matter through people and usage. Count people and heavy water use rather than rooms."},{"q":"What if my family grows or I add a pool?","a":"Re-run the formula. A larger load may call for the next size up or a dual tank system. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -64,23 +65,43 @@ Count the people in the home, estimate heavy water use and get a hardness and ir
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is bigger always better for a water softener?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is bigger always better for a water softener?</summary>
+
 No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days.
 
-**How often should a softener regenerate?**
+</details>
+
+<details class="faq-item">
+<summary>How often should a softener regenerate?</summary>
+
 Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use.
 
-**Does the number of bathrooms matter?**
+</details>
+
+<details class="faq-item">
+<summary>Does the number of bathrooms matter?</summary>
+
 Bathrooms matter through people and usage. Count people and heavy water use rather than rooms.
 
-**What if my family grows or I add a pool?**
+</details>
+
+<details class="faq-item">
+<summary>What if my family grows or I add a pool?</summary>
+
 Re-run the formula. A larger load may call for the next size up or a dual tank system.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

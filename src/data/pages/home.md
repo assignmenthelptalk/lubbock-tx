@@ -12,6 +12,7 @@ formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
 leadImage: {"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"}
 images: [{"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home","exists":true},{"file":"installed-softener-lubbock-tx.webp","alt":"Installed water softener system Lubbock TX garage","exists":true},{"file":"hard-water-buildup-lubbock-tx.webp","alt":"Hard water scale buildup on a faucet water softener Lubbock TX","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener Lubbock TX installation steps diagram","exists":false}]
+faq: [{"q":"How hard is Lubbock water?","a":"Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association. Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing."},{"q":"How much does water softener installation cost in Lubbock, TX?","a":"Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. A standard salt-based system typically runs $1,800 to $3,200 installed, depending on grain capacity, dual-tank options and valve type. The free estimate gives an itemized price for your home before any work begins."},{"q":"What is the best water softener for Lubbock water?","a":"The best system matches your household size and your test results. A salt-based softener removes hardness minerals and suits the harder end of Lubbock readings, and the technician sizes its capacity to your daily water use. Salt-free systems suit homeowners who prioritize low maintenance."},{"q":"Salt vs. salt-free water softener: what is the difference?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills and a drain. A salt-free system conditions the water so scale does not stick, adds no sodium, and leaves the minerals in the water. Salt-based units deliver true softening, while salt-free units reduce scale."},{"q":"How long does water softener installation take?","a":"Most installations finish in a single visit, typically in about 2 to 4 hours. The technician confirms the timeline at your estimate, based on plumbing access and system type."},{"q":"Do I need a water softener with city water or well water in Lubbock?","a":"Both benefit. City water is a blend of Ogallala groundwater and surface water, and it still arrives hard. Private well water draws directly from the aquifer and can be harder and carry iron or other minerals. Nobody tests a private well for you, so a test shows whether a softener alone is enough."},{"q":"How often does a water softener need maintenance?","a":"Check the salt level monthly and refill when it drops below one-third full. Have a technician service the system once a year to inspect the resin bed, brine tank and valve."},{"q":"What areas do you serve?","a":"We serve Lubbock and surrounding West Texas communities, including Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton."}]
 markerCount: 0
 ---
 
@@ -95,30 +96,65 @@ A water softener removes calcium and magnesium through ion exchange and replaces
 
 Most questions homeowners ask before buying fall into eight areas: water hardness, cost, system choice, timeline, water source, upkeep and where we work.
 
-### How hard is Lubbock water?
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How hard is Lubbock water?</summary>
+
 Lubbock water is hard. Roughly 60 to 70 percent of it comes from the Ogallala Aquifer, which carries dissolved calcium and magnesium, and City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association. Hardness differs by neighborhood and by supply mix, so a free test at your tap gives the number that matters for sizing.
 
-### How much does water softener installation cost in Lubbock, TX?
+</details>
+
+<details class="faq-item">
+<summary>How much does water softener installation cost in Lubbock, TX?</summary>
+
 Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. A standard salt-based system typically runs $1,800 to $3,200 installed, depending on grain capacity, dual-tank options and valve type. The free estimate gives an itemized price for your home before any work begins.
 
-### What is the best water softener for Lubbock water?
+</details>
+
+<details class="faq-item">
+<summary>What is the best water softener for Lubbock water?</summary>
+
 The best system matches your household size and your test results. A salt-based softener removes hardness minerals and suits the harder end of Lubbock readings, and the technician sizes its capacity to your daily water use. Salt-free systems suit homeowners who prioritize low maintenance.
 
-### Salt vs. salt-free water softener: what is the difference?
+</details>
+
+<details class="faq-item">
+<summary>Salt vs. salt-free water softener: what is the difference?</summary>
+
 A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills and a drain. A salt-free system conditions the water so scale does not stick, adds no sodium, and leaves the minerals in the water. Salt-based units deliver true softening, while salt-free units reduce scale.
 
-### How long does water softener installation take?
+</details>
+
+<details class="faq-item">
+<summary>How long does water softener installation take?</summary>
+
 Most installations finish in a single visit, typically in about 2 to 4 hours. The technician confirms the timeline at your estimate, based on plumbing access and system type.
 
-### Do I need a water softener with city water or well water in Lubbock?
+</details>
+
+<details class="faq-item">
+<summary>Do I need a water softener with city water or well water in Lubbock?</summary>
+
 Both benefit. City water is a blend of Ogallala groundwater and surface water, and it still arrives hard. Private well water draws directly from the aquifer and can be harder and carry iron or other minerals. Nobody tests a private well for you, so a test shows whether a softener alone is enough.
 
-### How often does a water softener need maintenance?
+</details>
+
+<details class="faq-item">
+<summary>How often does a water softener need maintenance?</summary>
+
 Check the salt level monthly and refill when it drops below one-third full. Have a technician service the system once a year to inspect the resin bed, brine tank and valve.
 
-### What areas do you serve?
+</details>
+
+<details class="faq-item">
+<summary>What areas do you serve?</summary>
+
 We serve Lubbock and surrounding West Texas communities, including Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton.
 
+</details>
+
+</div>
 
 ## Lubbock Areas We Serve
 

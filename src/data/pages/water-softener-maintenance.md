@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}
 images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true}]
+faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"What type of salt should I use?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. Lubbock Elite Water Softener TX provides water softener maintenance for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -44,26 +45,50 @@ Adding salt and checking the control head are simple homeowner tasks. Resin clea
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How much salt does a water softener use?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How much salt does a water softener use?</summary>
+
 Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full.
 
-**What type of salt should I use?**
+</details>
+
+<details class="faq-item">
+<summary>What type of salt should I use?</summary>
+
 Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium.
 
-**What is a salt bridge?**
+</details>
+
+<details class="faq-item">
+<summary>What is a salt bridge?</summary>
+
 A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank.
 
-**Why does my water feel hard right after a refill?**
+</details>
+
+<details class="faq-item">
+<summary>Why does my water feel hard right after a refill?</summary>
+
 Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble.
 
-**Do you service softeners you did not install?**
+</details>
+
+<details class="faq-item">
+<summary>Do you service softeners you did not install?</summary>
+
 Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener maintenance for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

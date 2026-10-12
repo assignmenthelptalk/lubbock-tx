@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison"}
 images: [{"file":"salt-vs-salt-free-water-softener-lubbock-tx.webp","alt":"Salt vs salt-free water softener Lubbock TX side by side comparison","exists":true}]
+faq: [{"q":"Can I use potassium instead of salt?","a":"Yes. A salt-based softener can regenerate with potassium chloride. It costs more per bag and adds potassium instead of sodium to the water."},{"q":"Does a salt-free system really work?","a":"It reduces scale, and results depend on the technology and the water. It does not remove hardness minerals."},{"q":"Which uses more water?","a":"A salt-based softener uses water for each regeneration. A salt-free system sends no water to the drain."},{"q":"Which costs more?","a":"Prices vary by size and brand. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800. Salt-free has lower running costs, and salt-based has the stronger result."},{"q":"Is softened water safe to drink?","a":"Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water. Lubbock Elite Water Softener TX provides salt-free water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -48,26 +49,50 @@ Choose salt-based for the strongest result in hard water. Choose salt-free for l
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Can I use potassium instead of salt?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Can I use potassium instead of salt?</summary>
+
 Yes. A salt-based softener can regenerate with potassium chloride. It costs more per bag and adds potassium instead of sodium to the water.
 
-**Does a salt-free system really work?**
+</details>
+
+<details class="faq-item">
+<summary>Does a salt-free system really work?</summary>
+
 It reduces scale, and results depend on the technology and the water. It does not remove hardness minerals.
 
-**Which uses more water?**
+</details>
+
+<details class="faq-item">
+<summary>Which uses more water?</summary>
+
 A salt-based softener uses water for each regeneration. A salt-free system sends no water to the drain.
 
-**Which costs more?**
+</details>
+
+<details class="faq-item">
+<summary>Which costs more?</summary>
+
 Prices vary by size and brand. A salt-based softener typically runs $1,800 to $3,200 installed, and a salt-free conditioner $2,000 to $3,800. Salt-free has lower running costs, and salt-based has the stronger result.
 
-**Is softened water safe to drink?**
+</details>
+
+<details class="faq-item">
+<summary>Is softened water safe to drink?</summary>
+
 Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides salt-free water softener systems for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection"}
 images: [{"file":"how-long-do-water-softeners-last-lubbock-tx.webp","alt":"Aging water softener Lubbock TX tank and control head inspection","exists":true}]
+faq: [{"q":"Can I replace just the resin to extend the life?","a":"Yes, when the tank and valve are sound. Resin replacement restores softening for less than a new system."},{"q":"Does a warranty change how long it lasts?","a":"A warranty covers defects, not wear. Longer coverage often signals a better valve and tank."},{"q":"Do salt-free systems last longer?","a":"They have no resin to wear out, but their media needs replacing on a schedule. Manufacturers commonly rate salt-free media at about 5 to 8 years under normal conditions."},{"q":"How do I know if my resin is worn out?","a":"Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -64,23 +65,43 @@ If it is over ten years old, uses more salt than it used to or lets hard water t
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Can I replace just the resin to extend the life?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Can I replace just the resin to extend the life?</summary>
+
 Yes, when the tank and valve are sound. Resin replacement restores softening for less than a new system.
 
-**Does a warranty change how long it lasts?**
+</details>
+
+<details class="faq-item">
+<summary>Does a warranty change how long it lasts?</summary>
+
 A warranty covers defects, not wear. Longer coverage often signals a better valve and tank.
 
-**Do salt-free systems last longer?**
+</details>
+
+<details class="faq-item">
+<summary>Do salt-free systems last longer?</summary>
+
 They have no resin to wear out, but their media needs replacing on a schedule. Manufacturers commonly rate salt-free media at about 5 to 8 years under normal conditions.
 
-**How do I know if my resin is worn out?**
+</details>
+
+<details class="faq-item">
+<summary>How do I know if my resin is worn out?</summary>
+
 Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

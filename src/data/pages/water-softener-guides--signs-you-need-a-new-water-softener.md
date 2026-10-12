@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
 images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true}]
+faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -52,23 +53,43 @@ Repair a young unit with one failed part. Replace an old unit, a leaking tank or
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How can I tell if my softener is working?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How can I tell if my softener is working?</summary>
+
 Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily.
 
-**Is a new softener worth it if mine is 12 years old?**
+</details>
+
+<details class="faq-item">
+<summary>Is a new softener worth it if mine is 12 years old?</summary>
+
 Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water.
 
-**Can I replace just the control head?**
+</details>
+
+<details class="faq-item">
+<summary>Can I replace just the control head?</summary>
+
 Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit.
 
-**How long does replacement take?**
+</details>
+
+<details class="faq-item">
+<summary>How long does replacement take?</summary>
+
 Most replacements finish in one visit, often in 2 to 4 hours.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

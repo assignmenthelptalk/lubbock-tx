@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}
 images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line","exists":true}]
+faq: [{"q":"What is the difference between a water conditioner and a water softener?","a":"A softener removes calcium and magnesium. A conditioner leaves them in the water but changes how they form scale."},{"q":"Is a potassium chloride softener better than a salt softener?","a":"It softens the same way but adds potassium instead of sodium. It costs more to run, so it fits households avoiding sodium."},{"q":"Will a conditioner remove existing limescale?","a":"Not fully. Existing buildup needs a descaling service, and the conditioner slows new buildup."},{"q":"Do scale inhibitors work for a whole house?","a":"They protect pipes and heaters, but they do not make water feel soft. They suit equipment protection more than comfort."},{"q":"What does water conditioner installation cost in Lubbock?","a":"Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed. The estimate is free and itemized. Lubbock Elite Water Softener TX provides water conditioner installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -54,26 +55,50 @@ If the goal is a water heater and pipes, a conditioner or inhibitor may be enoug
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**What is the difference between a water conditioner and a water softener?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>What is the difference between a water conditioner and a water softener?</summary>
+
 A softener removes calcium and magnesium. A conditioner leaves them in the water but changes how they form scale.
 
-**Is a potassium chloride softener better than a salt softener?**
+</details>
+
+<details class="faq-item">
+<summary>Is a potassium chloride softener better than a salt softener?</summary>
+
 It softens the same way but adds potassium instead of sodium. It costs more to run, so it fits households avoiding sodium.
 
-**Will a conditioner remove existing limescale?**
+</details>
+
+<details class="faq-item">
+<summary>Will a conditioner remove existing limescale?</summary>
+
 Not fully. Existing buildup needs a descaling service, and the conditioner slows new buildup.
 
-**Do scale inhibitors work for a whole house?**
+</details>
+
+<details class="faq-item">
+<summary>Do scale inhibitors work for a whole house?</summary>
+
 They protect pipes and heaters, but they do not make water feel soft. They suit equipment protection more than comfort.
 
-**What does water conditioner installation cost in Lubbock?**
+</details>
+
+<details class="faq-item">
+<summary>What does water conditioner installation cost in Lubbock?</summary>
+
 Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed. The estimate is free and itemized.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water conditioner installation for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

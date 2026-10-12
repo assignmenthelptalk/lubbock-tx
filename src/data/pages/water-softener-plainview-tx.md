@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation"}
 images: [{"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation","exists":true}]
+faq: []
 markerCount: 1
 ---
 

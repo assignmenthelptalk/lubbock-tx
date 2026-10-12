@@ -7,9 +7,19 @@
  *   src/data/nav.json      navigation / footer links for pages that exist
  *   LAUNCH-CHECKLIST.md    every [NEEDS DATA] / [VERIFY] marker per page
  *
- * Source of truth for copy stays in Local-SEO-Toolkit; edit there and re-run:
+ * Source of truth for copy stays in the Local-SEO-Toolkit project; edit there and re-run:
  *   npm run import-content
- * Override the source folder with CONTENT_SOURCE=<path>.
+ *
+ * Where it reads from (first match wins):
+ *   CONTENT_SOURCE=<path>                       an explicit strategy folder
+ *   $LOCAL_SEO_TOOLKIT/data/<domain-name>       toolkit location from the environment
+ *   ../../Local-SEO-Toolkit/data/<domain-name>  sibling of the waterSoftenerProjects folder
+ * <domain-name> is the domain in src/site.config.ts without its extension
+ * (lubbockelitewatersoftener.com -> lubbockelitewatersoftener).
+ *
+ * The strategy folder needs written-content/*.md and a topical-map.json shaped
+ * like the water softener preset (see templates/content-site/README.md). Fill in
+ * src/site.config.ts first: the importer refuses to run on placeholder values.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -17,17 +27,14 @@ import { fileURLToPath } from "node:url";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, "..");
-const SOURCE =
-  process.env.CONTENT_SOURCE ||
-  "C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockelitewatersoftener";
 const OUT_PAGES = path.join(root, "src", "data", "pages");
 const OUT_NAV = path.join(root, "src", "data", "nav.json");
 const IMAGE_DIR = path.join(root, "src", "assets", "images");
 const OUT_CHECKLIST = path.join(root, "LAUNCH-CHECKLIST.md");
 
 const MARKER_RE = /\[(?:NEEDS DATA|VERIFY)[^\]]*\]/g;
-const GUIDE_HUB = "/water-softener-guides/";
-const GEO_HUB = "/service-areas/";
+// Names of the two header menus, in hub order (softener pages first, everything else second).
+const MENU_LABELS = ["Services", "Other Services"];
 
 // Brand and place names come from site.config.ts (single source of truth).
 const cfgSrc = fs.readFileSync(path.join(root, "src", "site.config.ts"), "utf8");
@@ -36,9 +43,24 @@ const BRAND = cfgVal("businessName");
 const CITY = cfgVal("city");
 const STATE = cfgVal("stateAbbr");
 const COUNTY = cfgVal("county");
-if (!BRAND || !CITY || !STATE || !COUNTY) throw new Error("site.config.ts: brand/city/state/county not found");
+const DOMAIN = (cfgSrc.match(/const domain = "([^"]+)"/) || [])[1];
+if (!BRAND || !CITY || !STATE || !COUNTY || !DOMAIN) throw new Error("site.config.ts: brand, city, state, county or domain not found");
+if ([BRAND, CITY, STATE, COUNTY, DOMAIN].some((v) => /_NAME|_ABBR|NAME$/.test(v))) {
+  throw new Error("src/site.config.ts still has placeholder values (CITY_NAME, DOMAIN_NAME ...). Fill it in before importing content.");
+}
+
+const TOOLKIT = process.env.LOCAL_SEO_TOOLKIT || path.resolve(root, "..", "..", "Local-SEO-Toolkit");
+const SOURCE = process.env.CONTENT_SOURCE || path.join(TOOLKIT, "data", DOMAIN.replace(/\.[a-z.]+$/i, ""));
+if (!fs.existsSync(path.join(SOURCE, "topical-map.json"))) {
+  throw new Error(`No topical-map.json in ${SOURCE}. Set CONTENT_SOURCE or LOCAL_SEO_TOOLKIT, or build the topical map first.`);
+}
 
 const map = JSON.parse(fs.readFileSync(path.join(SOURCE, "topical-map.json"), "utf8"));
+for (const key of ["pages", "guides", "geo"]) {
+  if (!map[key]) throw new Error(`topical-map.json is missing "${key}" (see templates/content-site/README.md for the expected shape)`);
+}
+const GUIDE_HUB = map.guides.hub?.slug || "/water-softener-guides/";
+const GEO_HUB = map.geo.hub?.slug || "/service-areas/";
 const guideParent = new Map(map.guides.articles.map((g) => [g.slug, g.parent_service]));
 const parentBySlug = new Map();
 const typeBySlug = new Map();
@@ -61,6 +83,56 @@ for (const g of map.geo.pages) {
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const markers = (s) => s.replace(MARKER_RE, (m) => `<mark class="data-gap">${m}</mark>`);
+
+// FAQ extraction for FAQPage schema: the heading containing "Frequently Asked" opens the section, every deeper
+// heading is a question and the text under it is the answer. Markers, links and formatting are stripped.
+function extractFaq(md) {
+  const plain = (s) =>
+    s.replace(/\[(NEEDS DATA|VERIFY)[^\]]*\]/g, "").replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+  const out = [];
+  let level = 0, q = null, a = [];
+  const flush = () => { const text = plain(a.join(" ")); if (q && text) out.push({ q, a: text }); q = null; a = []; };
+  for (const line of md.split("\n")) {
+    const h = line.match(/^(#{2,6})\s+(.*)$/);
+    if (!level) { if (h && /Frequently Asked/i.test(h[2])) level = h[1].length; continue; }
+    if (h) { flush(); if (h[1].length <= level) break; q = plain(h[2]); continue; }
+    if (/^---\s*$/.test(line)) { flush(); break; }
+    const bold = line.match(/^\*\*(.+\?)\*\*\s*$/); // a question written as a bold line
+    if (bold) { flush(); q = plain(bold[1]); continue; }
+    if (q && line.trim() && !/^<!--/.test(line)) a.push(line.trim().replace(/^[-*]\s+/, ""));
+  }
+  flush();
+  return out;
+}
+// FAQ display: the section extractFaq() reads (for the schema) is also rendered as click-to-open rows
+// (<details>), so visitors scan the questions and open only the answers they want. The heading keeps its text;
+// on inner pages it is promoted from H3 to H2 so it gets the same navy band as the other section headings.
+function accordionFaq(md) {
+  const lines = md.split("\n");
+  const i = lines.findIndex((l) => /^#{2,3}\s+.*Frequently Asked/i.test(l));
+  if (i < 0) return md;
+  const level = lines[i].match(/^(#+)/)[1].length;
+  let j = i + 1;
+  while (j < lines.length) {
+    const h = lines[j].match(/^(#{1,6})\s/);
+    if (h && h[1].length <= level) break;
+    j++;
+  }
+  const intro = [], items = [];
+  let cur = null;
+  for (const line of lines.slice(i + 1, j)) {
+    const hq = line.match(/^(#{2,6})\s+(.*)$/);
+    const bold = line.match(/^\*\*(.+\?)\*\*\s*$/);
+    if (hq && hq[1].length > level) { cur = { q: hq[2].trim(), a: [] }; items.push(cur); continue; }
+    if (bold) { cur = { q: bold[1].trim(), a: [] }; items.push(cur); continue; }
+    if (cur) cur.a.push(line); else intro.push(line);
+  }
+  if (!items.length) return md;
+  const heading = lines[i].replace(/^#+/, "##");
+  const rows = items.map((it) => `<details class="faq-item">\n<summary>${esc(it.q)}</summary>\n\n${it.a.join("\n").trim()}\n\n</details>`).join("\n\n");
+  const introText = intro.join("\n").trim();
+  return [...lines.slice(0, i), heading, "", ...(introText ? [introText, ""] : []), `<div class="faq-list">\n\n${rows}\n\n</div>`, "", ...lines.slice(j)].join("\n");
+}
 const inlineHtml = (md) =>
   markers(esc(md))
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a href="${u}">${t}</a>`)
@@ -80,7 +152,7 @@ function draftDescription(openingMd) {
  * exactly two links to "/" inside its content.
  *   1. Opening paragraph: the exact brand name as the anchor (hub, service and
  *      hub-style pages). Guides and town pages keep their keyword anchor
- *      ("water softener Lubbock TX") for variety.
+ *      ("water softener {City} {ST}") for variety.
  *   2. A closing "brand backlink" paragraph before the final call to action,
  *      anchored on brand + state, followed by a sentence saying what the page
  *      offers.
@@ -88,7 +160,7 @@ function draftDescription(openingMd) {
  * natural (header logo, "Home" nav and breadcrumbs also link home).
  */
 const lc = (s) => s.toLowerCase().replace(/&/g, "and").replace(/\buv\b/g, "UV");
-// Inner-page H1s end with " | Trusted Local Specialists". Breadcrumbs, menu labels and the
+// Inner-page H1s may end with " | Trusted Local Specialists". Breadcrumbs, menu labels and the
 // closing backlink phrase are built from the H1 without it.
 const stripSuffix = (h1) => h1.replace(/ \| Trusted Local Specialists$/, "");
 
@@ -118,13 +190,32 @@ function applyHomeBacklinks({ slug, type, h1, openingMd, body }) {
 }
 
 const slugToFile = (slug) => (slug === "/" ? "home" : slug.replace(/^\/|\/$/g, "").replace(/\//g, "--"));
-const crumbOf = (h1) => stripSuffix(h1).replace(/ in Lubbock, TX$/, "").replace(/ Around Lubbock, TX$/, "").replace(/^Lubbock TX /, "").trim();
+const rx = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const crumbOf = (h1) =>
+  stripSuffix(h1)
+    .replace(new RegExp(` in ${rx(CITY)}, ${rx(STATE)}$`), "")
+    .replace(new RegExp(` Around ${rx(CITY)}, ${rx(STATE)}$`), "")
+    .replace(new RegExp(`^${rx(CITY)} ${rx(STATE)} `), "")
+    .trim();
 
 fs.rmSync(OUT_PAGES, { recursive: true, force: true });
 fs.mkdirSync(OUT_PAGES, { recursive: true });
 
 const files = fs.readdirSync(path.join(SOURCE, "written-content")).filter((f) => f.endsWith(".md"));
 const pages = [];
+
+// Pages written so far. A link to a page that is not written yet is shown as plain text, so the site never
+// links to a missing page; writing the page and re-running the import restores the link.
+const writtenSlugs = new Set(
+  files
+    .map((f) => {
+      const header = fs.readFileSync(path.join(SOURCE, "written-content", f), "utf8").match(/^<!--([\s\S]*?)-->/)?.[1] || "";
+      return (header.match(/Slug:\s*(\S+)/) || header.match(/Page:\s*(\/\S*)/) || [])[1];
+    })
+    .filter(Boolean),
+);
+const ALWAYS_PRESENT = new Set(["/", "/about/", "/contact/", "/thank-you/"]);
+const demoted = [];
 
 for (const file of files) {
   const raw = fs.readFileSync(path.join(SOURCE, "written-content", file), "utf8").replace(/\r\n/g, "\n");
@@ -144,6 +235,9 @@ for (const file of files) {
   // src/assets/images yet (the code-built diagrams) is skipped and reported.
   const images = [];
   let leadImage = null;
+  // Card images: when the real image file exists, the card's placeholder image is dropped so only the photo shows.
+  body = body.replace(/(<!--\s*image:\s*([^|]+?)\s*\|[^>]*?-->)\s*\n!\[[^\]]*\]\((?:https:\/\/placehold\.co[^)]*|\/placeholders\/[^)]*)\)/g, (m, comment, file) =>
+    fs.existsSync(path.join(IMAGE_DIR, file.trim())) ? comment : m);
   body = body.replace(/<!--\s*image:\s*([^|]+)\|\s*alt:\s*([\s\S]*?)-->/g, (_, f, a) => {
     const file = f.trim();
     const alt = a.trim().replace(/\s+/g, " ").replace(/[\[\]]/g, "");
@@ -190,7 +284,7 @@ for (const file of files) {
   if (isHome) {
     body = body.replace(/^\[Get a Free Estimate\]\(#estimate\)\s*/m, "");
     // lift the lead-form section out; the template renders the real form
-    const formSection = body.match(/^## (Get Your Free Water Softener Estimate[^\n]*)\n+([^\n]+)\n[\s\S]*?(?=^## )/m);
+    const formSection = body.match(/^## (Get Your Free [^\n]*Estimate[^\n]*)\n+([^\n]+)\n[\s\S]*?(?=^## |^<div)/m);
     if (formSection) {
       formHeading = formSection[1].trim();
       formIntro = formSection[2].trim();
@@ -203,6 +297,14 @@ for (const file of files) {
     openingMd = openingMd.replace(/\[([^\]]+)\]\(\/#estimate\)/g, "$1");
     ({ openingMd, body } = applyHomeBacklinks({ slug, type: typeBySlug.get(slug) || "page", h1, openingMd, body }));
   }
+  const demote = (md) =>
+    md.replace(/(?<!!)\[([^\]]+)\]\((\/[^)\s#]*)(#[^)\s]*)?\)/g, (m, label, href) => {
+      if (writtenSlugs.has(href) || ALWAYS_PRESENT.has(href)) return m;
+      demoted.push({ from: slug, to: href });
+      return label;
+    });
+  openingMd = demote(openingMd);
+  body = demote(body);
 
   const description =
     metaDescRaw && !/NEEDS|VERIFY/.test(metaDescRaw) ? metaDescRaw : draftDescription(openingMd);
@@ -225,10 +327,11 @@ for (const file of files) {
     formIntro,
     leadImage,
     images,
+    faq: extractFaq(body),
     markerCount: allMarkers.length,
   };
   const yaml = Object.entries(fm).map(([k, v]) => `${k}: ${JSON.stringify(v)}`).join("\n");
-  const out = `---\n${yaml}\n---\n\n${markers(body)}\n`;
+  const out = `---\n${yaml}\n---\n\n${markers(accordionFaq(body))}\n`;
   fs.writeFileSync(path.join(OUT_PAGES, `${slugToFile(slug)}.md`), out);
   pages.push({ slug, file: slugToFile(slug), h1, crumb: fm.crumb, type: fm.pageType, metaDraft, markers: allMarkers, note: noteMatch?.[1], missingImages: images.filter((i) => !i.exists).map((i) => i.file) });
 }
@@ -240,6 +343,7 @@ const link = (slug) => ({ href: slug, label: pages.find((p) => p.slug === slug).
 const hubs = map.pages.filter((p) => p.type === "hub" && has(p.slug)).map((p) => link(p.slug));
 const services = map.pages.filter((p) => p.type !== "hub" && has(p.slug)).map((p) => ({ ...link(p.slug), parent: p.parent }));
 const nav = {
+  menuLabels: MENU_LABELS,
   hubs,
   services,
   guideHub: has(GUIDE_HUB) ? link(GUIDE_HUB) : null,
@@ -283,16 +387,18 @@ Generated by \`npm run import-content\` from ${SOURCE}.
 Do not publish while any item below is open. Markers show on the site as highlighted text.
 
 ## Site-wide
-- [ ] Replace the placeholder phone (806) 000-0000 in src/site.config.ts
+- [ ] Replace the placeholder phone number in src/site.config.ts
 - [ ] Set businessEmail in src/site.config.ts (the quote form stays disabled until then)
-- [x] Hardness is set to 12.0 gpg (205.3 mg/L), the City of Lubbock Water Utilities figure from the USGS/EPA Water Quality Portal. Re-check it when the city publishes a new report
-- [ ] TCEQ Water Treatment Specialist licence number and class for whoever installs
+- [ ] Confirm the exact ${CITY} hardness figure from the city's own water report and update gpgLow/gpgHigh
+- [ ] Licence number and class for whoever installs (check what ${STATE} requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
-- [ ] Photos are AI-generated stand-ins (originals in brand_assets/unbranded-images). Swap for real Lubbock job photos as they come in, keeping the file names
+- [ ] Photos: generated images are stand-ins. Swap in real ${CITY} job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
 - [ ] Service-areas map: ${mapNote}. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
-- [ ] Build the images still missing (code-made diagrams, listed below): ${missingImages.length ? missingImages.join(", ") : "none"}
+- [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
+- [ ] Pages not written yet: ${demoted.length} link(s) are shown as plain text until the target page exists (${[...new Set(demoted.map((d) => d.to))].join(", ") || "none"}). Write the page, re-run the import and the link comes back
+- [ ] Build the images still missing (code-made diagrams, listed here): ${missingImages.length ? missingImages.join(", ") : "none"}
 - [ ] Final meta descriptions for every page marked DRAFT
-- [ ] Decide on Idalou and write the remaining nine town pages (see Local-SEO-Toolkit reports)
+- [ ] Write or decide the remaining location pages (see the strategy folder's reports/)
 
 ## Totals
 - Pages built: ${pages.length}

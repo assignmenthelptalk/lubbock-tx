@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}
 images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true}]
+faq: [{"q":"What is the difference between a salt-based and a salt-free water softener?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale."},{"q":"Which water softener system is best for a large Lubbock household?","a":"A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading."},{"q":"Do homes on well water need a different system?","a":"Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options."},{"q":"Can one company install, maintain and repair my system?","a":"Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system. Lubbock Elite Water Softener TX provides water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -56,23 +57,43 @@ A softener removes hardness minerals. A conditioner changes how scale behaves wi
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**What is the difference between a salt-based and a salt-free water softener?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>What is the difference between a salt-based and a salt-free water softener?</summary>
+
 A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale.
 
-**Which water softener system is best for a large Lubbock household?**
+</details>
+
+<details class="faq-item">
+<summary>Which water softener system is best for a large Lubbock household?</summary>
+
 A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading.
 
-**Do homes on well water need a different system?**
+</details>
+
+<details class="faq-item">
+<summary>Do homes on well water need a different system?</summary>
+
 Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options.
 
-**Can one company install, maintain and repair my system?**
+</details>
+
+<details class="faq-item">
+<summary>Can one company install, maintain and repair my system?</summary>
+
 Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener systems for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

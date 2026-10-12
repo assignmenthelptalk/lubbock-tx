@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation"}
 images: [{"file":"water-softener-shallowater-tx.webp","alt":"Water softener Shallowater TX home installation","exists":true}]
+faq: []
 markerCount: 1
 ---
 

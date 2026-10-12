@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
 images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true}]
+faq: [{"q":"Do I need a water softener, a filter or both?","a":"A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs."},{"q":"Is Lubbock tap water safe to drink?","a":"City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution."},{"q":"Does well water in the Lubbock area need different treatment?","a":"Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV."},{"q":"Is a free water test really free?","a":"Ask exactly which tests are free and which carry a fee. Lubbock Elite Water Softener TX provides water treatment services for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -60,23 +61,43 @@ Start with a water test. A test shows hardness, dissolved solids and any contami
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Do I need a water softener, a filter or both?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Do I need a water softener, a filter or both?</summary>
+
 A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs.
 
-**Is Lubbock tap water safe to drink?**
+</details>
+
+<details class="faq-item">
+<summary>Is Lubbock tap water safe to drink?</summary>
+
 City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution.
 
-**Does well water in the Lubbock area need different treatment?**
+</details>
+
+<details class="faq-item">
+<summary>Does well water in the Lubbock area need different treatment?</summary>
+
 Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV.
 
-**Is a free water test really free?**
+</details>
+
+<details class="faq-item">
+<summary>Is a free water test really free?</summary>
+
 Ask exactly which tests are free and which carry a fee.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water treatment services for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

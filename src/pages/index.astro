@@ -8,30 +8,34 @@
  * Copy comes from src/data/pages/home.md. Body copy contains no links to
  * service, guide or location pages (navigation and footer only).
  *
- * The hero photo is the AI-generated stand-in in src/assets/images; swap the
- * file (same name) for a real Lubbock job photo when available.
+ * Hero photo: the first src/assets/images/hero-*.webp (made by
+ * scripts/prepare-images.mjs). Until one exists the page shows a labelled
+ * local placeholder image so the build never breaks.
  */
 import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
-import LocalSchema from "../components/LocalSchema.astro";
-import heroImage from "../assets/images/hero-water-softener-lubbock-tx.webp";
+import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
+const heroImage = Object.values(heroFiles)[0]?.default;
+const HERO_PLACEHOLDER = "/placeholders/hero.svg"; // local file in public/placeholders (no network at build)
 const badges = ["✓ Free Estimate", "✓ No Obligation", "✓ Lubbock, TX and the South Plains"];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} ogTitle="Water Softener Lubbock, TX" description={fm.description}>
-  <LocalSchema />
+  <PageSchema faq={fm.faq} />
 
   <!-- 1. HERO: full-bleed image, content left, quote form right -->
   <section class="hero-section">
     <Image
-      src={heroImage}
-      alt={fm.leadImage?.alt ?? `Water softener installation and service in ${site.city}, ${site.stateAbbr}`}
+      src={heroImage ?? HERO_PLACEHOLDER}
+      alt={fm.leadImage?.alt ?? `Professional water softener installation and service in ${site.city}, ${site.stateAbbr}`}
+      {...(heroImage ? {} : { width: 1376, height: 768 })}
       format="webp"
       quality="mid"
       loading="eager"
@@ -73,6 +77,7 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", "✓ Lubbock, TX and t
   </section>
 
   <style>
+
     /* ---------- Hero: full-bleed image, split layout ---------- */
     .hero-section {
       position: relative;

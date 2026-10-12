@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}
 images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation","exists":true}]
+faq: [{"q":"How often should I replace a water filter?","a":"Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months."},{"q":"Will a whole house filter lower my water pressure?","a":"A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow."},{"q":"Do I need a filter if I have a water softener?","a":"Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin."},{"q":"What does a shower filter remove?","a":"It reduces chlorine. It does not remove hardness minerals."},{"q":"What does filter installation cost in Lubbock?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed. Our estimate is free and itemized. Lubbock Elite Water Softener TX provides water filtration system installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -56,26 +57,50 @@ No. Filters remove particles and some chemicals, and softeners remove hardness m
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How often should I replace a water filter?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How often should I replace a water filter?</summary>
+
 Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months.
 
-**Will a whole house filter lower my water pressure?**
+</details>
+
+<details class="faq-item">
+<summary>Will a whole house filter lower my water pressure?</summary>
+
 A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow.
 
-**Do I need a filter if I have a water softener?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a filter if I have a water softener?</summary>
+
 Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin.
 
-**What does a shower filter remove?**
+</details>
+
+<details class="faq-item">
+<summary>What does a shower filter remove?</summary>
+
 It reduces chlorine. It does not remove hardness minerals.
 
-**What does filter installation cost in Lubbock?**
+</details>
+
+<details class="faq-item">
+<summary>What does filter installation cost in Lubbock?</summary>
+
 Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed. Our estimate is free and itemized.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water filtration system installation for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

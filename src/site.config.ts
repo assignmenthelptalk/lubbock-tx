@@ -226,6 +226,8 @@ export interface SiteConfig {
   /** Google Business Profile URL — blank until claimed; used as the
    * footer link and the LocalBusiness schema's sameAs URL. */
   googleBusinessUrl: string;
+  /** Social profile URLs for the footer icons and schema sameAs; blank ones show as inert icons. */
+  socialLinks: { facebook: string; instagram: string; pinterest: string; x: string; youtube: string };
   /** Fully-qualified site URL derived from `domain`, e.g. "https://example.com" */
   siteUrl: string;
 
@@ -320,6 +322,7 @@ export const siteConfig: SiteConfig = {
   businessEmail: "BUSINESS_EMAIL",
   address: "",
   googleBusinessUrl: "",
+  socialLinks: { facebook: "", instagram: "", pinterest: "", x: "", youtube: "" },
   siteUrl: `https://${domain}`,
 
   // About page facts: placeholders until the operator confirms

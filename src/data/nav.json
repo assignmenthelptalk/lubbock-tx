@@ -1,4 +1,8 @@
 {
+  "menuLabels": [
+    "Services",
+    "Other Services"
+  ],
   "hubs": [
     {
       "href": "/water-softener-systems/",

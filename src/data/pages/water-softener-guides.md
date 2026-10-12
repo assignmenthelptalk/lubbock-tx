@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water"}
 images: [{"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water","exists":true}]
+faq: []
 markerCount: 0
 ---
 

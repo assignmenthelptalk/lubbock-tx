@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed"}
 images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed","exists":true}]
+faq: [{"q":"Is Lubbock water safe to drink?","a":"City of Lubbock water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately."},{"q":"Does a water softener remove minerals I need?","a":"A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source."},{"q":"Why does my glassware spot even with a rinse aid?","a":"Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source."},{"q":"Can hard water damage my water heater?","a":"Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup."},{"q":"Do homes on well water have harder water?","a":"Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -54,26 +55,50 @@ Test it. A home test strip gives a rough reading, and a technician test gives a 
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is Lubbock water safe to drink?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is Lubbock water safe to drink?</summary>
+
 City of Lubbock water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately.
 
-**Does a water softener remove minerals I need?**
+</details>
+
+<details class="faq-item">
+<summary>Does a water softener remove minerals I need?</summary>
+
 A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source.
 
-**Why does my glassware spot even with a rinse aid?**
+</details>
+
+<details class="faq-item">
+<summary>Why does my glassware spot even with a rinse aid?</summary>
+
 Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source.
 
-**Can hard water damage my water heater?**
+</details>
+
+<details class="faq-item">
+<summary>Can hard water damage my water heater?</summary>
+
 Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup.
 
-**Do homes on well water have harder water?**
+</details>
+
+<details class="faq-item">
+<summary>Do homes on well water have harder water?</summary>
+
 Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals.
 
 
 
 [Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

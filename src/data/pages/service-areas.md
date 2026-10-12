@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-service-areas-lubbock-tx.webp","alt":"Water softener service areas Lubbock TX map of the South Plains","exists":false}]
+faq: []
 markerCount: 0
 ---
 
