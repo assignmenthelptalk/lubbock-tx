@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Overton, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Installation & Service in Overton, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener in Overton, TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Overton, Lubbock, covers a neighborhood where century-old houses stand beside townhomes and condominiums..."
 metaDraft: true
 slug: "/water-softener-overton-tx/"
@@ -40,6 +40,10 @@ City of Lubbock water quality reports describe water as it leaves the system, an
 We serve all of Lubbock, including the neighborhoods around Texas Tech and downtown, plus Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview and nearby towns. See the full [service areas](/service-areas/) page.
 
 > **Not a good fit if...** your building's owner or HOA controls the plumbing and has not approved a softener, or the unit has no room for one. We check space and approvals first.
+
+
+
+Nearby homeowners also use our [water softener service in Tech Terrace](/water-softener-tech-terrace-tx/), [water softener repair](/water-softener-repair/), [the hard water guide](/water-softener-guides/hard-water-lubbock-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 

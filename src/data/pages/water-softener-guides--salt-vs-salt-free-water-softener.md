@@ -1,6 +1,6 @@
 ---
 title: "Salt-Based vs Salt-Free Water Softener in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Salt-Based vs Salt-Free Water Softener in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Salt vs Salt-Free Softener Lubbock, TX | Lubbock Elite Water Softener"
 description: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For Lubbock..."
 metaDraft: true
 slug: "/water-softener-guides/salt-vs-salt-free-water-softener/"
@@ -22,7 +22,7 @@ A salt-based softener passes water through a tank of resin beads that hold sodiu
 
 ### How a Salt-Free System Works
 
-A salt-free system does not remove calcium and magnesium. The most common type, template assisted crystallization (TAC), turns dissolved minerals into tiny crystals that stay suspended and resist sticking to pipes and fixtures. Electronic descalers and magnetic conditioners use signals or magnets on the pipe instead. Independent evidence for those two is limited or mixed, so we recommend TAC when scale reduction is the goal. There is no NSF/ANSI standard for TAC performance yet, so we explain the limits before you buy.
+A salt-free system does not remove calcium and magnesium. The most common type, template assisted crystallization (TAC), turns dissolved minerals into tiny crystals that stay suspended and resist sticking to pipes and fixtures. Electronic descalers and magnetic [conditioners](/water-conditioner-installation/) use signals or magnets on the pipe instead. Independent evidence for those two is limited or mixed, so we recommend TAC when scale reduction is the goal. There is no NSF/ANSI standard for TAC performance yet, so we explain the limits before you buy.
 
 ### Salt vs. Salt-Free at a Glance
 
@@ -45,7 +45,11 @@ City of Lubbock Water Utilities reports average hardness at approximately 205 mg
 
 ## Which should you choose?
 
-Choose salt-based for the strongest result in hard water. Choose salt-free for low maintenance and scale protection. A free water test and a short conversation decide it.
+Choose salt-based for the strongest result in [hard water](/water-softener-guides/hard-water-lubbock-tx/). Choose salt-free for low maintenance and scale protection. A free water test and a short conversation decide it.
+
+
+
+To go further, see [water softener installation](/water-softener-installation/), [what a water softener costs](/water-softener-guides/water-softener-cost-lubbock-tx/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

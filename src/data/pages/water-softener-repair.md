@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Repair in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Repair in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Repair Lubbock, TX | Lubbock Elite Water Softener"
 description: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error..."
 metaDraft: true
 slug: "/water-softener-repair/"
@@ -11,38 +11,95 @@ openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed pa
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}
-images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve","exists":true}]
+images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve","exists":true},{"file":"card-water-softener-control-valve-repair-lubbock-tx.webp","alt":"Water Softener Control Valve Repair Lubbock TX","exists":false},{"file":"card-water-softener-motor-replacement-lubbock-tx.webp","alt":"Water Softener Motor Replacement Lubbock TX","exists":false},{"file":"card-float-valve-repair-lubbock-tx.webp","alt":"Float Valve Repair Lubbock TX","exists":false},{"file":"card-injector-cleaning-lubbock-tx.webp","alt":"Injector Cleaning Lubbock TX","exists":false},{"file":"card-head-replacement-lubbock-tx.webp","alt":"Head Replacement Lubbock TX","exists":false},{"file":"card-brine-line-repair-lubbock-tx.webp","alt":"Brine Line Repair Lubbock TX","exists":false},{"file":"card-water-softener-leak-repair-lubbock-tx.webp","alt":"Water Softener Leak Repair Lubbock TX","exists":false}]
 faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water."},{"q":"How do I fix a water softener that is not regenerating?","a":"Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which."},{"q":"What causes a salt bridge?","a":"Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine."},{"q":"Why is my water softener leaking?","a":"Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part."},{"q":"How much does water softener repair cost?","a":"A repair call-out and diagnosis typically costs $95 to $150. The cost depends on the part. We give a price before work begins."},{"q":"Do you offer same-day repair in Lubbock?","a":"Same-day service depends on technician availability. Call and we will do our best to schedule quickly. Lubbock Elite Water Softener TX provides water softener repair for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
+
+## What Water Softener Repairs Are Available in Lubbock, TX?
+
+Seven repairs cover the common failures: control valve repair, motor [replacement](/water-softener-replacement/), float valve repair, injector cleaning, head replacement, brine line repair and leak repair.
+
+<div class="svc-grid">
+
+<div class="svc-card">
+
+
+![Water Softener Control Valve Repair Lubbock TX](/placeholders/card.svg)
 
 ### Water Softener Control Valve Repair
 
 The control valve directs water through the service, backwash, brine and rinse stages. When it sticks, leaks or fails to cycle, water stays hard or runs constantly to the drain. We rebuild the valve with new seals and spacers, or replace it when it is worn beyond repair.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Motor Replacement Lubbock TX](/placeholders/card.svg)
+
 ### Water Softener Motor Replacement
 
 The motor turns the valve through its cycle. A failed motor leaves the unit stuck in one stage, and you may hear a hum or grinding. We replace the motor and reset the cycle.
+
+</div>
+
+<div class="svc-card">
+
+
+![Float Valve Repair Lubbock TX](/placeholders/card.svg)
 
 ### Float Valve Repair
 
 The float valve limits how much water enters the brine tank. A stuck float causes overfilling, weak brine or salt that will not dissolve. We clean or replace the float assembly and set the brine level.
 
+</div>
+
+<div class="svc-card">
+
+
+![Injector Cleaning Lubbock TX](/placeholders/card.svg)
+
 ### Injector Cleaning
 
 The injector draws brine into the resin tank. Sediment clogs it, and a blocked injector means no brine reaches the resin, so water stays hard. We remove, clean and test the injector, and replace it if it is damaged.
+
+</div>
+
+<div class="svc-card">
+
+
+![Head Replacement Lubbock TX](/placeholders/card.svg)
 
 ### Head Replacement
 
 The control head holds the timer, display and electronics. When it loses its settings, shows no display or stops responding, replacing the head restores the system without a new tank.
 
+</div>
+
+<div class="svc-card">
+
+
+![Brine Line Repair Lubbock TX](/placeholders/card.svg)
+
 ### Brine Line Repair
 
 The brine line carries brine from the tank to the valve. Cracks, kinks or loose fittings cause air leaks and failed regeneration. We replace damaged tubing and tighten or replace fittings.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Leak Repair Lubbock TX](/placeholders/card.svg)
+
 ### Water Softener Leak Repair
 
 Leaks occur at the control head, drain line, tank connections or bypass valve. We trace the source, replace the faulty seal, fitting or hose and test for leaks. A leaking or cracked tank usually means replacement.
+
+</div>
+
+</div>
 
 
 ## Common Water Softener Problems We Fix
@@ -60,6 +117,10 @@ The diagnostic call-out typically costs $95 to $150. Tell us the make and model 
 ## Is it time to repair or replace?
 
 Repair fits a young unit with one failed part. Replacement fits an old unit, a leaking tank or repeated failures. Our free inspection compares both prices.
+
+
+
+Homeowners comparing options also read about [water softener maintenance](/water-softener-maintenance/), [signs you need a new water softener](/water-softener-guides/signs-you-need-a-new-water-softener/), [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/), [free water testing](/water-quality-testing/) and [water softener installation](/water-softener-installation/).
 
 
 

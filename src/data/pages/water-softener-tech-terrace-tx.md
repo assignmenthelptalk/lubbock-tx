@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Tech Terrace, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Installation & Service in Tech Terrace, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener in Tech Terrace, TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Tech Terrace, Lubbock, covers homes built mostly in the mid-twentieth century next to Texas Tech University...."
 metaDraft: true
 slug: "/water-softener-tech-terrace-tx/"
@@ -26,7 +26,7 @@ Listing records show many Tech Terrace homes date from the late 1930s through th
 
 - **Installation:** a sized softener, with a bypass valve and drain connection planned around older utility rooms and basements. See our [water softener installation](/water-softener-installation/) service.
 - **Pressure and shut-off checks:** we measure pressure and fit a regulator or new shut-off valve where the old ones are worn.
-- **Replacement and upgrade:** removal of a failing unit and a correctly sized new one.
+- **[Replacement](/water-softener-replacement/) and upgrade:** removal of a failing unit and a correctly sized new one.
 - **Repair and maintenance:** valves, injectors, leaks, salt and resin service.
 - **Water testing:** hardness, iron, pH and, on request, a lead test through a certified lab.
 - **Drinking water filters:** under-sink systems and certified filters for homes that want extra protection.
@@ -40,6 +40,10 @@ City of Lubbock water quality reports describe water as it leaves the treatment 
 We serve all of Lubbock, including the neighborhoods around Texas Tech, plus Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview and nearby towns. See the full [service areas](/service-areas/) page.
 
 > **Not a good fit if...** you rent without the owner's approval, or your home needs major plumbing repair first. A softener cannot fix failing pipes.
+
+
+
+Nearby homeowners also use our [water softener service in Overton](/water-softener-overton-tx/), [the hard water guide](/water-softener-guides/hard-water-lubbock-tx/) and [water softener repair](/water-softener-repair/).
 
 
 

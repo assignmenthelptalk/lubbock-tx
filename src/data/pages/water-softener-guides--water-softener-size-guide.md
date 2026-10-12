@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Size Guide in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Size Guide in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Size Guide Lubbock, TX | Lubbock Elite Water Softener"
 description: "The right size water softener matches your household's daily hardness load, measured in grains, and regenerates every three to seven days. A unit that..."
 metaDraft: true
 slug: "/water-softener-guides/water-softener-size-guide/"
@@ -62,6 +62,10 @@ These ranges are guides, since your test result and daily use change the answer.
 ## How do you find your own numbers?
 
 Count the people in the home, estimate heavy water use and get a hardness and iron test. Our technicians test your tap and run the formula with you. See our [water softener installation](/water-softener-installation/) page for what the visit includes.
+
+
+
+To go further, see [free water testing](/water-quality-testing/), [what a water softener costs](/water-softener-guides/water-softener-cost-lubbock-tx/), [the hard water guide](/water-softener-guides/hard-water-lubbock-tx/) and [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/).
 
 
 

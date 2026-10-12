@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Maintenance in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Maintenance in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Maintenance Lubbock, TX | Lubbock Elite Water Softener"
 description: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps..."
 metaDraft: true
 slug: "/water-softener-maintenance/"
@@ -11,26 +11,62 @@ openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cl
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}
-images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true}]
+images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-lubbock-tx.webp","alt":"Water Softener Resin Cleaning Service Lubbock TX","exists":false},{"file":"card-water-softener-salt-refill-service-lubbock-tx.webp","alt":"Water Softener Salt Refill Service Lubbock TX","exists":false},{"file":"card-water-softener-brine-tank-cleaning-lubbock-tx.webp","alt":"Water Softener Brine Tank Cleaning Lubbock TX","exists":false},{"file":"card-annual-maintenance-plans-lubbock-tx.webp","alt":"Annual Maintenance Plans Lubbock TX","exists":false}]
 faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"What type of salt should I use?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. Lubbock Elite Water Softener TX provides water softener maintenance for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
+
+## What Does Water Softener Maintenance Include in Lubbock, TX?
+
+Four services keep a softener at full capacity: resin cleaning, salt refills, brine tank cleaning and annual maintenance plans.
+
+<div class="svc-grid">
+
+<div class="svc-card">
+
+
+![Water Softener Resin Cleaning Service Lubbock TX](/placeholders/card.svg)
 
 ### Water Softener Resin Cleaning Service
 
 Resin cleaning removes iron, sediment and mineral film from the resin beads that do the softening. Fouled resin loses capacity, so water turns hard sooner after each cycle. We flush the resin bed with a resin cleaner and test your softened water afterward. Homes on private wells or with iron in the water benefit most. A routine service visit typically takes 60 to 90 minutes.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Salt Refill Service Lubbock TX](/placeholders/card.svg)
+
 ### Water Softener Salt Refill Service
 
 A salt refill service keeps the brine tank stocked so the softener can regenerate. Keep the salt level above about one-third full, and check it monthly. We deliver and load salt that suits your unit, whether block, pellet or crystal, or potassium chloride for households that avoid sodium. Ask whether the installer delivers salt, and compare that with buying 40-pound bags yourself.
+
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Brine Tank Cleaning Lubbock TX](/placeholders/card.svg)
 
 ### Water Softener Brine Tank Cleaning
 
 The brine tank collects sludge from impurities in salt over time, and sludge can clog the injector and block the brine line. We empty the tank, remove sludge and salt crust, rinse it and refill with fresh salt. Plan this about once a year, or sooner if you see a salt bridge or a thick, wet layer at the bottom.
 
+</div>
+
+<div class="svc-card">
+
+
+![Annual Maintenance Plans Lubbock TX](/placeholders/card.svg)
+
 ### Annual Maintenance Plans
 
 An annual maintenance plan covers a scheduled inspection of the resin, control valve, injector, brine system and settings, along with cleaning. Regular service extends the life of the unit and spots small problems before they become repairs. An annual service visit typically costs $150 to $250, including sanitization, a valve check and a tune-up; salt delivery is extra. Ask what a plan includes and how many visits it covers each year.
+
+</div>
+
+</div>
 
 ### How Often Should You Service a Softener in Lubbock?
 
@@ -42,6 +78,10 @@ Service a softener once a year, check salt monthly and clean the brine tank annu
 ## Can you maintain your softener yourself?
 
 Adding salt and checking the control head are simple homeowner tasks. Resin cleaning, injector checks and valve inspection are easier and safer with a technician. A free visit shows what your system needs.
+
+
+
+Homeowners comparing options also read about [water softener repair](/water-softener-repair/), [water softener replacement](/water-softener-replacement/), [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/), [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/) and [free water testing](/water-quality-testing/).
 
 
 

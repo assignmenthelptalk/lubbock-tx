@@ -1,6 +1,6 @@
 ---
 title: "Water Treatment Services in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Treatment Services in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Treatment Services Lubbock, TX | Lubbock Elite Water Softener"
 description: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and..."
 metaDraft: true
 slug: "/water-treatment-and-testing/"
@@ -11,7 +11,7 @@ openingHtml: "Water treatment in Lubbock, TX covers the equipment that condition
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
-images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true}]
+images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true},{"file":"card-water-conditioner-installation-lubbock-tx.webp","alt":"Water Conditioner Installation Lubbock TX","exists":false},{"file":"card-water-filtration-systems-lubbock-tx.webp","alt":"Water Filtration Systems Lubbock TX","exists":false},{"file":"card-water-quality-testing-lubbock-tx.webp","alt":"Water Quality Testing Lubbock TX","exists":false},{"file":"card-reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse Osmosis Installation Lubbock TX","exists":false},{"file":"card-uv-water-purification-lubbock-tx.webp","alt":"UV Water Purification Lubbock TX","exists":false},{"file":"card-drinking-water-systems-lubbock-tx.webp","alt":"Drinking Water Systems Lubbock TX","exists":false},{"file":"card-well-water-treatment-lubbock-tx.webp","alt":"Well Water Treatment Lubbock TX","exists":false},{"file":"card-water-contaminant-removal-lubbock-tx.webp","alt":"Water Contaminant Removal Lubbock TX","exists":false}]
 faq: [{"q":"Do I need a water softener, a filter or both?","a":"A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs."},{"q":"Is Lubbock tap water safe to drink?","a":"City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution."},{"q":"Does well water in the Lubbock area need different treatment?","a":"Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV."},{"q":"Is a free water test really free?","a":"Ask exactly which tests are free and which carry a fee. Lubbock Elite Water Softener TX provides water treatment services for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -22,37 +22,101 @@ Lubbock's water comes from two kinds of sources. According to City of Lubbock wa
 
 City reports describe water as it leaves the treatment system. They do not describe what your home's plumbing adds, and they do not cover private wells. A test at your tap shows your real numbers.
 
+## What Water Treatment Services Are Available in Lubbock, TX?
+
+Water treatment starts with testing and covers filtration, well water treatment, contaminant removal, reverse osmosis, UV purification and drinking water systems.
+
+<div class="svc-grid">
+
+<div class="svc-card">
+
+
+![Water Conditioner Installation Lubbock TX](/placeholders/card.svg)
+
 ### Water Conditioner Installation
 
 [Water conditioner installation](/water-conditioner-installation/) treats scale without removing hardness minerals, using salt-free conditioners, potassium chloride softeners and scale inhibitors.
+
+</div>
+
+<div class="svc-card">
+
+
+![Water Filtration Systems Lubbock TX](/placeholders/card.svg)
 
 ### Water Filtration Systems
 
 [Water filtration systems](/water-filtration-systems/) remove sediment, chlorine, taste and odor. Options include whole-house filters, under-sink filters, shower filters and multi-stage systems.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Quality Testing Lubbock TX](/placeholders/card.svg)
+
 ### Water Quality Testing
 
 [Water quality testing](/water-quality-testing/) measures hardness, total dissolved solids, iron, pH, chlorine, sulfur and heavy metals, for both city and well water.
+
+</div>
+
+<div class="svc-card">
+
+
+![Reverse Osmosis Installation Lubbock TX](/placeholders/card.svg)
 
 ### Reverse Osmosis Installation
 
 [Reverse osmosis installation](/reverse-osmosis-installation/) adds a membrane system that removes dissolved solids for drinking and cooking water.
 
+</div>
+
+<div class="svc-card">
+
+
+![UV Water Purification Lubbock TX](/placeholders/card.svg)
+
 ### UV Water Purification
 
 [UV water purification](/uv-water-purification/) uses ultraviolet light to inactivate bacteria and viruses, which matters most for private wells.
+
+</div>
+
+<div class="svc-card">
+
+
+![Drinking Water Systems Lubbock TX](/placeholders/card.svg)
 
 ### Drinking Water Systems
 
 [Drinking water systems](/drinking-water-systems/) include under-sink and countertop units, alkaline systems and bottleless coolers.
 
+</div>
+
+<div class="svc-card">
+
+
+![Well Water Treatment Lubbock TX](/placeholders/card.svg)
+
 ### Well Water Treatment
 
 [Well water softener installation](/well-water-softener-lubbock-tx/) combines softening with iron, hydrogen sulfide and sediment filters for private wells.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Contaminant Removal Lubbock TX](/placeholders/card.svg)
+
 ### Water Contaminant Removal
 
 [Water contaminant removal](/water-contaminant-removal-lubbock-tx/) targets specific concerns such as lead, arsenic, chloramine, fluoride, PFAS, nitrate and volatile organic compounds.
+
+</div>
+
+</div>
 
 
 ## Where should you start with water treatment?

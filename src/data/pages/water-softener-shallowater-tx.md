@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Shallowater, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Installation & Service in Shallowater, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener in Shallowater, TX | Lubbock Elite Water Softener"
 description: "Water softener installation and service in Shallowater, TX covers installing, replacing, repairing and testing softeners for homes in the town and the..."
 metaDraft: true
 slug: "/water-softener-shallowater-tx/"
@@ -20,15 +20,15 @@ markerCount: 1
 
 Shallowater's water comes from Lubbock, and Lubbock's water is hard. The City of Shallowater's own consumer confidence reports state that the town purchases its water from the Lubbock public water system, which draws groundwater from the Ogallala Aquifer. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, which the U.S. Geological Survey rates as very hard. Because Shallowater buys Lubbock water, homes there see about the same, roughly 12 gpg.
 
-Hard water leaves scale in water heaters, pipes and fixtures and spots on dishes and glass. A softener removes the calcium and magnesium behind those problems for every tap in the house.
+[Hard water](/water-softener-guides/hard-water-lubbock-tx/) leaves scale in water heaters, pipes and fixtures and spots on dishes and glass. A softener removes the calcium and magnesium behind those problems for every tap in the house.
 
 ## Our Services in Shallowater
 
 - **Installation:** a sized whole-house softener with a bypass valve, drain connection and a tested result. See our [water softener installation](/water-softener-installation/) service for the full process.
 - **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
-- **Water testing:** a hardness, iron and pH test at your tap.
-- **Well water treatment:** for homes outside town on private wells, with iron and sediment filters where the test shows a need.
+- **[Water testing](/water-quality-testing/):** a hardness, iron and pH test at your tap.
+- **[Well water treatment](/well-water-softener-lubbock-tx/):** for homes outside town on private wells, with iron and sediment filters where the test shows a need.
 
 ## About Shallowater Water Quality
 
@@ -38,9 +38,13 @@ Homes on private wells around Shallowater are not covered by any city report. We
 
 ## Service Areas Near Shallowater
 
-We serve Lubbock, Wolfforth, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. See the full [service areas](/service-areas/) page for the list.
+We serve Lubbock, Wolfforth, Slaton, Idalou, Levelland, [Plainview](/water-softener-plainview-tx/), Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. See the full [service areas](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener maintenance](/water-softener-maintenance/).
 
 
 

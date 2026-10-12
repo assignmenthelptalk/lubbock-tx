@@ -1,6 +1,6 @@
 ---
 title: "7 Signs You Need to Replace Your Water Softener in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "7 Signs You Need to Replace Your Water Softener in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "7 Signs You Need a New Softener, Lubbock TX | Lubbock Elite Water Softener"
 description: "You need to replace your water softener when hard water keeps returning, repairs keep failing, the tank leaks or the unit is past about 10 to 15 years..."
 metaDraft: true
 slug: "/water-softener-guides/signs-you-need-a-new-water-softener/"
@@ -11,38 +11,88 @@ openingHtml: "You need to replace your water softener when hard water keeps retu
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
-images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true}]
+images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-lubbock-tx.webp","alt":"Hard-Water Symptoms Return Lubbock TX","exists":false},{"file":"card-salt-use-rises-sharply-lubbock-tx.webp","alt":"Salt Use Rises Sharply Lubbock TX","exists":false},{"file":"card-salt-bridges-or-mush-keep-returning-lubbock-tx.webp","alt":"Salt Bridges or Mush Keep Returning Lubbock TX","exists":false},{"file":"card-leaks-from-the-tank-head-or-drain-lubbock-tx.webp","alt":"Leaks From the Tank, Head or Drain Lubbock TX","exists":false},{"file":"card-error-codes-or-no-cycling-lubbock-tx.webp","alt":"Error Codes or No Cycling Lubbock TX","exists":false},{"file":"card-resin-beads-in-faucets-or-sinks-lubbock-tx.webp","alt":"Resin Beads in Faucets or Sinks Lubbock TX","exists":false}]
 faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
+## What Are the Signs That a Lubbock Water Softener Needs Replacing?
+
+Seven signs show a softener is failing, and the first six are listed below.
+
+<div class="svc-grid">
+
+<div class="svc-card">
+
+
+![Hard-Water Symptoms Return Lubbock TX](/placeholders/card.svg)
+
 ### 1. Hard-Water Symptoms Return
 
-Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a hardness test on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, so the symptoms are obvious when softening fails.
+Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a [hardness test](/water-quality-testing/) on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, so the symptoms are obvious when softening fails.
+
+</div>
+
+<div class="svc-card">
+
+
+![Salt Use Rises Sharply Lubbock TX](/placeholders/card.svg)
 
 ### 2. Salt Use Rises Sharply
 
 The unit goes through salt much faster than it used to. **Check:** compare how often you refill against last year. **Verdict:** a worn control head or fouled resin forces extra regenerations. A new control head or a new unit with demand-based regeneration cuts the waste.
 
+</div>
+
+<div class="svc-card">
+
+
+![Salt Bridges or Mush Keep Returning Lubbock TX](/placeholders/card.svg)
+
 ### 3. Salt Bridges or Mush Keep Returning
 
 A salt bridge is a hard crust above the water in the brine tank, and mush is a sludge at the bottom. **Check:** push a broom handle into the salt. **Verdict:** one-time cleaning fixes an isolated case. If it recurs after cleaning, the tank, float or salt type is the problem, and an older unit is better replaced.
+
+</div>
+
+<div class="svc-card">
+
+
+![Leaks From the Tank, Head or Drain Lubbock TX](/placeholders/card.svg)
 
 ### 4. Leaks From the Tank, Head or Drain
 
 Water pools around the softener or drips from the control head. **Check:** find where the water starts. **Verdict:** a loose fitting or worn seal is a repair. A leaking or cracked resin tank means replacement.
 
+</div>
+
+<div class="svc-card">
+
+
+![Error Codes or No Cycling Lubbock TX](/placeholders/card.svg)
+
 ### 5. Error Codes or No Cycling
 
 The display shows repeated codes or the unit never starts a regeneration. **Check:** power, settings and the error code in your manual. **Verdict:** a motor, board or valve fault on a young unit is repairable. On an older unit, repeated faults point to replacement. Our [water softener repair](/water-softener-repair/) page covers what we fix.
+
+</div>
+
+<div class="svc-card">
+
+
+![Resin Beads in Faucets or Sinks Lubbock TX](/placeholders/card.svg)
 
 ### 6. Resin Beads in Faucets or Sinks
 
 Tiny tan or yellow beads appear in faucet screens or the sink. **Check:** compare them to resin beads from your tank. **Verdict:** a broken distributor or worn tank lets resin escape. This usually calls for replacing the tank or the whole unit.
 
+</div>
+
+</div>
+
 ### 7. The Unit Is Past 10 to 15 Years Old
 
-Industry guidance commonly cites 10 to 15 years for a residential softener. **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
+Industry guidance commonly cites [10 to 15 years](/water-softener-guides/how-long-do-water-softeners-last/) for a residential softener. **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
 
 > **Not a good fit if...** your unit is under about five years old and only shows one sign. Repair or maintenance is the cheaper answer. See our [water softener replacement](/water-softener-replacement/) page for when a new unit makes sense.
 
@@ -50,6 +100,10 @@ Industry guidance commonly cites 10 to 15 years for a residential softener. **Ch
 ## Should you repair or replace?
 
 Repair a young unit with one failed part. Replace an old unit, a leaking tank or one that keeps failing. A free inspection compares both prices side by side.
+
+
+
+To go further, see [what a water softener costs](/water-softener-guides/water-softener-cost-lubbock-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 

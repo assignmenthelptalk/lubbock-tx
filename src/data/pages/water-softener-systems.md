@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Systems in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Systems in Lubbock, TX | Lubbock Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Systems Lubbock, TX | Lubbock Elite Water Softener"
 description: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. Lubbock Elite Water Softener installs..."
 metaDraft: true
 slug: "/water-softener-systems/"
@@ -11,7 +11,7 @@ openingHtml: "Water softener systems in Lubbock, TX remove or control the calciu
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}
-images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true}]
+images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true},{"file":"card-water-softener-installation-lubbock-tx.webp","alt":"Water Softener Installation Lubbock TX","exists":false},{"file":"card-water-softener-replacement-lubbock-tx.webp","alt":"Water Softener Replacement Lubbock TX","exists":false},{"file":"card-salt-free-water-softener-systems-lubbock-tx.webp","alt":"Salt-Free Water Softener Systems Lubbock TX","exists":false},{"file":"card-dual-tank-water-softener-installation-lubbock-tx.webp","alt":"Dual Tank Water Softener Installation Lubbock TX","exists":false},{"file":"card-commercial-water-softener-installation-lubbock-tx.webp","alt":"Commercial Water Softener Installation Lubbock TX","exists":false},{"file":"card-water-softener-maintenance-lubbock-tx.webp","alt":"Water Softener Maintenance Lubbock TX","exists":false},{"file":"card-water-softener-repair-lubbock-tx.webp","alt":"Water Softener Repair Lubbock TX","exists":false}]
 faq: [{"q":"What is the difference between a salt-based and a salt-free water softener?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale."},{"q":"Which water softener system is best for a large Lubbock household?","a":"A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading."},{"q":"Do homes on well water need a different system?","a":"Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options."},{"q":"Can one company install, maintain and repair my system?","a":"Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system. Lubbock Elite Water Softener TX provides water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -22,33 +22,90 @@ Lubbock water is hard because most of it starts underground. City of Lubbock wat
 
 A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Elite Water Softener.
 
+## What Types of Water Softener Systems Are Available in Lubbock, TX?
+
+This page covers installation, replacement, salt-free systems, dual tank systems, commercial systems, maintenance, repair and water conditioners, starting with why Lubbock water needs a softener.
+
+<div class="svc-grid">
+
+<div class="svc-card">
+
+
+![Water Softener Installation Lubbock TX](/placeholders/card.svg)
+
 ### Water Softener Installation
 
 [Water softener installation](/water-softener-installation/) connects a whole-house unit to your main water line, with a bypass valve, a drain line and a tested result at every tap. It is the starting point for most Lubbock homeowners.
+
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Replacement Lubbock TX](/placeholders/card.svg)
 
 ### Water Softener Replacement
 
 [Water softener replacement](/water-softener-replacement/) removes a failing or undersized unit and installs a correctly sized new one, including resin bed and upgrade options.
 
+</div>
+
+<div class="svc-card">
+
+
+![Salt-Free Water Softener Systems Lubbock TX](/placeholders/card.svg)
+
 ### Salt-Free Water Softener Systems
 
 [Salt-free water softener systems](/salt-free-water-softener-systems/) condition the water so scale does not stick. They need no salt and no drain line, and they leave the minerals in the water, so they reduce scale rather than remove hardness.
+
+</div>
+
+<div class="svc-card">
+
+
+![Dual Tank Water Softener Installation Lubbock TX](/placeholders/card.svg)
 
 ### Dual Tank Water Softener Installation
 
 A [dual tank water softener](/dual-tank-water-softener/) uses two tanks, so one serves the house while the other regenerates. Soft water never pauses, which suits large households and heavy water use.
 
+</div>
+
+<div class="svc-card">
+
+
+![Commercial Water Softener Installation Lubbock TX](/placeholders/card.svg)
+
 ### Commercial Water Softener Installation
 
 A [commercial water softener](/commercial-water-softener/) protects boilers, dishwashers, ice machines and plumbing in businesses where hard water raises maintenance costs.
+
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Maintenance Lubbock TX](/placeholders/card.svg)
 
 ### Water Softener Maintenance
 
 [Water softener maintenance](/water-softener-maintenance/) covers salt refills, resin cleaning and brine tank cleaning that keep a system softening at full capacity.
 
+</div>
+
+<div class="svc-card">
+
+
+![Water Softener Repair Lubbock TX](/placeholders/card.svg)
+
 ### Water Softener Repair
 
 [Water softener repair](/water-softener-repair/) fixes valves, motors, floats, injectors, heads and leaks, and diagnoses units that stop regenerating or show error codes.
+
+</div>
+
+</div>
 
 
 ## How do you choose between a softener, a conditioner and filtration?
