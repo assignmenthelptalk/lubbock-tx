@@ -127,9 +127,57 @@ We also install dual tank and commercial water softeners, water conditioners, re
 
 ## Why Is Lubbock Water So Hard?
 
-Lubbock's water is hard because of where it comes from. According to City of Lubbock water quality reports, groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields, supplies roughly 60 to 70 percent of the city's water. Surface water from Lake Alan Henry and Lake Meredith supplies most of the rest. Groundwater that has moved through the minerals of the High Plains picks up dissolved calcium and magnesium, and those two minerals define hardness.
+Lubbock's water is hard because of where it comes from.
 
-Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association. A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
+<div class="issues-split">
+
+<div class="issues-photo">
+
+
+
+![Hard water scale buildup on a faucet water softener Lubbock TX](../../assets/images/hard-water-buildup-lubbock-tx.webp)
+
+
+
+</div>
+
+<div class="issues-grid">
+
+<div class="issue-item">
+
+### Where Does Lubbock Water Come From?
+
+According to City of Lubbock water quality reports, groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields, supplies roughly 60 to 70 percent of the city's water. Surface water from Lake Alan Henry and Lake Meredith supplies most of the rest. Groundwater that has moved through the minerals of the High Plains picks up dissolved calcium and magnesium, and those two minerals define hardness.
+
+</div>
+
+<div class="issue-item">
+
+### How Is Water Hardness Measured?
+
+Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard.
+
+</div>
+
+<div class="issue-item">
+
+### How Hard Is Lubbock Water?
+
+City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, classified as Very Hard by the Water Quality Association.
+
+</div>
+
+<div class="issue-item">
+
+### How Do You Find Your Exact Hardness?
+
+A free water test shows the exact reading at your tap, because supply mix and home plumbing both move the number.
+
+</div>
+
+<div class="issue-item">
+
+### What Does Hard Water Do to a Home?
 
 Hard water leaves marks across the whole house:
 
@@ -138,13 +186,19 @@ Hard water leaves marks across the whole house:
 - **Skin and hair:** Hard water reacts with soap to form a film that leaves skin dry and hair dull.
 - **Laundry:** Minerals stiffen fabric, dull colors and make detergent less effective.
 
+</div>
+
+<div class="issue-item">
+
+### How Does a Water Softener Fix Hard Water?
+
 A water softener removes calcium and magnesium through ion exchange and replaces them with sodium or potassium, so scale stops forming and soap lathers properly. For Lubbock homeowners, that single change protects the water heater, the plumbing and the fixtures at the same time.
 
+</div>
 
+</div>
 
-![Hard water scale buildup on a faucet water softener Lubbock TX](../../assets/images/hard-water-buildup-lubbock-tx.webp)
-
-
+</div>
 
 
 ## How Does Water Softener Installation Work in Lubbock, TX?
