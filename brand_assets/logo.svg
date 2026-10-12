@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<g transform="translate(6 6) scale(2.88)"><defs><clipPath id="n"><circle cx="50" cy="50" r="41"/></clipPath><linearGradient id="ng" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#159caa"/><stop offset="1" stop-color="#0F6E78"/></linearGradient></defs>
-<circle cx="50" cy="50" r="46" fill="#FFFFFF" stroke="#0F6E78" stroke-width="6"/>
-<g clip-path="url(#n)"><path d="M0 64 C18 50 34 52 50 62 C66 72 82 70 100 54 L100 100 L0 100 Z" fill="#B85A24"/><path d="M0 80 C18 70 36 72 50 80 C64 88 82 86 100 74 L100 100 L0 100 Z" fill="#0A4F57"/></g>
-<g transform="translate(26 8) scale(0.48)"><path d="M50 3 C50 3 15 40 15 64 A35 35 0 0 0 85 64 C85 40 50 3 50 3 Z" fill="url(#ng)"/><path d="M31 44 C27 51 26 58 28 65" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.9"/></g></g>
+<g transform="translate(6 6) scale(2.88)"><defs><clipPath id="n"><rect x="6" y="6" width="88" height="88" rx="22"/></clipPath></defs>
+<rect x="6" y="6" width="88" height="88" rx="22" fill="#0F6E78" />
+<g clip-path="url(#n)"><circle cx="50" cy="70" r="26" fill="#B85A24"/><rect x="0" y="70" width="100" height="30" fill="#0A4F57"/><path d="M0 70 L100 70" stroke="#E1F0F1" stroke-width="2.5"/></g>
+<g transform="translate(34 14) scale(0.32)"><path d="M50 3 C50 3 15 40 15 64 A35 35 0 0 0 85 64 C85 40 50 3 50 3 Z" fill="#FFFFFF"/></g>
+<path d="M22 82 C34 77 44 80 52 84 C62 88 72 86 80 80" fill="none" stroke="#E1F0F1" stroke-width="3" stroke-linecap="round" opacity="0.8"/></g>
 <text x="318" y="130"  font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="100" font-weight="800" letter-spacing="1" fill="#0F6E78">LUBBOCK</text>
 <rect x="322" y="160" width="250" height="92" rx="18" fill="#B85A24"/>
 <text x="447" y="228" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="6" fill="#FFFFFF">ELITE</text>

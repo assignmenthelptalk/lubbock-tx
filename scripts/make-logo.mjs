@@ -61,8 +61,14 @@ const ringMark = (id, rev) => `<defs><clipPath id="${id}"><circle cx="50" cy="50
 <circle cx="50" cy="50" r="46" fill="${rev ? "none" : "#FFFFFF"}" stroke="${rev ? "#FFFFFF" : NAVY}" stroke-width="6"/>
 <g clip-path="url(#${id})"><path d="M0 64 C18 50 34 52 50 62 C66 72 82 70 100 54 L100 100 L0 100 Z" fill="${ORANGE}"/><path d="M0 80 C18 70 36 72 50 80 C64 88 82 86 100 74 L100 100 L0 100 Z" fill="${rev ? "#FFFFFF" : DARK}"/></g>
 <g transform="translate(26 8) scale(0.48)"><path d="${DROP}" fill="${rev ? PALE : `url(#${id}g)`}"/><path d="M31 44 C27 51 26 58 28 65" fill="none" stroke="${rev ? NAVY : "#FFFFFF"}" stroke-width="6" stroke-linecap="round" opacity="0.9"/></g>`;
+// plains badge (--icon plains): rounded square, copper half-sun on a horizon, white drop above, river line below
+const plainsMark = (id, rev) => `<defs><clipPath id="${id}"><rect x="6" y="6" width="88" height="88" rx="22"/></clipPath></defs>
+<rect x="6" y="6" width="88" height="88" rx="22" fill="${NAVY}" ${rev ? 'stroke="#FFFFFF" stroke-width="2.5"' : ""}/>
+<g clip-path="url(#${id})"><circle cx="50" cy="70" r="26" fill="${ORANGE}"/><rect x="0" y="70" width="100" height="30" fill="${DARK}"/><path d="M0 70 L100 70" stroke="${PALE}" stroke-width="2.5"/></g>
+<g transform="translate(34 14) scale(0.32)"><path d="${DROP}" fill="#FFFFFF"/></g>
+<path d="M22 82 C34 77 44 80 52 84 C62 88 72 86 80 80" fill="none" stroke="${PALE}" stroke-width="3" stroke-linecap="round" opacity="0.8"/>`;
 const ICON_STYLE = args.includes("--icon") ? args[args.indexOf("--icon") + 1] : "drop";
-const emblem = (id, rev) => (ICON_STYLE === "ring" ? ringMark(id, rev) : mark(id, rev));
+const emblem = (id, rev) => (ICON_STYLE === "ring" ? ringMark(id, rev) : ICON_STYLE === "plains" ? plainsMark(id, rev) : mark(id, rev));
 
 const T = (x, y, s, size, w, fill, ls, extra = "") =>
   `<text x="${x}" y="${y}" ${extra} font-family="${FONT}" font-size="${size}" font-weight="${w}" letter-spacing="${ls}" fill="${fill}">${esc(s)}</text>`;
