@@ -331,15 +331,15 @@ export const siteConfig: SiteConfig = {
   customersServed: "CUSTOMERS_SERVED",
   projectsDelivered: "PROJECTS_DELIVERED",
 
-  // Design tokens: owner's deep blue and orange
+  // Design tokens: deep teal and copper (distinct from the other city sites)
   design: {
-    primaryColor: "#1A3C5E",
-    primaryLight: "#E6EDF4",
-    accentColor: "#E87722",
+    primaryColor: "#0F6E78",
+    primaryLight: "#E1F0F1",
+    accentColor: "#B85A24",
     headingFont: "DM Serif Display",
     bodyFont: "Inter",
     borderRadius: "8px",
-    gpgStatColor: "#1A3C5E",
+    gpgStatColor: "#0F6E78",
   },
 
   serviceAreas: [],

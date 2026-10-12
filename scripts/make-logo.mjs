@@ -55,6 +55,15 @@ const mark = (id, ring) => `<defs><clipPath id="${id}"><path d="${DROP}"/></clip
 <path d="${DROP}" fill="url(#${id}g)" ${ring ? 'stroke="#FFFFFF" stroke-width="3"' : ""}/><g clip-path="url(#${id})"><path d="M5 66 C20 54 34 56 48 65 C62 74 76 72 95 58 L95 100 L5 100 Z" fill="${ORANGE}"/><path d="M5 80 C20 70 36 72 50 80 C64 88 78 86 95 74 L95 100 L5 100 Z" fill="${ring ? "#FFFFFF" : PALE}"/><path d="M5 92 C22 85 38 87 52 93 C66 99 80 97 95 88 L95 100 L5 100 Z" fill="${DARK}"/></g>
 <path d="M31 44 C27 51 26 58 28 65" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.9"/>`;
 
+// ring badge (--icon ring): a round badge with a small drop above a copper river and a dark base, so a second
+// site in the same palette family can have a clearly different icon from the plain drop
+const ringMark = (id, rev) => `<defs><clipPath id="${id}"><circle cx="50" cy="50" r="41"/></clipPath><linearGradient id="${id}g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${lighten(NAVY, 0.25)}"/><stop offset="1" stop-color="${NAVY}"/></linearGradient></defs>
+<circle cx="50" cy="50" r="46" fill="${rev ? "none" : "#FFFFFF"}" stroke="${rev ? "#FFFFFF" : NAVY}" stroke-width="6"/>
+<g clip-path="url(#${id})"><path d="M0 64 C18 50 34 52 50 62 C66 72 82 70 100 54 L100 100 L0 100 Z" fill="${ORANGE}"/><path d="M0 80 C18 70 36 72 50 80 C64 88 82 86 100 74 L100 100 L0 100 Z" fill="${rev ? "#FFFFFF" : DARK}"/></g>
+<g transform="translate(26 8) scale(0.48)"><path d="${DROP}" fill="${rev ? PALE : `url(#${id}g)`}"/><path d="M31 44 C27 51 26 58 28 65" fill="none" stroke="${rev ? NAVY : "#FFFFFF"}" stroke-width="6" stroke-linecap="round" opacity="0.9"/></g>`;
+const ICON_STYLE = args.includes("--icon") ? args[args.indexOf("--icon") + 1] : "drop";
+const emblem = (id, rev) => (ICON_STYLE === "ring" ? ringMark(id, rev) : mark(id, rev));
+
 const T = (x, y, s, size, w, fill, ls, extra = "") =>
   `<text x="${x}" y="${y}" ${extra} font-family="${FONT}" font-size="${size}" font-weight="${w}" letter-spacing="${ls}" fill="${fill}">${esc(s)}</text>`;
 
@@ -80,11 +89,11 @@ ${T(596, 228, rest, size3, 800, name, 5)}`;
 ${T(320, 236, rest, size3, 700, ORANGE, 8)}`;
   }
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<g transform="translate(6 6) scale(2.88)">${mark(reversed ? "r" : "n", reversed)}</g>
+<g transform="translate(6 6) scale(2.88)">${emblem(reversed ? "r" : "n", reversed)}</g>
 ${body}
 </svg>`;
 };
-const icon = `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 100 100" role="img" aria-label="${esc(businessName)}">${mark("f", false)}</svg>\n`;
+const icon = `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 100 100" role="img" aria-label="${esc(businessName)}">${emblem("f", false)}</svg>\n`;
 
 fs.mkdirSync(path.join(root, "public"), { recursive: true });
 fs.writeFileSync(path.join(root, "public/favicon.svg"), icon);
@@ -104,6 +113,11 @@ for (const [file, svg] of [["src/assets/logo.png", lockup(false)], ["src/assets/
 }
 
 // the water drop alone, for small stamps such as card photos (see prepare-images.mjs --card-logo)
-const markSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100">${mark("m", false)}</svg>`;
+const markSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100">${emblem("m", false)}</svg>`;
 await sharp(Buffer.from(markSvg)).png().toFile(path.join(BRAND_DIR, "mark.png"));
 console.log("wrote brand_assets/mark.png");
+// --favicon-png also writes public/favicon.png (128 px) for sites whose layout links a PNG favicon
+if (args.includes("--favicon-png")) {
+  await sharp(Buffer.from(markSvg)).resize(128, 128).png().toFile(path.join(root, "public/favicon.png"));
+  console.log("wrote public/favicon.png");
+}

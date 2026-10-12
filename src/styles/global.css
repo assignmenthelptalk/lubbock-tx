@@ -1,7 +1,7 @@
 /* =============================================================================
    Water Softener Boilerplate — Design System
    =============================================================================
-   Deep teal (#1A3C5E) as primary, warm orange (#E87722) reserved for CTAs
+   Deep teal (#0F6E78) as primary, warm orange (#B85A24) reserved for CTAs
    and key highlights, DM Serif Display for headings, Inter for body/labels/
    navigation. This file is NOT city-specific — every city site cloned from
    this boilerplate inherits it unchanged; only src/site.config.ts differs
@@ -14,17 +14,17 @@
 
 :root {
   /* Brand colors — exact hex values from the site's design tokens */
-  --color-primary:       #1A3C5E;
-  --color-primary-dark:  #12293F; /* hero gradient endpoint */
-  --color-primary-light: #E6EDF4;
-  --color-accent:        #E87722;
-  --color-accent-dark:   #C9631A; /* accent hover/active state */
-  --color-accent-light:  #FBE6D4; /* light accent tint for badges */
+  --color-primary:       #0F6E78;
+  --color-primary-dark:  #0A4F57; /* hero gradient endpoint */
+  --color-primary-light: #E1F0F1;
+  --color-accent:        #B85A24;
+  --color-accent-dark:   #96471A; /* accent hover/active state */
+  --color-accent-light:  #F6E3D5; /* light accent tint for badges */
 
   /* Depth system: base -> elevated -> floating, never one flat z-plane */
   --surface-base:     #ffffff;
-  --surface-elevated: #F7F9FC;
-  --surface-footer:   #0C1D2E; /* darkened primary, footer only */
+  --surface-elevated: #F5FAFA;
+  --surface-footer:   #07252A; /* darkened primary, footer only */
 
   /* Never the same font for headings and body */
   --font-heading: 'DM Serif Display', Georgia, serif;
@@ -51,11 +51,11 @@
   --radius-brand: 8px;
 
   /* Layered, color-tinted shadows — never a flat shadow-md */
-  --shadow-card:         0 1px 2px rgba(26, 60, 94, 0.06), 0 4px 16px rgba(26, 60, 94, 0.10);
-  --shadow-card-hover:   0 2px 4px rgba(26, 60, 94, 0.08), 0 12px 28px rgba(26, 60, 94, 0.14);
-  --shadow-button-hover: 0 2px 8px rgba(232, 119, 34, 0.25);
-  --shadow-nav:          0 1px 0 rgba(26, 60, 94, 0.08), 0 4px 16px rgba(26, 60, 94, 0.05);
-  --shadow-floating:     0 8px 24px rgba(26, 60, 94, 0.16);
+  --shadow-card:         0 1px 2px rgba(15, 110, 120, 0.06), 0 4px 16px rgba(15, 110, 120, 0.10);
+  --shadow-card-hover:   0 2px 4px rgba(15, 110, 120, 0.08), 0 12px 28px rgba(15, 110, 120, 0.14);
+  --shadow-button-hover: 0 2px 8px rgba(184, 90, 36, 0.25);
+  --shadow-nav:          0 1px 0 rgba(15, 110, 120, 0.08), 0 4px 16px rgba(15, 110, 120, 0.05);
+  --shadow-floating:     0 8px 24px rgba(15, 110, 120, 0.16);
   --shadow-sm: var(--shadow-card);
   --shadow-md: var(--shadow-card);
   --shadow-lg: var(--shadow-floating);
