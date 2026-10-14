@@ -1,12 +1,12 @@
 ---
-title: "Lubbock Elite Water Softener - Premier Water Softener Installation in Lubbock, TX"
+title: "Lubbock Elite Water Softener - Water Softener Installation in Lubbock, TX"
 seoTitle: "Water Softener Lubbock, TX | Lubbock Elite Water Softener"
 description: "Lubbock Elite Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now."
 metaDraft: false
 slug: "/"
 pageType: "home"
 parentSlug: null
-crumb: "Lubbock Elite Water Softener - Premier Water Softener Installation"
+crumb: "Lubbock Elite Water Softener - Water Softener Installation"
 openingHtml: "Lubbock's water softener problem starts at the source: roughly 60 to 70 percent of the city's water is pumped from the Ogallala Aquifer, and that groundwater carries calcium and magnesium that leave scale on pipes, fixtures and appliances. Lubbock Elite Water Softener installs, replaces and services water softener systems for homeowners in Lubbock and the surrounding West Texas towns. Request a free estimate and a technician will recommend the right system for your home and your water."
 formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
