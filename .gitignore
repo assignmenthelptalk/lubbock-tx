@@ -10,3 +10,5 @@ npm-debug.log*
 
 # AI-generated originals (large); the optimized WebPs in src/assets/images are what ships
 brand_assets/unbranded-images/
+brand_assets/gemini-originals/
+brand_assets/new-images-contact.jpg
