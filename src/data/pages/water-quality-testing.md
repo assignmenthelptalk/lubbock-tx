@@ -11,7 +11,7 @@ openingHtml: "Water quality testing in Lubbock, TX measures the hardness, minera
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
-images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-lubbock-tx.webp","alt":"Free Hard Water Test Lubbock TX","exists":true},{"file":"card-tds-testing-lubbock-tx.webp","alt":"TDS Testing Lubbock TX","exists":true},{"file":"card-iron-content-testing-lubbock-tx.webp","alt":"Iron Content Testing Lubbock TX","exists":false},{"file":"card-ph-level-testing-lubbock-tx.webp","alt":"pH Level Testing Lubbock TX","exists":false},{"file":"card-chlorine-testing-lubbock-tx.webp","alt":"Chlorine Testing Lubbock TX","exists":false},{"file":"card-sulfur-testing-lubbock-tx.webp","alt":"Sulfur Testing Lubbock TX","exists":false},{"file":"card-heavy-metals-testing-lubbock-tx.webp","alt":"Heavy Metals Testing Lubbock TX","exists":false}]
+images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-lubbock-tx.webp","alt":"Free Hard Water Test Lubbock TX","exists":true},{"file":"card-tds-testing-lubbock-tx.webp","alt":"TDS Testing Lubbock TX","exists":true},{"file":"card-iron-content-testing-lubbock-tx.webp","alt":"Iron Content Testing Lubbock TX","exists":false},{"file":"card-ph-level-testing-lubbock-tx.webp","alt":"pH Level Testing Lubbock TX","exists":true},{"file":"card-chlorine-testing-lubbock-tx.webp","alt":"Chlorine Testing Lubbock TX","exists":true},{"file":"card-sulfur-testing-lubbock-tx.webp","alt":"Sulfur Testing Lubbock TX","exists":true},{"file":"card-heavy-metals-testing-lubbock-tx.webp","alt":"Heavy Metals Testing Lubbock TX","exists":true}]
 faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often should I test my water?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply. Lubbock Elite Water Softener TX provides water quality testing for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -64,7 +64,10 @@ An iron test checks for dissolved and particulate iron. The EPA's secondary leve
 <div class="svc-card">
 
 
-![pH Level Testing Lubbock TX](/placeholders/card.svg)
+
+![pH Level Testing Lubbock TX](../../assets/images/card-ph-level-testing-lubbock-tx.webp)
+
+
 
 ### pH Level Testing
 
@@ -75,7 +78,10 @@ pH measures how acidic or basic water is. The EPA's secondary range is 6.5 to 8.
 <div class="svc-card">
 
 
-![Chlorine Testing Lubbock TX](/placeholders/card.svg)
+
+![Chlorine Testing Lubbock TX](../../assets/images/card-chlorine-testing-lubbock-tx.webp)
+
+
 
 ### Chlorine Testing
 
@@ -86,7 +92,10 @@ A chlorine test measures the disinfectant left in your tap water. It helps expla
 <div class="svc-card">
 
 
-![Sulfur Testing Lubbock TX](/placeholders/card.svg)
+
+![Sulfur Testing Lubbock TX](../../assets/images/card-sulfur-testing-lubbock-tx.webp)
+
+
 
 ### Sulfur Testing
 
@@ -97,7 +106,10 @@ A sulfur test confirms hydrogen sulfide, the cause of a rotten-egg smell, most c
 <div class="svc-card">
 
 
-![Heavy Metals Testing Lubbock TX](/placeholders/card.svg)
+
+![Heavy Metals Testing Lubbock TX](../../assets/images/card-heavy-metals-testing-lubbock-tx.webp)
+
+
 
 ### Heavy Metals Testing
 

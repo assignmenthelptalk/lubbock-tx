@@ -11,7 +11,7 @@ openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cl
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}
-images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-lubbock-tx.webp","alt":"Water Softener Resin Cleaning Service Lubbock TX","exists":false},{"file":"card-water-softener-salt-refill-service-lubbock-tx.webp","alt":"Water Softener Salt Refill Service Lubbock TX","exists":false},{"file":"card-water-softener-brine-tank-cleaning-lubbock-tx.webp","alt":"Water Softener Brine Tank Cleaning Lubbock TX","exists":false},{"file":"card-annual-maintenance-plans-lubbock-tx.webp","alt":"Annual Maintenance Plans Lubbock TX","exists":false}]
+images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-lubbock-tx.webp","alt":"Water Softener Resin Cleaning Service Lubbock TX","exists":true},{"file":"card-water-softener-salt-refill-service-lubbock-tx.webp","alt":"Water Softener Salt Refill Service Lubbock TX","exists":false},{"file":"card-water-softener-brine-tank-cleaning-lubbock-tx.webp","alt":"Water Softener Brine Tank Cleaning Lubbock TX","exists":false},{"file":"card-annual-maintenance-plans-lubbock-tx.webp","alt":"Annual Maintenance Plans Lubbock TX","exists":false}]
 faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"What type of salt should I use?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. Lubbock Elite Water Softener TX provides water softener maintenance for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Four services keep a softener at full capacity: resin cleaning, salt refills, br
 <div class="svc-card">
 
 
-![Water Softener Resin Cleaning Service Lubbock TX](/placeholders/card.svg)
+
+![Water Softener Resin Cleaning Service Lubbock TX](../../assets/images/card-water-softener-resin-cleaning-service-lubbock-tx.webp)
+
+
 
 ### Water Softener Resin Cleaning Service
 
