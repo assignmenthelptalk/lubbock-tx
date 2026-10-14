@@ -1,11 +1,12 @@
 # lubbockelitewatersoftener
 
 Rank-and-rent lead-generation site for **Lubbock Elite Water Softener**
-(lubbockelitewatersoftener.com, target keyword "water softener lubbock tx").
+(watersoftenerlubbocktx.com, target keyword "water softener lubbock tx").
 Astro 7 static site built from `water-softener-boilerplate`.
 
-**Status: pushed to GitHub (`assignmenthelptalk/lubbock-tx`, branch `main`). Not deployed.**
-No Vercel project exists for this site yet. Do not deploy while `LAUNCH-CHECKLIST.md` has open items.
+**Status: pushed to GitHub (`assignmenthelptalk/lubbock-tx`, branch `main`) and connected to a Vercel deployment with the
+domain watersoftenerlubbocktx.com.** The strategy folder is still `Local-SEO-Toolkit/data/lubbockelitewatersoftener` (the importer
+falls back to the project name when no folder matches the domain). Clear the open items in `LAUNCH-CHECKLIST.md` before relying on the site.
 
 ## Commands
 
