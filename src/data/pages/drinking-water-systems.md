@@ -11,7 +11,7 @@ openingHtml: "Drinking water system installation in Lubbock, TX puts a purificat
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit"}
-images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit","exists":true},{"file":"card-under-sink-drinking-water-systems-lubbock-tx.webp","alt":"Under Sink Drinking Water Systems Lubbock TX","exists":true},{"file":"card-countertop-purification-units-lubbock-tx.webp","alt":"Countertop Purification Units Lubbock TX","exists":true},{"file":"card-alkaline-water-systems-lubbock-tx.webp","alt":"Alkaline Water Systems Lubbock TX","exists":false}]
+images: [{"file":"drinking-water-systems-lubbock-tx.webp","alt":"Drinking water systems Lubbock TX under sink purification unit","exists":true},{"file":"card-under-sink-drinking-water-systems-lubbock-tx.webp","alt":"Under Sink Drinking Water Systems Lubbock TX","exists":true},{"file":"card-countertop-purification-units-lubbock-tx.webp","alt":"Countertop Purification Units Lubbock TX","exists":true},{"file":"card-alkaline-water-systems-lubbock-tx.webp","alt":"Alkaline Water Systems Lubbock TX","exists":true}]
 faq: [{"q":"Is an under-sink system better than a countertop unit?","a":"Under-sink systems filter more water, flow faster and stay out of sight. Countertop units install without plumbing."},{"q":"Does an alkaline water system make water healthier?","a":"It raises pH and changes taste. Evidence for broader health claims is limited."},{"q":"How often do drinking water filters need replacing?","a":"Replacement depends on the system and use, commonly every six to twelve months for cartridges. As a typical schedule, replace pre-filter cartridges every 6 to 12 months and reverse osmosis membranes every 2 to 3 years."},{"q":"Can a bottleless cooler work in a small office?","a":"Yes. It needs a water line and power, and we size the unit to your headcount. Lubbock Elite Water Softener TX provides drinking water system installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -53,7 +53,10 @@ A countertop purification unit sits beside the sink and connects to the faucet o
 <div class="svc-card">
 
 
-![Alkaline Water Systems Lubbock TX](/placeholders/card.svg)
+
+![Alkaline Water Systems Lubbock TX](../../assets/images/card-alkaline-water-systems-lubbock-tx.webp)
+
+
 
 ### Alkaline Water Systems
 

@@ -11,7 +11,7 @@ openingHtml: "You need to replace your water softener when hard water keeps retu
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
-images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-lubbock-tx.webp","alt":"Hard-Water Symptoms Return Lubbock TX","exists":false},{"file":"card-salt-use-rises-sharply-lubbock-tx.webp","alt":"Salt Use Rises Sharply Lubbock TX","exists":false},{"file":"card-salt-bridges-or-mush-keep-returning-lubbock-tx.webp","alt":"Salt Bridges or Mush Keep Returning Lubbock TX","exists":false},{"file":"card-leaks-from-the-tank-head-or-drain-lubbock-tx.webp","alt":"Leaks From the Tank, Head or Drain Lubbock TX","exists":false},{"file":"card-error-codes-or-no-cycling-lubbock-tx.webp","alt":"Error Codes or No Cycling Lubbock TX","exists":false},{"file":"card-resin-beads-in-faucets-or-sinks-lubbock-tx.webp","alt":"Resin Beads in Faucets or Sinks Lubbock TX","exists":false}]
+images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-lubbock-tx.webp","alt":"Hard-Water Symptoms Return Lubbock TX","exists":true},{"file":"card-salt-use-rises-sharply-lubbock-tx.webp","alt":"Salt Use Rises Sharply Lubbock TX","exists":true},{"file":"card-salt-bridges-or-mush-keep-returning-lubbock-tx.webp","alt":"Salt Bridges or Mush Keep Returning Lubbock TX","exists":true},{"file":"card-leaks-from-the-tank-head-or-drain-lubbock-tx.webp","alt":"Leaks From the Tank, Head or Drain Lubbock TX","exists":true},{"file":"card-error-codes-or-no-cycling-lubbock-tx.webp","alt":"Error Codes or No Cycling Lubbock TX","exists":true},{"file":"card-resin-beads-in-faucets-or-sinks-lubbock-tx.webp","alt":"Resin Beads in Faucets or Sinks Lubbock TX","exists":true}]
 faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Seven signs show a softener is failing, and the first six are listed below.
 <div class="svc-card">
 
 
-![Hard-Water Symptoms Return Lubbock TX](/placeholders/card.svg)
+
+![Hard-Water Symptoms Return Lubbock TX](../../assets/images/card-hard-water-symptoms-return-lubbock-tx.webp)
+
+
 
 ### 1. Hard-Water Symptoms Return
 
@@ -36,7 +39,10 @@ Spotted dishes, scale on faucets, soap film and stiff laundry come back even tho
 <div class="svc-card">
 
 
-![Salt Use Rises Sharply Lubbock TX](/placeholders/card.svg)
+
+![Salt Use Rises Sharply Lubbock TX](../../assets/images/card-salt-use-rises-sharply-lubbock-tx.webp)
+
+
 
 ### 2. Salt Use Rises Sharply
 
@@ -47,7 +53,10 @@ The unit goes through salt much faster than it used to. **Check:** compare how o
 <div class="svc-card">
 
 
-![Salt Bridges or Mush Keep Returning Lubbock TX](/placeholders/card.svg)
+
+![Salt Bridges or Mush Keep Returning Lubbock TX](../../assets/images/card-salt-bridges-or-mush-keep-returning-lubbock-tx.webp)
+
+
 
 ### 3. Salt Bridges or Mush Keep Returning
 
@@ -58,7 +67,10 @@ A salt bridge is a hard crust above the water in the brine tank, and mush is a s
 <div class="svc-card">
 
 
-![Leaks From the Tank, Head or Drain Lubbock TX](/placeholders/card.svg)
+
+![Leaks From the Tank, Head or Drain Lubbock TX](../../assets/images/card-leaks-from-the-tank-head-or-drain-lubbock-tx.webp)
+
+
 
 ### 4. Leaks From the Tank, Head or Drain
 
@@ -69,7 +81,10 @@ Water pools around the softener or drips from the control head. **Check:** find 
 <div class="svc-card">
 
 
-![Error Codes or No Cycling Lubbock TX](/placeholders/card.svg)
+
+![Error Codes or No Cycling Lubbock TX](../../assets/images/card-error-codes-or-no-cycling-lubbock-tx.webp)
+
+
 
 ### 5. Error Codes or No Cycling
 
@@ -80,7 +95,10 @@ The display shows repeated codes or the unit never starts a regeneration. **Chec
 <div class="svc-card">
 
 
-![Resin Beads in Faucets or Sinks Lubbock TX](/placeholders/card.svg)
+
+![Resin Beads in Faucets or Sinks Lubbock TX](../../assets/images/card-resin-beads-in-faucets-or-sinks-lubbock-tx.webp)
+
+
 
 ### 6. Resin Beads in Faucets or Sinks
 

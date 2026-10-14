@@ -11,7 +11,7 @@ openingHtml: "Hard water in Lubbock, TX is water that carries dissolved calcium 
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed"}
-images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed","exists":true},{"file":"card-what-is-hard-water-lubbock-tx.webp","alt":"What Is Hard Water? Lubbock TX","exists":false},{"file":"card-why-is-lubbock-water-hard-lubbock-tx.webp","alt":"Why Is Lubbock Water Hard? Lubbock TX","exists":false},{"file":"card-how-hard-is-lubbock-water-lubbock-tx.webp","alt":"How Hard Is Lubbock Water? Lubbock TX","exists":false}]
+images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed","exists":true},{"file":"card-what-is-hard-water-lubbock-tx.webp","alt":"What Is Hard Water? Lubbock TX","exists":true},{"file":"card-why-is-lubbock-water-hard-lubbock-tx.webp","alt":"Why Is Lubbock Water Hard? Lubbock TX","exists":true},{"file":"card-how-hard-is-lubbock-water-lubbock-tx.webp","alt":"How Hard Is Lubbock Water? Lubbock TX","exists":true}]
 faq: [{"q":"Is Lubbock water safe to drink?","a":"City of Lubbock water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately."},{"q":"Does a water softener remove minerals I need?","a":"A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source."},{"q":"Why does my glassware spot even with a rinse aid?","a":"Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source."},{"q":"Can hard water damage my water heater?","a":"Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup."},{"q":"Do homes on well water have harder water?","a":"Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Three questions cover the basics: what hard water is, why Lubbock water is hard 
 <div class="svc-card">
 
 
-![What Is Hard Water? Lubbock TX](/placeholders/card.svg)
+
+![What Is Hard Water? Lubbock TX](../../assets/images/card-what-is-hard-water-lubbock-tx.webp)
+
+
 
 ### What Is Hard Water?
 
@@ -36,7 +39,10 @@ Hard water is water with a high concentration of dissolved calcium and magnesium
 <div class="svc-card">
 
 
-![Why Is Lubbock Water Hard? Lubbock TX](/placeholders/card.svg)
+
+![Why Is Lubbock Water Hard? Lubbock TX](../../assets/images/card-why-is-lubbock-water-hard-lubbock-tx.webp)
+
+
 
 ### Why Is Lubbock Water Hard?
 
@@ -47,7 +53,10 @@ Lubbock water is hard because most of it comes from underground. According to th
 <div class="svc-card">
 
 
-![How Hard Is Lubbock Water? Lubbock TX](/placeholders/card.svg)
+
+![How Hard Is Lubbock Water? Lubbock TX](../../assets/images/card-how-hard-is-lubbock-water-lubbock-tx.webp)
+
+
 
 ### How Hard Is Lubbock Water?
 
