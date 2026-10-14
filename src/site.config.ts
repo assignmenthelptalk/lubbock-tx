@@ -277,7 +277,7 @@ const domain = "watersoftenerlubbocktx.com";
 
 /**
  * Lubbock Elite Water Softener. Data sources and open items:
- * Local-SEO-Toolkit/data/lubbockelitewatersoftener/reports/research-facts.md
+ * Local-SEO-Toolkit/data/watersoftenerlubbocktx/reports/research-facts.md
  * Values marked NEEDS_DATA or VERIFY are unconfirmed and must be resolved
  * before launch (see LAUNCH-CHECKLIST.md).
  */

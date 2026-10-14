@@ -5,8 +5,8 @@ Rank-and-rent lead-generation site for **Lubbock Elite Water Softener**
 Astro 7 static site built from `water-softener-boilerplate`.
 
 **Status: pushed to GitHub (`assignmenthelptalk/lubbock-tx`, branch `main`) and connected to a Vercel deployment with the
-domain watersoftenerlubbocktx.com.** The strategy folder is still `Local-SEO-Toolkit/data/lubbockelitewatersoftener` (the importer
-falls back to the project name when no folder matches the domain). Clear the open items in `LAUNCH-CHECKLIST.md` before relying on the site.
+domain watersoftenerlubbocktx.com.** The strategy folder is `Local-SEO-Toolkit/data/watersoftenerlubbocktx`, named after the
+domain as the importer expects. Clear the open items in `LAUNCH-CHECKLIST.md` before relying on the site.
 
 ## Commands
 
@@ -22,7 +22,7 @@ npm run verify         # structural checks on dist/ (run after build)
 
 | What | Where |
 |---|---|
-| Strategy, briefs, written copy (source of truth) | `C:/Users/lenevo/Local-SEO-Toolkit/data/lubbockelitewatersoftener/` |
+| Strategy, briefs, written copy (source of truth) | `C:/Users/lenevo/Local-SEO-Toolkit/data/watersoftenerlubbocktx/` |
 | Imported pages (generated, do not hand-edit) | `src/data/pages/*.md` |
 | Navigation data (generated) | `src/data/nav.json` |
 | Site identity, colors, phone, email | `src/site.config.ts` |
@@ -79,4 +79,4 @@ pages.
 
 ## Service-areas map
 
-The service-areas page has an interactive map (`src/components/ServiceAreaMap.astro`, Leaflet on OpenStreetMap). Pins come from `map-points.json` in the strategy folder (`Local-SEO-Toolkit/data/lubbockelitewatersoftener/`); `npm run import-content` copies it to `src/data/map-points.json` and keeps only pins whose page is built. Add a point when a town page is written. Tech Terrace and Overton pins are approximate (OpenStreetMap returned a place inside each neighbourhood, not its centre).
+The service-areas page has an interactive map (`src/components/ServiceAreaMap.astro`, Leaflet on OpenStreetMap). Pins come from `map-points.json` in the strategy folder (`Local-SEO-Toolkit/data/watersoftenerlubbocktx/`); `npm run import-content` copies it to `src/data/map-points.json` and keeps only pins whose page is built. Add a point when a town page is written. Tech Terrace and Overton pins are approximate (OpenStreetMap returned a place inside each neighbourhood, not its centre).
