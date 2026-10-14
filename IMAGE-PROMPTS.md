@@ -19,7 +19,7 @@
 - **No faces.** Technicians appear from behind or as hands only, which also avoids implying real staff.
 - **No text, numbers, logos or brand names.** Equipment is deliberately generic and unbranded. Diagrams and charts are built in code.
 - **Local but honest.** the South Plains homes, limestone, live oaks, slab floors and garage installs. No invented business claims, awards, vehicles or real addresses. Town pictures show typical housing only.
-- **Brand-matched color.** Navy and copper accents echo the site palette (`#1A3C5E`, `#E87722`).
+- **Brand-matched color.** Deep teal and copper accents echo the site palette (`#0F6E78`, `#B85A24`).
 - **Keep the set consistent.** Generate everything in one session, reuse the same garage description and lighting.
 
 Check each result for stray text or logos, extra fingers, plumbing that makes no sense (pipes to nowhere, a salt-free unit with a brine tank) and visible faces. Regenerate if any appear.
@@ -33,7 +33,7 @@ Check each result for stray text or logos, extra fingers, plumbing that makes no
 - **Alt text (from the page copy):** Water Softener Installation Lubbock TX
 
 ```
-A technician's gloved hands connecting the bypass valve on a new water softener, copper and white PEX pipe, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hands connecting the bypass valve on a new water softener, copper and white PEX pipe, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-replacement-lubbock-tx`
@@ -42,7 +42,7 @@ A technician's gloved hands connecting the bypass valve on a new water softener,
 - **Alt text (from the page copy):** Water Softener Replacement Lubbock TX
 
 ```
-Wide shot, camera about two meters back at chest height, showing two water softeners fully in frame, each from top to bottom, with a clear gap of floor between them. On the LEFT, an old softener: a yellowed, stained resin tank with rust streaks, an aged cream-colored control head and a salt-crusted gray brine tank, strapped onto a hand truck. On the RIGHT, a brand-new generic softener: a clean tall navy-blue resin tank with a modern control head and a matching clean gray brine tank. Only a technician's gloved hands and forearms are visible, gripping the hand truck handles at the edge of the frame; the person's head, shoulders and face are completely out of frame. Setting: a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, natural daylight from an open garage door. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Wide shot, camera about two meters back at chest height, showing two water softeners fully in frame, each from top to bottom, with a clear gap of floor between them. On the LEFT, an old softener: a yellowed, stained resin tank with rust streaks, an aged cream-colored control head and a salt-crusted gray brine tank, strapped onto a hand truck. On the RIGHT, a brand-new generic softener: a clean tall deep-teal resin tank with a modern control head and a matching clean gray brine tank. Only a technician's gloved hands and forearms are visible, gripping the hand truck handles at the edge of the frame; the person's head, shoulders and face are completely out of frame. Setting: a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, natural daylight from an open garage door. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-salt-free-water-softener-systems-lubbock-tx`
@@ -51,7 +51,7 @@ Wide shot, camera about two meters back at chest height, showing two water softe
 - **Alt text (from the page copy):** Salt-Free Water Softener Systems Lubbock TX
 
 ```
-A single slim stainless-and-navy salt-free conditioner canister mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, a copper bypass loop. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A single slim stainless-and-deep-teal salt-free conditioner canister mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, a copper bypass loop. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-repair-and-service-lubbock-tx`
@@ -60,7 +60,7 @@ A single slim stainless-and-navy salt-free conditioner canister mounted on the m
 - **Alt text (from the page copy):** Water Softener Repair & Service Lubbock TX
 
 ```
-A technician kneeling beside a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, seen from behind, opening the control head with a screwdriver, hand tools on a towel. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician kneeling beside a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, seen from behind, opening the control head with a screwdriver, hand tools on a towel. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-whole-house-water-filtration-lubbock-tx`
@@ -69,7 +69,7 @@ A technician kneeling beside a generic, unbranded residential water softener: a 
 - **Alt text (from the page copy):** Whole House Water Filtration Lubbock TX
 
 ```
-Two large whole-house filter housings (a sediment stage and a carbon stage) mounted side by side on a plywood panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, with copper pipework and pressure gauges with blank faces. Only a technician's gloved hands and forearms enter the frame from the right edge, tightening the lower housing with a wrench; the person's head, shoulders and face are completely out of frame, and no person is visible anywhere else. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Two large whole-house filter housings (a sediment stage and a carbon stage) mounted side by side on a plywood panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, with copper pipework and pressure gauges with blank faces. Only a technician's gloved hands and forearms enter the frame from the right edge, tightening the lower housing with a wrench; the person's head, shoulders and face are completely out of frame, and no person is visible anywhere else. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-quality-testing-lubbock-tx`
@@ -78,7 +78,7 @@ Two large whole-house filter housings (a sediment stage and a carbon stage) moun
 - **Alt text (from the page copy):** Water Quality Testing Lubbock TX
 
 ```
-A technician's hands holding a small clear test vial of tap water at a kitchen faucet, test strips and a handheld meter with a blank screen on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands holding a small clear test vial of tap water at a kitchen faucet, test strips and a handheld meter with a blank screen on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-installation-steps-lubbock-tx`
@@ -87,7 +87,7 @@ A technician's hands holding a small clear test vial of tap water at a kitchen f
 - **Alt text (from the page copy):** Technician installing a water softener in a Lubbock TX home
 
 ```
-A tall portrait shot of a technician seen from behind in a plain dark-navy work shirt with no logos, kneeling beside a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, tightening a bypass valve with a wrench in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. A water heater and copper supply lines are visible behind. The technician and softener fill the frame from top to bottom, with a calm uncluttered background. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 4:5.
+A tall portrait shot of a technician seen from behind in a plain dark-teal work shirt with no logos, kneeling beside a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, tightening a bypass valve with a wrench in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. A water heater and copper supply lines are visible behind. The technician and softener fill the frame from top to bottom, with a calm uncluttered background. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 4:5.
 ```
 
 
@@ -99,7 +99,7 @@ A tall portrait shot of a technician seen from behind in a plain dark-navy work 
 - **Alt text (from the page copy):** Under Sink Drinking Water Systems Lubbock TX
 
 ```
-The inside of a clean kitchen sink cabinet with a compact three-stage drinking water filter system mounted on the cabinet wall, clear tubing running up to a slim dedicated faucet visible on the sink above, and a technician's hands tightening a fitting. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+The inside of a clean kitchen sink cabinet with a compact three-stage drinking water filter system mounted on the cabinet wall, clear tubing running up to a slim dedicated faucet visible on the sink above, and a technician's hands tightening a fitting. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-countertop-purification-units-lubbock-tx`
@@ -108,7 +108,7 @@ The inside of a clean kitchen sink cabinet with a compact three-stage drinking w
 - **Alt text (from the page copy):** Countertop Purification Units Lubbock TX
 
 ```
-A compact countertop water purification unit with a clear reservoir and a blank-faced dispenser on a bright kitchen counter, a person seen only as hands filling a glass, soft window light. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A compact countertop water purification unit with a clear reservoir and a blank-faced dispenser on a bright kitchen counter, a person seen only as hands filling a glass, soft window light. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-alkaline-water-systems-lubbock-tx`
@@ -117,7 +117,7 @@ A compact countertop water purification unit with a clear reservoir and a blank-
 - **Alt text (from the page copy):** Alkaline Water Systems Lubbock TX
 
 ```
-A slim alkaline water filter cartridge system beside a kitchen faucet on a stone countertop, a clear glass of water and a blank test strip card next to it, bright airy kitchen. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A slim alkaline water filter cartridge system beside a kitchen faucet on a stone countertop, a clear glass of water and a blank test strip card next to it, bright airy kitchen. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-what-is-hard-water-lubbock-tx`
@@ -126,7 +126,7 @@ A slim alkaline water filter cartridge system beside a kitchen faucet on a stone
 - **Alt text (from the page copy):** What Is Hard Water? Lubbock TX
 
 ```
-A macro close-up of a clear drinking glass drying on a dark surface and leaving a ring of white mineral spots, a chalky piece of limestone beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A macro close-up of a clear drinking glass drying on a dark surface and leaving a ring of white mineral spots, a chalky piece of limestone beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-why-is-lubbock-water-hard-lubbock-tx`
@@ -135,7 +135,7 @@ A macro close-up of a clear drinking glass drying on a dark surface and leaving 
 - **Alt text (from the page copy):** Why Is Lubbock Water Hard? Lubbock TX
 
 ```
-Clear spring-fed river water flowing over pale limestone ledges in the Texas Hill Country, live oak trees on the bank, soft daylight, no people and no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Clear spring-fed river water flowing over pale limestone ledges in the Texas Hill Country, live oak trees on the bank, soft daylight, no people and no signs. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-how-hard-is-lubbock-water-lubbock-tx`
@@ -144,7 +144,7 @@ Clear spring-fed river water flowing over pale limestone ledges in the Texas Hil
 - **Alt text (from the page copy):** How Hard Is Lubbock Water? Lubbock TX
 
 ```
-A technician's gloved hand holding a handheld digital water hardness meter with a blank screen beside a kitchen tap, a clear sample vial of tap water in the other hand. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hand holding a handheld digital water hardness meter with a blank screen beside a kitchen tap, a clear sample vial of tap water in the other hand. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-hard-water-symptoms-return-lubbock-tx`
@@ -153,7 +153,7 @@ A technician's gloved hand holding a handheld digital water hardness meter with 
 - **Alt text (from the page copy):** Hard-Water Symptoms Return Lubbock TX
 
 ```
-A glass shower door covered in white water spots next to a chrome fixture with chalky limescale, bright bathroom, soft morning light. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A glass shower door covered in white water spots next to a chrome fixture with chalky limescale, bright bathroom, soft morning light. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-salt-use-rises-sharply-lubbock-tx`
@@ -162,7 +162,7 @@ A glass shower door covered in white water spots next to a chrome fixture with c
 - **Alt text (from the page copy):** Salt Use Rises Sharply Lubbock TX
 
 ```
-A brine tank lid lifted to show the salt level, with several plain unmarked white 40-pound salt bags stacked beside the softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A brine tank lid lifted to show the salt level, with several plain unmarked white 40-pound salt bags stacked beside the softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-salt-bridges-or-mush-keep-returning-lubbock-tx`
@@ -171,7 +171,7 @@ A brine tank lid lifted to show the salt level, with several plain unmarked whit
 - **Alt text (from the page copy):** Salt Bridges or Mush Keep Returning Lubbock TX
 
 ```
-Inside an open brine tank: a hard crust of salt forming a bridge over a gap, a technician's gloved hand pressing a broom handle into the crust. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Inside an open brine tank: a hard crust of salt forming a bridge over a gap, a technician's gloved hand pressing a broom handle into the crust. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-leaks-from-the-tank-head-or-drain-lubbock-tx`
@@ -180,7 +180,7 @@ Inside an open brine tank: a hard crust of salt forming a bridge over a gap, a t
 - **Alt text (from the page copy):** Leaks From the Tank, Head or Drain Lubbock TX
 
 ```
-An unmistakable residential water softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf: a tall slim navy-blue resin tank with a digital control head on top and a squat gray brine tank beside it, a small puddle on the slab floor at the base of the tank and a folded towel nearby. Not gas cylinders. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+An unmistakable residential water softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf: a tall slim deep-teal resin tank with a digital control head on top and a squat gray brine tank beside it, a small puddle on the slab floor at the base of the tank and a folded towel nearby. Not gas cylinders. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-error-codes-or-no-cycling-lubbock-tx`
@@ -189,7 +189,7 @@ An unmistakable residential water softener in a tidy Texas home garage with a pa
 - **Alt text (from the page copy):** Error Codes or No Cycling Lubbock TX
 
 ```
-The control head of a residential water softener (the digital head on top of a tall navy-blue resin tank, with copper and white PEX pipe connections) with a dark blank display, and a technician's finger pressing a button; the garage is softly blurred behind. Not an electric meter box. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+The control head of a residential water softener (the digital head on top of a tall deep-teal resin tank, with copper and white PEX pipe connections) with a dark blank display, and a technician's finger pressing a button; the garage is softly blurred behind. Not an electric meter box. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-resin-beads-in-faucets-or-sinks-lubbock-tx`
@@ -198,7 +198,7 @@ The control head of a residential water softener (the digital head on top of a t
 - **Alt text (from the page copy):** Resin Beads in Faucets or Sinks Lubbock TX
 
 ```
-A kitchen sink drain strainer holding a few tiny tan resin beads, a chrome faucet above, macro shot. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A kitchen sink drain strainer holding a few tiny tan resin beads, a chrome faucet above, macro shot. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-how-reverse-osmosis-systems-work-lubbock-tx`
@@ -207,7 +207,7 @@ A kitchen sink drain strainer holding a few tiny tan resin beads, a chrome fauce
 - **Alt text (from the page copy):** How Reverse Osmosis Systems Work Lubbock TX
 
 ```
-An under-sink reverse osmosis system laid out on a clean workbench: three filter cartridges, a membrane housing, a small storage tank and tidy tubing, plain white background, no labels. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+An under-sink reverse osmosis system laid out on a clean workbench: three filter cartridges, a membrane housing, a small storage tank and tidy tubing, plain white background, no labels. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-under-sink-ro-installation-lubbock-tx`
@@ -216,7 +216,7 @@ An under-sink reverse osmosis system laid out on a clean workbench: three filter
 - **Alt text (from the page copy):** Under Sink RO Installation Lubbock TX
 
 ```
-A technician's hands fitting a filter cartridge into a compact under-sink reverse osmosis system inside a clean kitchen cabinet, a slim dedicated faucet on the sink above. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands fitting a filter cartridge into a compact under-sink reverse osmosis system inside a clean kitchen cabinet, a slim dedicated faucet on the sink above. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-whole-house-ro-systems-lubbock-tx`
@@ -225,7 +225,7 @@ A technician's hands fitting a filter cartridge into a compact under-sink revers
 - **Alt text (from the page copy):** Whole House RO Systems Lubbock TX
 
 ```
-A large whole-house reverse osmosis unit with a tall storage tank and a booster pump on a concrete floor in a tidy utility room, neat unmarked pipework. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A large whole-house reverse osmosis unit with a tall storage tank and a booster pump on a concrete floor in a tidy utility room, neat unmarked pipework. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-ro-membrane-replacement-lubbock-tx`
@@ -234,7 +234,7 @@ A large whole-house reverse osmosis unit with a tall storage tank and a booster 
 - **Alt text (from the page copy):** RO Membrane Replacement Lubbock TX
 
 ```
-A technician's hands holding a new reverse osmosis membrane cartridge above an open membrane housing, a small tool tray beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands holding a new reverse osmosis membrane cartridge above an open membrane housing, a small tool tray beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-ro-and-water-softener-combination-lubbock-tx`
@@ -243,7 +243,7 @@ A technician's hands holding a new reverse osmosis membrane cartridge above an o
 - **Alt text (from the page copy):** RO and Water Softener Combination Lubbock TX
 
 ```
-A reverse osmosis system and a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections on the same wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, joined by neat copper and white PEX piping. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A reverse osmosis system and a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections on the same wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, joined by neat copper and white PEX piping. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-template-assisted-crystallization-tac-systems-lubbock-tx`
@@ -252,7 +252,7 @@ A reverse osmosis system and a generic, unbranded residential water softener: a 
 - **Alt text (from the page copy):** Template Assisted Crystallization (TAC) Systems Lubbock TX
 
 ```
-A single stainless-and-navy media tank mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, copper bypass loop and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A single stainless-and-deep-teal media tank mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, copper bypass loop and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-electronic-descaler-installation-lubbock-tx`
@@ -261,7 +261,7 @@ A single stainless-and-navy media tank mounted on the main water line in a tidy 
 - **Alt text (from the page copy):** Electronic Descaler Installation Lubbock TX
 
 ```
-A small electronic descaler box mounted beside a copper main water line with coils wrapped around the pipe, a technician's hand adjusting it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A small electronic descaler box mounted beside a copper main water line with coils wrapped around the pipe, a technician's hand adjusting it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-magnetic-water-conditioner-installation-lubbock-tx`
@@ -270,7 +270,7 @@ A small electronic descaler box mounted beside a copper main water line with coi
 - **Alt text (from the page copy):** Magnetic Water Conditioner Installation Lubbock TX
 
 ```
-Two compact magnetic conditioner clamps fitted on a copper pipe at the water heater inlet, a technician's hand tightening one. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Two compact magnetic conditioner clamps fitted on a copper pipe at the water heater inlet, a technician's hand tightening one. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-how-uv-water-purification-works-lubbock-tx`
@@ -279,7 +279,7 @@ Two compact magnetic conditioner clamps fitted on a copper pipe at the water hea
 - **Alt text (from the page copy):** How UV Water Purification Works Lubbock TX
 
 ```
-A stainless UV purification chamber on a clean workbench with a faint cool-blue glow at its end cap, a clear glass of water beside it, plain background. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A stainless UV purification chamber on a clean workbench with a faint cool-blue glow at its end cap, a clear glass of water beside it, plain background. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-uv-system-installation-lubbock-tx`
@@ -288,7 +288,7 @@ A stainless UV purification chamber on a clean workbench with a faint cool-blue 
 - **Alt text (from the page copy):** UV System Installation Lubbock TX
 
 ```
-A technician's hands mounting a horizontal stainless UV chamber on a panel after a sediment filter housing on the main line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands mounting a horizontal stainless UV chamber on a panel after a sediment filter housing on the main line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-uv-and-water-softener-combination-lubbock-tx`
@@ -297,7 +297,7 @@ A technician's hands mounting a horizontal stainless UV chamber on a panel after
 - **Alt text (from the page copy):** UV and Water Softener Combination Lubbock TX
 
 ```
-A water softener and a stainless UV chamber side by side on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, joined by neat copper piping. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A water softener and a stainless UV chamber side by side on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, joined by neat copper piping. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-salt-free-water-conditioners-lubbock-tx`
@@ -306,7 +306,7 @@ A water softener and a stainless UV chamber side by side on the wall of a tidy T
 - **Alt text (from the page copy):** Salt-Free Water Conditioners Lubbock TX
 
 ```
-A salt-free conditioner canister installed beside a water heater in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, shut-off valves and a copper bypass loop, no brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A salt-free conditioner canister installed beside a water heater in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, shut-off valves and a copper bypass loop, no brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-potassium-chloride-water-softener-systems-lubbock-tx`
@@ -315,7 +315,7 @@ A salt-free conditioner canister installed beside a water heater in a tidy Texas
 - **Alt text (from the page copy):** Potassium Chloride Water Softener Systems Lubbock TX
 
 ```
-A technician's gloved hands pouring potassium chloride pellets from a plain unmarked white bag into the brine tank of a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hands pouring potassium chloride pellets from a plain unmarked white bag into the brine tank of a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-hard-water-treatment-service-lubbock-tx`
@@ -324,7 +324,7 @@ A technician's gloved hands pouring potassium chloride pellets from a plain unma
 - **Alt text (from the page copy):** Hard Water Treatment Service Lubbock TX
 
 ```
-A technician's hands holding a water test vial next to a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a clipboard with a blank ruled form on the shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands holding a water test vial next to a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a clipboard with a blank ruled form on the shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-limescale-treatment-service-lubbock-tx`
@@ -333,7 +333,7 @@ A technician's hands holding a water test vial next to a generic, unbranded resi
 - **Alt text (from the page copy):** Limescale Treatment Service Lubbock TX
 
 ```
-A water heater element held in gloved hands, thickly crusted with white limescale, a clean element laid beside it for comparison. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A water heater element held in gloved hands, thickly crusted with white limescale, a clean element laid beside it for comparison. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-scale-inhibitor-system-installation-lubbock-tx`
@@ -342,7 +342,7 @@ A water heater element held in gloved hands, thickly crusted with white limescal
 - **Alt text (from the page copy):** Scale Inhibitor System Installation Lubbock TX
 
 ```
-A small scale-inhibitor feeder cartridge being installed on the main line ahead of a water heater in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper pipe and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A small scale-inhibitor feeder cartridge being installed on the main line ahead of a water heater in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper pipe and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-lead-and-arsenic-removal-lubbock-tx`
@@ -351,7 +351,7 @@ A small scale-inhibitor feeder cartridge being installed on the main line ahead 
 - **Alt text (from the page copy):** Lead and Arsenic Removal Lubbock TX
 
 ```
-A specialty media filter housing mounted inside a kitchen sink cabinet, a technician's hand on it and a small unlabeled sample bottle on the cabinet floor. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A specialty media filter housing mounted inside a kitchen sink cabinet, a technician's hand on it and a small unlabeled sample bottle on the cabinet floor. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-chloramine-and-chlorine-removal-lubbock-tx`
@@ -360,7 +360,7 @@ A specialty media filter housing mounted inside a kitchen sink cabinet, a techni
 - **Alt text (from the page copy):** Chloramine and Chlorine Removal Lubbock TX
 
 ```
-A tall catalytic carbon filter tank installed on the main line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper plumbing and a bypass valve. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A tall catalytic carbon filter tank installed on the main line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper plumbing and a bypass valve. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-fluoride-filter-installation-lubbock-tx`
@@ -369,7 +369,7 @@ A tall catalytic carbon filter tank installed on the main line in a tidy Texas h
 - **Alt text (from the page copy):** Fluoride Filter Installation Lubbock TX
 
 ```
-A tall slim specialty cartridge being fitted into an open under-sink filter housing, a technician's hands, spare cartridges beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A tall slim specialty cartridge being fitted into an open under-sink filter housing, a technician's hands, spare cartridges beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-pfas-water-filter-lubbock-tx`
@@ -378,7 +378,7 @@ A tall slim specialty cartridge being fitted into an open under-sink filter hous
 - **Alt text (from the page copy):** PFAS Water Filter Lubbock TX
 
 ```
-A technician's hands replacing a dense carbon-block cartridge in a filter housing at a kitchen sink, two small unlabeled glass sample bottles on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands replacing a dense carbon-block cartridge in a filter housing at a kitchen sink, two small unlabeled glass sample bottles on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-nitrate-filter-installation-lubbock-tx`
@@ -387,7 +387,7 @@ A technician's hands replacing a dense carbon-block cartridge in a filter housin
 - **Alt text (from the page copy):** Nitrate Filter Installation Lubbock TX
 
 ```
-A twin-tank nitrate removal system beside a blue steel pressure tank in a tidy rural pump house, neat pipework and a clean concrete floor. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A twin-tank nitrate removal system beside a blue steel pressure tank in a tidy rural pump house, neat pipework and a clean concrete floor. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-voc-volatile-organic-compound-filter-lubbock-tx`
@@ -396,7 +396,7 @@ A twin-tank nitrate removal system beside a blue steel pressure tank in a tidy r
 - **Alt text (from the page copy):** VOC (Volatile Organic Compound) Filter Lubbock TX
 
 ```
-A large activated-carbon filter tank at the water entry point of a home, in a tidy utility closet with copper pipework and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A large activated-carbon filter tank at the water entry point of a home, in a tidy utility closet with copper pipework and shut-off valves. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-whole-house-water-filter-lubbock-tx`
@@ -405,7 +405,7 @@ A large activated-carbon filter tank at the water entry point of a home, in a ti
 - **Alt text (from the page copy):** Whole House Water Filter Lubbock TX
 
 ```
-A clear-and-blue whole-house filter housing with a sediment cartridge visible, mounted on the main line on a wall in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A clear-and-blue whole-house filter housing with a sediment cartridge visible, mounted on the main line on a wall in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-under-sink-water-filter-lubbock-tx`
@@ -414,7 +414,7 @@ A clear-and-blue whole-house filter housing with a sediment cartridge visible, m
 - **Alt text (from the page copy):** Under Sink Water Filter Lubbock TX
 
 ```
-A compact single under-sink filter housing with a slim faucet on a clean kitchen sink, the cabinet door open. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A compact single under-sink filter housing with a slim faucet on a clean kitchen sink, the cabinet door open. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-sediment-filter-installation-lubbock-tx`
@@ -423,7 +423,7 @@ A compact single under-sink filter housing with a slim faucet on a clean kitchen
 - **Alt text (from the page copy):** Sediment Filter Installation Lubbock TX
 
 ```
-A technician's hand holding a dirty brown sediment cartridge beside a clean white new one above an open clear filter housing. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hand holding a dirty brown sediment cartridge beside a clean white new one above an open clear filter housing. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-carbon-block-filter-lubbock-tx`
@@ -432,7 +432,7 @@ A technician's hand holding a dirty brown sediment cartridge beside a clean whit
 - **Alt text (from the page copy):** Carbon Block Filter Lubbock TX
 
 ```
-A new black carbon-block cartridge held in gloved hands above an open filter housing, plain unmarked packaging on the shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A new black carbon-block cartridge held in gloved hands above an open filter housing, plain unmarked packaging on the shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-shower-filter-installation-lubbock-tx`
@@ -441,7 +441,7 @@ A new black carbon-block cartridge held in gloved hands above an open filter hou
 - **Alt text (from the page copy):** Shower Filter Installation Lubbock TX
 
 ```
-A shower filter canister attached to a chrome shower arm in a bright bathroom, a hand tightening it, soft steam-free light. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A shower filter canister attached to a chrome shower arm in a bright bathroom, a hand tightening it, soft steam-free light. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-refrigerator-filter-replacement-lubbock-tx`
@@ -450,7 +450,7 @@ A shower filter canister attached to a chrome shower arm in a bright bathroom, a
 - **Alt text (from the page copy):** Refrigerator Filter Replacement Lubbock TX
 
 ```
-Hands twisting a blank unmarked water filter cartridge into the interior of a stainless-steel refrigerator. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Hands twisting a blank unmarked water filter cartridge into the interior of a stainless-steel refrigerator. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-multi-stage-filtration-lubbock-tx`
@@ -459,7 +459,7 @@ Hands twisting a blank unmarked water filter cartridge into the interior of a st
 - **Alt text (from the page copy):** Multi-Stage Filtration Lubbock TX
 
 ```
-A three-stage filter bank (sediment, carbon and polishing) on a plywood panel with pressure gauges with blank faces and neat copper pipework. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A three-stage filter bank (sediment, carbon and polishing) on a plywood panel with pressure gauges with blank faces and neat copper pipework. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-free-hard-water-test-lubbock-tx`
@@ -468,7 +468,7 @@ A three-stage filter bank (sediment, carbon and polishing) on a plywood panel wi
 - **Alt text (from the page copy):** Free Hard Water Test Lubbock TX
 
 ```
-A technician's hands dropping a reagent into a small clear vial of tap water under a kitchen faucet, an open test kit on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands dropping a reagent into a small clear vial of tap water under a kitchen faucet, an open test kit on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-tds-testing-lubbock-tx`
@@ -477,7 +477,7 @@ A technician's hands dropping a reagent into a small clear vial of tap water und
 - **Alt text (from the page copy):** TDS Testing Lubbock TX
 
 ```
-A handheld total-dissolved-solids meter with a blank display dipped in a clear glass of water on a kitchen counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A handheld total-dissolved-solids meter with a blank display dipped in a clear glass of water on a kitchen counter. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-iron-content-testing-lubbock-tx`
@@ -486,7 +486,7 @@ A handheld total-dissolved-solids meter with a blank display dipped in a clear g
 - **Alt text (from the page copy):** Iron Content Testing Lubbock TX
 
 ```
-Two test vials side by side on a white surface: one clear and one with a faint orange-brown tint, for comparison. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Two test vials side by side on a white surface: one clear and one with a faint orange-brown tint, for comparison. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-ph-level-testing-lubbock-tx`
@@ -495,7 +495,7 @@ Two test vials side by side on a white surface: one clear and one with a faint o
 - **Alt text (from the page copy):** pH Level Testing Lubbock TX
 
 ```
-A pH test strip being dipped into a clear glass of water, a blank unmarked color chart card beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A pH test strip being dipped into a clear glass of water, a blank unmarked color chart card beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-chlorine-testing-lubbock-tx`
@@ -504,7 +504,7 @@ A pH test strip being dipped into a clear glass of water, a blank unmarked color
 - **Alt text (from the page copy):** Chlorine Testing Lubbock TX
 
 ```
-A technician's hands pouring a water sample into a small clear chlorine test comparator tube at a kitchen counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands pouring a water sample into a small clear chlorine test comparator tube at a kitchen counter. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-sulfur-testing-lubbock-tx`
@@ -513,7 +513,7 @@ A technician's hands pouring a water sample into a small clear chlorine test com
 - **Alt text (from the page copy):** Sulfur Testing Lubbock TX
 
 ```
-A technician's gloved hand filling a clear sample jar from an outdoor spigot beside a pump house, dry grass and live oaks behind. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hand filling a clear sample jar from an outdoor spigot beside a pump house, dry grass and live oaks behind. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-heavy-metals-testing-lubbock-tx`
@@ -522,7 +522,7 @@ A technician's gloved hand filling a clear sample jar from an outdoor spigot bes
 - **Alt text (from the page copy):** Heavy Metals Testing Lubbock TX
 
 ```
-Gloved hands filling a sealed laboratory sample bottle with a blank label from a kitchen tap. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Gloved hands filling a sealed laboratory sample bottle with a blank label from a kitchen tap. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-resin-cleaning-service-lubbock-tx`
@@ -531,7 +531,7 @@ Gloved hands filling a sealed laboratory sample bottle with a blank label from a
 - **Alt text (from the page copy):** Water Softener Resin Cleaning Service Lubbock TX
 
 ```
-Gloved hands pouring resin cleaner into the brine well of a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, a measuring cup beside the tank. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Gloved hands pouring resin cleaner into the brine well of a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, a measuring cup beside the tank. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-salt-refill-service-lubbock-tx`
@@ -540,7 +540,7 @@ Gloved hands pouring resin cleaner into the brine well of a generic, unbranded r
 - **Alt text (from the page copy):** Water Softener Salt Refill Service Lubbock TX
 
 ```
-A technician's gloved hands lifting a plain unmarked white 40-pound salt bag over the open brine tank of a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hands lifting a plain unmarked white 40-pound salt bag over the open brine tank of a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-brine-tank-cleaning-lubbock-tx`
@@ -549,7 +549,7 @@ A technician's gloved hands lifting a plain unmarked white 40-pound salt bag ove
 - **Alt text (from the page copy):** Water Softener Brine Tank Cleaning Lubbock TX
 
 ```
-An emptied brine tank with a gloved hand scrubbing sludge from the bottom with a brush, a bucket and a hose beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+An emptied brine tank with a gloved hand scrubbing sludge from the bottom with a brush, a bucket and a hose beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-annual-maintenance-plans-lubbock-tx`
@@ -558,7 +558,7 @@ An emptied brine tank with a gloved hand scrubbing sludge from the bottom with a
 - **Alt text (from the page copy):** Annual Maintenance Plans Lubbock TX
 
 ```
-A technician's hands holding a clipboard with a blank ruled inspection form in front of a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands holding a clipboard with a blank ruled inspection form in front of a generic, unbranded residential water softener: a tall slim deep-teal resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-control-valve-repair-lubbock-tx`
@@ -567,7 +567,7 @@ A technician's hands holding a clipboard with a blank ruled inspection form in f
 - **Alt text (from the page copy):** Water Softener Control Valve Repair Lubbock TX
 
 ```
-A technician's hands holding an opened control valve, the small motor and valve body laid out on a clean towel on top of the brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands holding an opened control valve, the small motor and valve body laid out on a clean towel on top of the brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-motor-replacement-lubbock-tx`
@@ -576,7 +576,7 @@ A technician's hands holding an opened control valve, the small motor and valve 
 - **Alt text (from the page copy):** Water Softener Motor Replacement Lubbock TX
 
 ```
-A small softener control motor with a plain gear held in a gloved hand over an open control head, hand tools beside it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A small softener control motor with a plain gear held in a gloved hand over an open control head, hand tools beside it. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-float-valve-repair-lubbock-tx`
@@ -585,7 +585,7 @@ A small softener control motor with a plain gear held in a gloved hand over an o
 - **Alt text (from the page copy):** Float Valve Repair Lubbock TX
 
 ```
-A technician's hand reaching into an open brine tank to adjust a plain float valve assembly, a flashlight resting on the rim. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hand reaching into an open brine tank to adjust a plain float valve assembly, a flashlight resting on the rim. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-injector-cleaning-lubbock-tx`
@@ -594,7 +594,7 @@ A technician's hand reaching into an open brine tank to adjust a plain float val
 - **Alt text (from the page copy):** Injector Cleaning Lubbock TX
 
 ```
-A small softener injector and its screen laid on a clean towel beside a small brush and a cup of cleaning solution. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A small softener injector and its screen laid on a clean towel beside a small brush and a cup of cleaning solution. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-head-replacement-lubbock-tx`
@@ -603,7 +603,7 @@ A small softener injector and its screen laid on a clean towel beside a small br
 - **Alt text (from the page copy):** Head Replacement Lubbock TX
 
 ```
-A technician lifting a new control head onto the top of a resin tank, the old head set on the floor beside it, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician lifting a new control head onto the top of a resin tank, the old head set on the floor beside it, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-brine-line-repair-lubbock-tx`
@@ -612,7 +612,7 @@ A technician lifting a new control head onto the top of a resin tank, the old he
 - **Alt text (from the page copy):** Brine Line Repair Lubbock TX
 
 ```
-A technician's hands securing a clear brine line tube to a fitting on a brine tank with a small tool, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands securing a clear brine line tube to a fitting on a brine tank with a small tool, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-leak-repair-lubbock-tx`
@@ -621,7 +621,7 @@ A technician's hands securing a clear brine line tube to a fitting on a brine ta
 - **Alt text (from the page copy):** Water Softener Leak Repair Lubbock TX
 
 ```
-A technician tightening a fitting at the base of a softener tank with a wrench, a folded towel on the slab floor beneath. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician tightening a fitting at the base of a softener tank with a wrench, a folded towel on the slab floor beneath. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-full-water-softener-system-replacement-lubbock-tx`
@@ -630,7 +630,7 @@ A technician tightening a fitting at the base of a softener tank with a wrench, 
 - **Alt text (from the page copy):** Full Water Softener System Replacement Lubbock TX
 
 ```
-A technician seen from behind carrying an old softener tank out through an open garage door toward a work van with no markings. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician seen from behind carrying an old softener tank out through an open garage door toward a work van with no markings. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-resin-bed-replacement-lubbock-tx`
@@ -639,7 +639,7 @@ A technician seen from behind carrying an old softener tank out through an open 
 - **Alt text (from the page copy):** Resin Bed Replacement Lubbock TX
 
 ```
-Tan resin beads being poured from a plain bag through a funnel into an open softener tank, a technician's gloved hands steadying the funnel. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Tan resin beads being poured from a plain bag through a funnel into an open softener tank, a technician's gloved hands steadying the funnel. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-upgrade-service-lubbock-tx`
@@ -648,7 +648,7 @@ Tan resin beads being poured from a plain bag through a funnel into an open soft
 - **Alt text (from the page copy):** Water Softener Upgrade Service Lubbock TX
 
 ```
-A larger new high-efficiency softener standing next to an older smaller unit in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, both generic and unbranded. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A larger new high-efficiency softener standing next to an older smaller unit in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, both generic and unbranded. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-dual-tank-water-softener-installation-lubbock-tx`
@@ -657,7 +657,7 @@ A larger new high-efficiency softener standing next to an older smaller unit in 
 - **Alt text (from the page copy):** Dual Tank Water Softener Installation Lubbock TX
 
 ```
-Two identical tall resin tanks with a shared control valve and a brine tank behind them, being connected by a technician's hands in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Two identical tall resin tanks with a shared control valve and a brine tank behind them, being connected by a technician's hands in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-commercial-water-softener-installation-lubbock-tx`
@@ -666,7 +666,7 @@ Two identical tall resin tanks with a shared control valve and a brine tank behi
 - **Alt text (from the page copy):** Commercial Water Softener Installation Lubbock TX
 
 ```
-Two large generic fiberglass softener tanks and a stainless manifold in a clean commercial mechanical room, a technician seen from behind in the background. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Two large generic fiberglass softener tanks and a stainless manifold in a clean commercial mechanical room, a technician seen from behind in the background. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-maintenance-lubbock-tx`
@@ -675,7 +675,7 @@ Two large generic fiberglass softener tanks and a stainless manifold in a clean 
 - **Alt text (from the page copy):** Water Softener Maintenance Lubbock TX
 
 ```
-A technician's gloved hands lifting the lid of a brine tank to check the salt level on a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a flashlight nearby. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's gloved hands lifting the lid of a brine tank to check the salt level on a softener in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a flashlight nearby. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-softener-repair-lubbock-tx`
@@ -684,7 +684,7 @@ A technician's gloved hands lifting the lid of a brine tank to check the salt le
 - **Alt text (from the page copy):** Water Softener Repair Lubbock TX
 
 ```
-Close shot of a technician's hands holding the opened control head of a softener, parts laid out neatly on a clean towel on the brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+Close shot of a technician's hands holding the opened control head of a softener, parts laid out neatly on a clean towel on the brine tank. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-conditioner-installation-lubbock-tx`
@@ -693,7 +693,7 @@ Close shot of a technician's hands holding the opened control head of a softener
 - **Alt text (from the page copy):** Water Conditioner Installation Lubbock TX
 
 ```
-A compact water conditioner unit and a small scale-inhibitor feeder installed ahead of a water heater, a technician's hands adjusting a valve. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A compact water conditioner unit and a small scale-inhibitor feeder installed ahead of a water heater, a technician's hands adjusting a valve. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-filtration-systems-lubbock-tx`
@@ -702,7 +702,7 @@ A compact water conditioner unit and a small scale-inhibitor feeder installed ah
 - **Alt text (from the page copy):** Water Filtration Systems Lubbock TX
 
 ```
-A technician's hands tightening a housing on a two-stage whole-house filter panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands tightening a housing on a two-stage whole-house filter panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-reverse-osmosis-installation-lubbock-tx`
@@ -711,7 +711,7 @@ A technician's hands tightening a housing on a two-stage whole-house filter pane
 - **Alt text (from the page copy):** Reverse Osmosis Installation Lubbock TX
 
 ```
-A technician connecting tubing on a compact reverse osmosis system under a kitchen sink, the slim dedicated faucet visible above. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician connecting tubing on a compact reverse osmosis system under a kitchen sink, the slim dedicated faucet visible above. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-uv-water-purification-lubbock-tx`
@@ -720,7 +720,7 @@ A technician connecting tubing on a compact reverse osmosis system under a kitch
 - **Alt text (from the page copy):** UV Water Purification Lubbock TX
 
 ```
-A horizontal stainless-steel UV chamber mounted on a panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a faint cool-blue glow at the end cap. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A horizontal stainless-steel UV chamber mounted on a panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a faint cool-blue glow at the end cap. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-drinking-water-systems-lubbock-tx`
@@ -729,7 +729,7 @@ A horizontal stainless-steel UV chamber mounted on a panel on the wall of a tidy
 - **Alt text (from the page copy):** Drinking Water Systems Lubbock TX
 
 ```
-A bright modern kitchen with a slim dedicated drinking-water faucet beside the main tap, a person seen only as hands filling a clear glass. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A bright modern kitchen with a slim dedicated drinking-water faucet beside the main tap, a person seen only as hands filling a clear glass. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-well-water-treatment-lubbock-tx`
@@ -738,7 +738,7 @@ A bright modern kitchen with a slim dedicated drinking-water faucet beside the m
 - **Alt text (from the page copy):** Well Water Treatment Lubbock TX
 
 ```
-A softener, an iron-filter tower and a sediment housing in a row beside a blue pressure tank in a tidy rural pump house. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A softener, an iron-filter tower and a sediment housing in a row beside a blue pressure tank in a tidy rural pump house. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-water-contaminant-removal-lubbock-tx`
@@ -747,7 +747,7 @@ A softener, an iron-filter tower and a sediment housing in a row beside a blue p
 - **Alt text (from the page copy):** Water Contaminant Removal Lubbock TX
 
 ```
-A technician's hands fitting a carbon-block cartridge into an open under-sink filter housing, spare cartridges on the cabinet floor. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A technician's hands fitting a carbon-block cartridge into an open under-sink filter housing, spare cartridges on the cabinet floor. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-well-water-softener-installation-lubbock-tx`
@@ -756,7 +756,7 @@ A technician's hands fitting a carbon-block cartridge into an open under-sink fi
 - **Alt text (from the page copy):** Well Water Softener Installation Lubbock TX
 
 ```
-A generic softener installed beside a blue steel pressure tank in a tidy rural pump house, a small open doorway showing a limestone hillside with live oaks. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A generic softener installed beside a blue steel pressure tank in a tidy rural pump house, a small open doorway showing a limestone hillside with live oaks. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-iron-filter-installation-lubbock-tx`
@@ -765,7 +765,7 @@ A generic softener installed beside a blue steel pressure tank in a tidy rural p
 - **Alt text (from the page copy):** Iron Filter Installation Lubbock TX
 
 ```
-A tall iron-filter tower standing beside a blue pressure tank in a tidy pump house, neat pipework and a clean concrete floor. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A tall iron-filter tower standing beside a blue pressure tank in a tidy pump house, neat pipework and a clean concrete floor. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-hydrogen-sulfide-filter-lubbock-tx`
@@ -774,7 +774,7 @@ A tall iron-filter tower standing beside a blue pressure tank in a tidy pump hou
 - **Alt text (from the page copy):** Hydrogen Sulfide Filter Lubbock TX
 
 ```
-A tall carbon-media filter tower installed on a well line in a tidy rural pump house, a technician's hand on the control valve. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A tall carbon-media filter tower installed on a well line in a tidy rural pump house, a technician's hand on the control valve. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-well-water-sediment-filter-lubbock-tx`
@@ -783,7 +783,7 @@ A tall carbon-media filter tower installed on a well line in a tidy rural pump h
 - **Alt text (from the page copy):** Well Water Sediment Filter Lubbock TX
 
 ```
-A clear sediment filter housing with a brown-stained cartridge visible, mounted on a well supply line beside a pressure tank. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A clear sediment filter housing with a brown-stained cartridge visible, mounted on a well supply line beside a pressure tank. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-why-well-water-in-the-lubbock-area-needs-special-treatment-lubbock-tx`
@@ -792,7 +792,7 @@ A clear sediment filter housing with a brown-stained cartridge visible, mounted 
 - **Alt text (from the page copy):** Why Well Water in the Lubbock Area Needs Special Treatment Lubbock TX
 
 ```
-A small stone wellhead pump house on a Texas Hill Country limestone hillside with live oaks and cedar, a big sky, no people and no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A small stone wellhead pump house on a Texas Hill Country limestone hillside with live oaks and cedar, a big sky, no people and no signs. Photorealistic editorial photo, natural daylight, clean composition, muted deep-teal and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 
@@ -811,7 +811,7 @@ A small stone wellhead pump house on a Texas Hill Country limestone hillside wit
 ### `water-softener-process-lubbock-tx`
 - **Used on:** Homepage and the installation page, 'Simple 4-Step Water Softener Installation Process'
 - **Alt text:** Water softener installation Lubbock TX process diagram
-- **Spec:** A clean four-step horizontal diagram in the site colors (navy #1A3C5E, orange #E87722): 1 Free Estimate and Water Test, 2 Custom System Recommendation, 3 Professional Installation, 4 Ongoing Support and Maintenance. Rendered by scripts/build-diagrams.mjs.
+- **Spec:** A clean four-step horizontal diagram in the site colors (deep teal #0F6E78, copper #B85A24): 1 Free Estimate and Water Test, 2 Custom System Recommendation, 3 Professional Installation, 4 Ongoing Support and Maintenance. Rendered by scripts/build-diagrams.mjs.
 
 
 ## Summary
