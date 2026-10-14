@@ -11,7 +11,7 @@ openingHtml: "Water quality testing in Lubbock, TX measures the hardness, minera
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
-images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-lubbock-tx.webp","alt":"Free Hard Water Test Lubbock TX","exists":false},{"file":"card-tds-testing-lubbock-tx.webp","alt":"TDS Testing Lubbock TX","exists":false},{"file":"card-iron-content-testing-lubbock-tx.webp","alt":"Iron Content Testing Lubbock TX","exists":false},{"file":"card-ph-level-testing-lubbock-tx.webp","alt":"pH Level Testing Lubbock TX","exists":false},{"file":"card-chlorine-testing-lubbock-tx.webp","alt":"Chlorine Testing Lubbock TX","exists":false},{"file":"card-sulfur-testing-lubbock-tx.webp","alt":"Sulfur Testing Lubbock TX","exists":false},{"file":"card-heavy-metals-testing-lubbock-tx.webp","alt":"Heavy Metals Testing Lubbock TX","exists":false}]
+images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-lubbock-tx.webp","alt":"Free Hard Water Test Lubbock TX","exists":true},{"file":"card-tds-testing-lubbock-tx.webp","alt":"TDS Testing Lubbock TX","exists":true},{"file":"card-iron-content-testing-lubbock-tx.webp","alt":"Iron Content Testing Lubbock TX","exists":false},{"file":"card-ph-level-testing-lubbock-tx.webp","alt":"pH Level Testing Lubbock TX","exists":false},{"file":"card-chlorine-testing-lubbock-tx.webp","alt":"Chlorine Testing Lubbock TX","exists":false},{"file":"card-sulfur-testing-lubbock-tx.webp","alt":"Sulfur Testing Lubbock TX","exists":false},{"file":"card-heavy-metals-testing-lubbock-tx.webp","alt":"Heavy Metals Testing Lubbock TX","exists":false}]
 faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often should I test my water?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply. Lubbock Elite Water Softener TX provides water quality testing for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 <div class="svc-card">
 
 
-![Free Hard Water Test Lubbock TX](/placeholders/card.svg)
+
+![Free Hard Water Test Lubbock TX](../../assets/images/card-free-hard-water-test-lubbock-tx.webp)
+
+
 
 ### Free Hard Water Test
 
@@ -36,7 +39,10 @@ A [hard water](/water-softener-guides/hard-water-lubbock-tx/) test measures calc
 <div class="svc-card">
 
 
-![TDS Testing Lubbock TX](/placeholders/card.svg)
+
+![TDS Testing Lubbock TX](../../assets/images/card-tds-testing-lubbock-tx.webp)
+
+
 
 ### TDS Testing
 

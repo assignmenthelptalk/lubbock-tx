@@ -11,7 +11,7 @@ openingHtml: "Water contaminant removal in Lubbock, TX installs filters that red
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}
-images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-lubbock-tx.webp","alt":"Lead and Arsenic Removal Lubbock TX","exists":false},{"file":"card-chloramine-and-chlorine-removal-lubbock-tx.webp","alt":"Chloramine and Chlorine Removal Lubbock TX","exists":false},{"file":"card-fluoride-filter-installation-lubbock-tx.webp","alt":"Fluoride Filter Installation Lubbock TX","exists":false},{"file":"card-pfas-water-filter-lubbock-tx.webp","alt":"PFAS Water Filter Lubbock TX","exists":false},{"file":"card-nitrate-filter-installation-lubbock-tx.webp","alt":"Nitrate Filter Installation Lubbock TX","exists":false},{"file":"card-voc-volatile-organic-compound-filter-lubbock-tx.webp","alt":"VOC (Volatile Organic Compound) Filter Lubbock TX","exists":false}]
+images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-lubbock-tx.webp","alt":"Lead and Arsenic Removal Lubbock TX","exists":true},{"file":"card-chloramine-and-chlorine-removal-lubbock-tx.webp","alt":"Chloramine and Chlorine Removal Lubbock TX","exists":true},{"file":"card-fluoride-filter-installation-lubbock-tx.webp","alt":"Fluoride Filter Installation Lubbock TX","exists":true},{"file":"card-pfas-water-filter-lubbock-tx.webp","alt":"PFAS Water Filter Lubbock TX","exists":true},{"file":"card-nitrate-filter-installation-lubbock-tx.webp","alt":"Nitrate Filter Installation Lubbock TX","exists":false},{"file":"card-voc-volatile-organic-compound-filter-lubbock-tx.webp","alt":"VOC (Volatile Organic Compound) Filter Lubbock TX","exists":false}]
 faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need."},{"q":"Is Lubbock tap water safe?","a":"City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing."},{"q":"How do I know a filter really works?","a":"Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation."},{"q":"Can a water softener remove these contaminants?","a":"No. A softener removes hardness. Contaminant removal needs a different filter."},{"q":"What does contaminant removal cost?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed, and an under-sink reverse osmosis system for drinking water runs $550 to $1,200. It depends on the contaminant. The estimate is free and itemized. Lubbock Elite Water Softener TX provides water contaminant removal for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Six filter types target specific contaminants: lead and arsenic, chloramine and 
 <div class="svc-card">
 
 
-![Lead and Arsenic Removal Lubbock TX](/placeholders/card.svg)
+
+![Lead and Arsenic Removal Lubbock TX](../../assets/images/card-lead-and-arsenic-removal-lubbock-tx.webp)
+
+
 
 ### Lead and Arsenic Removal
 
@@ -36,7 +39,10 @@ Lead enters drinking water mainly from old plumbing, and the EPA sets its health
 <div class="svc-card">
 
 
-![Chloramine and Chlorine Removal Lubbock TX](/placeholders/card.svg)
+
+![Chloramine and Chlorine Removal Lubbock TX](../../assets/images/card-chloramine-and-chlorine-removal-lubbock-tx.webp)
+
+
 
 ### Chloramine and Chlorine Removal
 
@@ -47,7 +53,10 @@ Chlorine and chloramine are disinfectants that can affect taste and smell. Stand
 <div class="svc-card">
 
 
-![Fluoride Filter Installation Lubbock TX](/placeholders/card.svg)
+
+![Fluoride Filter Installation Lubbock TX](../../assets/images/card-fluoride-filter-installation-lubbock-tx.webp)
+
+
 
 ### Fluoride Filter Installation
 
@@ -58,7 +67,10 @@ Fluoride occurs naturally in some groundwater, and the EPA enforceable limit is 
 <div class="svc-card">
 
 
-![PFAS Water Filter Lubbock TX](/placeholders/card.svg)
+
+![PFAS Water Filter Lubbock TX](../../assets/images/card-pfas-water-filter-lubbock-tx.webp)
+
+
 
 ### PFAS Water Filter
 
