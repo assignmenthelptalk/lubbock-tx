@@ -11,7 +11,7 @@ openingHtml: "Water softener systems in Lubbock, TX remove or control the calciu
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}
-images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true},{"file":"card-water-softener-installation-lubbock-tx.webp","alt":"Water Softener Installation Lubbock TX","exists":true},{"file":"card-water-softener-replacement-lubbock-tx.webp","alt":"Water Softener Replacement Lubbock TX","exists":true},{"file":"card-salt-free-water-softener-systems-lubbock-tx.webp","alt":"Salt-Free Water Softener Systems Lubbock TX","exists":true},{"file":"card-dual-tank-water-softener-installation-lubbock-tx.webp","alt":"Dual Tank Water Softener Installation Lubbock TX","exists":false},{"file":"card-commercial-water-softener-installation-lubbock-tx.webp","alt":"Commercial Water Softener Installation Lubbock TX","exists":false},{"file":"card-water-softener-maintenance-lubbock-tx.webp","alt":"Water Softener Maintenance Lubbock TX","exists":false},{"file":"card-water-softener-repair-lubbock-tx.webp","alt":"Water Softener Repair Lubbock TX","exists":false}]
+images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true},{"file":"card-water-softener-installation-lubbock-tx.webp","alt":"Water Softener Installation Lubbock TX","exists":true},{"file":"card-water-softener-replacement-lubbock-tx.webp","alt":"Water Softener Replacement Lubbock TX","exists":true},{"file":"card-salt-free-water-softener-systems-lubbock-tx.webp","alt":"Salt-Free Water Softener Systems Lubbock TX","exists":true},{"file":"card-dual-tank-water-softener-installation-lubbock-tx.webp","alt":"Dual Tank Water Softener Installation Lubbock TX","exists":true},{"file":"card-commercial-water-softener-installation-lubbock-tx.webp","alt":"Commercial Water Softener Installation Lubbock TX","exists":true},{"file":"card-water-softener-maintenance-lubbock-tx.webp","alt":"Water Softener Maintenance Lubbock TX","exists":false},{"file":"card-water-softener-repair-lubbock-tx.webp","alt":"Water Softener Repair Lubbock TX","exists":true}]
 faq: [{"q":"What is the difference between a salt-based and a salt-free water softener?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale."},{"q":"Which water softener system is best for a large Lubbock household?","a":"A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading."},{"q":"Do homes on well water need a different system?","a":"Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options."},{"q":"Can one company install, maintain and repair my system?","a":"Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system. Lubbock Elite Water Softener TX provides water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -73,7 +73,10 @@ This page covers installation, replacement, salt-free systems, dual tank systems
 <div class="svc-card">
 
 
-![Dual Tank Water Softener Installation Lubbock TX](/placeholders/card.svg)
+
+![Dual Tank Water Softener Installation Lubbock TX](../../assets/images/card-dual-tank-water-softener-installation-lubbock-tx.webp)
+
+
 
 ### Dual Tank Water Softener Installation
 
@@ -84,7 +87,10 @@ A [dual tank water softener](/dual-tank-water-softener/) uses two tanks, so one 
 <div class="svc-card">
 
 
-![Commercial Water Softener Installation Lubbock TX](/placeholders/card.svg)
+
+![Commercial Water Softener Installation Lubbock TX](../../assets/images/card-commercial-water-softener-installation-lubbock-tx.webp)
+
+
 
 ### Commercial Water Softener Installation
 
@@ -106,7 +112,10 @@ A [commercial water softener](/commercial-water-softener/) protects boilers, dis
 <div class="svc-card">
 
 
-![Water Softener Repair Lubbock TX](/placeholders/card.svg)
+
+![Water Softener Repair Lubbock TX](../../assets/images/card-water-softener-repair-lubbock-tx.webp)
+
+
 
 ### Water Softener Repair
 

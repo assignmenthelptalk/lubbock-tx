@@ -11,7 +11,7 @@ openingHtml: "A well water softener in Lubbock, TX treats private-well water tha
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter"}
-images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter","exists":true},{"file":"card-well-water-softener-installation-lubbock-tx.webp","alt":"Well Water Softener Installation Lubbock TX","exists":false},{"file":"card-iron-filter-installation-lubbock-tx.webp","alt":"Iron Filter Installation Lubbock TX","exists":false},{"file":"card-hydrogen-sulfide-filter-lubbock-tx.webp","alt":"Hydrogen Sulfide Filter Lubbock TX","exists":false},{"file":"card-well-water-sediment-filter-lubbock-tx.webp","alt":"Well Water Sediment Filter Lubbock TX","exists":false},{"file":"card-why-well-water-in-the-lubbock-area-needs-special-treatment-lubbock-tx.webp","alt":"Why Well Water in the Lubbock Area Needs Special Treatment Lubbock TX","exists":false}]
+images: [{"file":"well-water-softener-lubbock-tx.webp","alt":"Well water softener Lubbock TX pressure tank with softener and iron filter","exists":true},{"file":"card-well-water-softener-installation-lubbock-tx.webp","alt":"Well Water Softener Installation Lubbock TX","exists":true},{"file":"card-iron-filter-installation-lubbock-tx.webp","alt":"Iron Filter Installation Lubbock TX","exists":false},{"file":"card-hydrogen-sulfide-filter-lubbock-tx.webp","alt":"Hydrogen Sulfide Filter Lubbock TX","exists":false},{"file":"card-well-water-sediment-filter-lubbock-tx.webp","alt":"Well Water Sediment Filter Lubbock TX","exists":false},{"file":"card-why-well-water-in-the-lubbock-area-needs-special-treatment-lubbock-tx.webp","alt":"Why Well Water in the Lubbock Area Needs Special Treatment Lubbock TX","exists":false}]
 faq: [{"q":"Can a water softener remove iron from well water?","a":"A softener removes small amounts of dissolved iron, but heavier iron needs an iron filter first or it fouls the resin."},{"q":"How do I know if my well water is safe?","a":"Only a test shows. Guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions."},{"q":"Why does my well water smell like rotten eggs?","a":"That smell usually comes from hydrogen sulfide gas. A test confirms it, and an oxidizing filter removes it."},{"q":"Do I need a softener and a filter for a well?","a":"Most wells need both. Filters handle iron, sulfur and sediment, and the softener handles hardness."},{"q":"What does well water treatment cost in Lubbock?","a":"Well-water systems typically run $1,000 to $2,500 installed, depending on iron content and flow rate, so your test results set the price. The estimate is free and itemized. Lubbock Elite Water Softener TX provides well water softener and treatment for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 1
 ---
@@ -25,7 +25,10 @@ Well water treatment covers four systems: a well water softener, an iron filter,
 <div class="svc-card">
 
 
-![Well Water Softener Installation Lubbock TX](/placeholders/card.svg)
+
+![Well Water Softener Installation Lubbock TX](../../assets/images/card-well-water-softener-installation-lubbock-tx.webp)
+
+
 
 ### Well Water Softener Installation
 

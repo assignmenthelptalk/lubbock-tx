@@ -11,7 +11,7 @@ openingHtml: "Water treatment in Lubbock, TX covers the equipment that condition
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
-images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true},{"file":"card-water-conditioner-installation-lubbock-tx.webp","alt":"Water Conditioner Installation Lubbock TX","exists":false},{"file":"card-water-filtration-systems-lubbock-tx.webp","alt":"Water Filtration Systems Lubbock TX","exists":false},{"file":"card-water-quality-testing-lubbock-tx.webp","alt":"Water Quality Testing Lubbock TX","exists":true},{"file":"card-reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse Osmosis Installation Lubbock TX","exists":false},{"file":"card-uv-water-purification-lubbock-tx.webp","alt":"UV Water Purification Lubbock TX","exists":false},{"file":"card-drinking-water-systems-lubbock-tx.webp","alt":"Drinking Water Systems Lubbock TX","exists":false},{"file":"card-well-water-treatment-lubbock-tx.webp","alt":"Well Water Treatment Lubbock TX","exists":false},{"file":"card-water-contaminant-removal-lubbock-tx.webp","alt":"Water Contaminant Removal Lubbock TX","exists":false}]
+images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true},{"file":"card-water-conditioner-installation-lubbock-tx.webp","alt":"Water Conditioner Installation Lubbock TX","exists":true},{"file":"card-water-filtration-systems-lubbock-tx.webp","alt":"Water Filtration Systems Lubbock TX","exists":false},{"file":"card-water-quality-testing-lubbock-tx.webp","alt":"Water Quality Testing Lubbock TX","exists":true},{"file":"card-reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse Osmosis Installation Lubbock TX","exists":true},{"file":"card-uv-water-purification-lubbock-tx.webp","alt":"UV Water Purification Lubbock TX","exists":true},{"file":"card-drinking-water-systems-lubbock-tx.webp","alt":"Drinking Water Systems Lubbock TX","exists":true},{"file":"card-well-water-treatment-lubbock-tx.webp","alt":"Well Water Treatment Lubbock TX","exists":true},{"file":"card-water-contaminant-removal-lubbock-tx.webp","alt":"Water Contaminant Removal Lubbock TX","exists":true}]
 faq: [{"q":"Do I need a water softener, a filter or both?","a":"A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs."},{"q":"Is Lubbock tap water safe to drink?","a":"City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution."},{"q":"Does well water in the Lubbock area need different treatment?","a":"Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV."},{"q":"Is a free water test really free?","a":"Ask exactly which tests are free and which carry a fee. Lubbock Elite Water Softener TX provides water treatment services for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -31,7 +31,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Water Conditioner Installation Lubbock TX](/placeholders/card.svg)
+
+![Water Conditioner Installation Lubbock TX](../../assets/images/card-water-conditioner-installation-lubbock-tx.webp)
+
+
 
 ### Water Conditioner Installation
 
@@ -67,7 +70,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Reverse Osmosis Installation Lubbock TX](/placeholders/card.svg)
+
+![Reverse Osmosis Installation Lubbock TX](../../assets/images/card-reverse-osmosis-installation-lubbock-tx.webp)
+
+
 
 ### Reverse Osmosis Installation
 
@@ -78,7 +84,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![UV Water Purification Lubbock TX](/placeholders/card.svg)
+
+![UV Water Purification Lubbock TX](../../assets/images/card-uv-water-purification-lubbock-tx.webp)
+
+
 
 ### UV Water Purification
 
@@ -89,7 +98,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Drinking Water Systems Lubbock TX](/placeholders/card.svg)
+
+![Drinking Water Systems Lubbock TX](../../assets/images/card-drinking-water-systems-lubbock-tx.webp)
+
+
 
 ### Drinking Water Systems
 
@@ -100,7 +112,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Well Water Treatment Lubbock TX](/placeholders/card.svg)
+
+![Well Water Treatment Lubbock TX](../../assets/images/card-well-water-treatment-lubbock-tx.webp)
+
+
 
 ### Well Water Treatment
 
@@ -111,7 +126,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Water Contaminant Removal Lubbock TX](/placeholders/card.svg)
+
+![Water Contaminant Removal Lubbock TX](../../assets/images/card-water-contaminant-removal-lubbock-tx.webp)
+
+
 
 ### Water Contaminant Removal
 
