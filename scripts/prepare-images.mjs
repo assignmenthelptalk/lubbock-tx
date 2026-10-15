@@ -46,7 +46,8 @@ const existing = (rel) => (fs.existsSync(path.resolve(root, rel)) ? rel : undefi
 const LOGO = NO_BRAND ? undefined : opt("logo", existing("src/assets/logo.png"));
 const CARD_LOGO = NO_BRAND ? undefined : opt("card-logo", existing("brand_assets/mark.png")); // smaller mark for card-* images
 const CARD_WIDTH_RATIO = parseFloat(opt("card-width", "0.11"));
-const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, WIDTH_RATIO = 0.22, MARGIN_RATIO = 0.03;
+const WIDTH_RATIO = parseFloat(opt("logo-width", "0.22")); // share of the image width; --logo-width 0.3 for a bigger logo
+const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, MARGIN_RATIO = 0.03;
 
 const fail = (msg) => { console.error(`prepare-images: ${msg}`); process.exit(1); };
 if (!SRC) fail("pass --src <folder with the generated images>");
