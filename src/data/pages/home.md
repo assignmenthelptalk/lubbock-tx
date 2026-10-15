@@ -145,7 +145,7 @@ We also install dual tank and commercial water softeners, water conditioners, re
 
 ## Why Is Lubbock Water So Hard?
 
-Lubbock's water is hard because of where it comes from.
+Lubbock's water is hard because of where it comes from. A 2026 study in PLOS Water on drinking water in a central Texas neighbourhood notes that more than 60 percent of Texas counties have aquifers with very hard water.
 
 <div class="issues-split">
 
