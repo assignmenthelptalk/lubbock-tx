@@ -10,8 +10,8 @@ crumb: "Water Softener Service Areas"
 openingHtml: "<a href=\"/\">Lubbock Elite Water Softener</a> installs, replaces, repairs and tests water softeners in Lubbock and across the South Plains. Most of the region relies on the Ogallala Aquifer, and hard water is common, so we tailor each visit to the water source in your town. Choose your area below, or request a free estimate and we will confirm service to your address."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-service-areas-lubbock-tx.webp","alt":"Water softener service areas Lubbock TX map of the South Plains","exists":false}]
+leadImage: {"file":"water-softener-service-areas-lubbock-tx.webp","alt":"Water softener service areas Lubbock TX map of the South Plains"}
+images: [{"file":"water-softener-service-areas-lubbock-tx.webp","alt":"Water softener service areas Lubbock TX map of the South Plains","exists":true}]
 faq: []
 markerCount: 0
 ---

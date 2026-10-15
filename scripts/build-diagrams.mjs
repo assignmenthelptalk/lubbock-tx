@@ -108,8 +108,75 @@ function sizeSvg() {
   return s + `</svg>`;
 }
 
+// ---- 3. the service-area map (pins from src/data/map-points.json, no map tiles) ----
+const NEAR_DEG = 0.12; // points this close to the centre go in the zoomed inset
+function readMapPoints() {
+  const file = path.join(root, "src/data/map-points.json");
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : null;
+}
+
+/** Fit points into a frame (equirectangular, aspect kept) and return a projector. */
+function fitFrame(pts, fx, fy, fw, fh, pad) {
+  const k = Math.cos((pts[0].lat * Math.PI) / 180);
+  const xs = pts.map((p) => p.lng * k), ys = pts.map((p) => -p.lat);
+  const minX = Math.min(...xs), maxX = Math.max(...xs), minY = Math.min(...ys), maxY = Math.max(...ys);
+  const scale = Math.min((fw - 2 * pad) / (maxX - minX || 1), (fh - 2 * pad) / (maxY - minY || 1));
+  const ox = fx + (fw - (maxX - minX) * scale) / 2, oy = fy + (fh - (maxY - minY) * scale) / 2;
+  return (p) => [ox + (p.lng * k - minX) * scale, oy + (-p.lat - minY) * scale];
+}
+
+function pin(x, y, label, { centre = false, dx = 20, anchor = "start", size = 22 } = {}) {
+  let s = `<circle cx="${x}" cy="${y}" r="${centre ? 17 : 12}" fill="${centre ? C.primary : C.accent}" stroke="#FFFFFF" stroke-width="4"/>`;
+  if (centre) s += `<circle cx="${x}" cy="${y}" r="6" fill="#FFFFFF"/>`;
+  s += `<text x="${x + dx}" y="${y + 8}" font-family="${FONT}" font-size="${size}" font-weight="700" fill="${C.dark}" text-anchor="${anchor}" stroke="#FFFFFF" stroke-width="6" paint-order="stroke">${esc(label)}</text>`;
+  return s;
+}
+
+function frame(x, y, w, h, title) {
+  let s = `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="16" fill="#FFFFFF" stroke="#CBD6E1" stroke-width="2"/>`;
+  for (let g = 1; g < 6; g++) s += `<line x1="${x + (w * g) / 6}" y1="${y + 12}" x2="${x + (w * g) / 6}" y2="${y + h - 12}" stroke="${C.light}" stroke-width="2"/>`;
+  for (let g = 1; g < 5; g++) s += `<line x1="${x + 12}" y1="${y + (h * g) / 5}" x2="${x + w - 12}" y2="${y + (h * g) / 5}" stroke="${C.light}" stroke-width="2"/>`;
+  s += `<rect x="${x}" y="${y}" width="${w}" height="46" rx="16" fill="${C.primary}"/><rect x="${x}" y="${y + 30}" width="${w}" height="16" fill="${C.primary}"/>`;
+  return s + text(x + 24, y + 31, title, 21, "#FFFFFF", 700);
+}
+
+function serviceAreasSvg(map) {
+  const W = 1200, H = 700, y0 = 130, h = 490;
+  const centre = map.center;
+  const others = map.points;
+  const near = others.filter((p) => Math.abs(p.lat - centre.lat) < NEAR_DEG && Math.abs(p.lng - centre.lng) < NEAR_DEG);
+  const far = others.filter((p) => !near.includes(p));
+  let s = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">`;
+  s += `<rect width="${W}" height="${H}" fill="${C.light}"/>`;
+  s += text(W / 2, 62, "Water Softener Service Areas", 38, C.primary, 700, "middle");
+  s += text(W / 2, 100, `${city}, ${st} and the towns around it`, 21, "#4B5B6B", 400, "middle");
+  // regional map: centre plus the towns
+  s += frame(40, y0, 690, h, `${city} and nearby towns`);
+  const reg = fitFrame([centre, ...far], 40, y0 + 46, 690, h - 46, 90);
+  const [cx, cy] = reg(centre);
+  s += pin(cx, cy, centre.name, { centre: true, dx: cx > 520 ? -26 : 26, anchor: cx > 520 ? "end" : "start", size: 26 });
+  far.forEach((p) => {
+    const [x, y] = reg(p);
+    s += pin(x, y, p.name, { dx: x > 520 ? -20 : 20, anchor: x > 520 ? "end" : "start" });
+  });
+  // zoomed inset: the neighbourhoods
+  s += frame(760, y0, 400, h, `Inside ${city}`);
+  const ins = fitFrame([centre, ...near], 760, y0 + 46, 400, h - 46, 70);
+  const [ix, iy] = ins(centre);
+  s += pin(ix, iy, centre.name, { centre: true, dx: ix > 1000 ? -26 : 26, anchor: ix > 1000 ? "end" : "start", size: 24 });
+  near.forEach((p) => {
+    const [x, y] = ins(p);
+    s += pin(x, y, p.name, { dx: x > 1000 ? -20 : 20, anchor: x > 1000 ? "end" : "start" });
+  });
+  s += text(W / 2, 664, "Pins mark the places with their own page. Neighbourhood pins are approximate. Positions: OpenStreetMap.", 18, "#4B5B6B", 400, "middle");
+  return s + `</svg>`;
+}
+
 fs.mkdirSync(OUT, { recursive: true });
-for (const [name, svg] of [[`water-softener-process-${slug}`, processSvg()], [`water-softener-size-guide-${slug}`, sizeSvg()]]) {
+const mapPoints = readMapPoints();
+const jobs = [[`water-softener-process-${slug}`, processSvg()], [`water-softener-size-guide-${slug}`, sizeSvg()]];
+if (mapPoints) jobs.push([`water-softener-service-areas-${slug}`, serviceAreasSvg(mapPoints)]);
+for (const [name, svg] of jobs) {
   const file = path.join(OUT, `${name}.webp`);
   await sharp(Buffer.from(svg)).webp({ quality: 90 }).toFile(file);
   console.log("wrote", path.relative(root, file));
