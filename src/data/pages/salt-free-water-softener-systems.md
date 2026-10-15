@@ -11,7 +11,7 @@ openingHtml: "A salt-free water softener system in Lubbock, TX conditions hard w
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line"}
-images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line","exists":true},{"file":"card-template-assisted-crystallization-tac-systems-lubbock-tx.webp","alt":"Template Assisted Crystallization (TAC) Systems Lubbock TX","exists":true},{"file":"card-electronic-descaler-installation-lubbock-tx.webp","alt":"Electronic Descaler Installation Lubbock TX","exists":false},{"file":"card-magnetic-water-conditioner-installation-lubbock-tx.webp","alt":"Magnetic Water Conditioner Installation Lubbock TX","exists":false}]
+images: [{"file":"salt-free-water-softener-lubbock-tx.webp","alt":"Salt-free water softener Lubbock TX conditioner on main water line","exists":true},{"file":"card-template-assisted-crystallization-tac-systems-lubbock-tx.webp","alt":"Template Assisted Crystallization (TAC) Systems Lubbock TX","exists":true},{"file":"card-electronic-descaler-installation-lubbock-tx.webp","alt":"Electronic Descaler Installation Lubbock TX","exists":true},{"file":"card-magnetic-water-conditioner-installation-lubbock-tx.webp","alt":"Magnetic Water Conditioner Installation Lubbock TX","exists":true}]
 faq: [{"q":"Does a salt-free water softener actually soften water?","a":"No. It conditions water so scale does not stick, and it leaves hardness minerals in place. A salt-based softener removes the minerals."},{"q":"How long does a TAC media cartridge last?","a":"Replacement timing depends on water use and system size. Media is typically rated for about 5 to 8 years. The technician sets the schedule at installation."},{"q":"Is a salt-free system better for the environment?","a":"It uses no salt and sends no brine to the drain. Salt-based systems discharge brine during regeneration, which some communities limit."},{"q":"Can I install a salt-free system myself?","a":"Many units install on the main line with basic plumbing skills, but a correct size and pressure check matter. We install and test the unit for you."},{"q":"What does a salt-free system cost in Lubbock?","a":"Salt-free conditioners typically run $2,000 to $3,800 installed. Our estimate is free and itemized. Lubbock Elite Water Softener TX provides salt-free water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
@@ -45,7 +45,10 @@ A template assisted crystallization (TAC) system passes water over specially mad
 <div class="svc-card">
 
 
-![Electronic Descaler Installation Lubbock TX](/placeholders/card.svg)
+
+![Electronic Descaler Installation Lubbock TX](../../assets/images/card-electronic-descaler-installation-lubbock-tx.webp)
+
+
 
 ### Electronic Descaler Installation
 
@@ -56,7 +59,10 @@ An electronic descaler wraps a coil around the main pipe and sends a changing el
 <div class="svc-card">
 
 
-![Magnetic Water Conditioner Installation Lubbock TX](/placeholders/card.svg)
+
+![Magnetic Water Conditioner Installation Lubbock TX](../../assets/images/card-magnetic-water-conditioner-installation-lubbock-tx.webp)
+
+
 
 ### Magnetic Water Conditioner Installation
 
