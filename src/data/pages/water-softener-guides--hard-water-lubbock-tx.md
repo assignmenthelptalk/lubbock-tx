@@ -1,6 +1,6 @@
 ---
 title: "Hard Water in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Hard Water Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Hard Water Lubbock, TX | Lubbock Noble Water Softener"
 description: "Hard water in Lubbock, TX is water that carries dissolved calcium and magnesium, and it comes from the Ogallala Aquifer that supplies most of the..."
 metaDraft: true
 slug: "/water-softener-guides/hard-water-lubbock-tx/"
@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed"}
 images: [{"file":"hard-water-lubbock-tx.webp","alt":"Hard water scale on a faucet in a Lubbock TX home water softener needed","exists":true},{"file":"card-what-is-hard-water-lubbock-tx.webp","alt":"What Is Hard Water? Lubbock TX","exists":true},{"file":"card-why-is-lubbock-water-hard-lubbock-tx.webp","alt":"Why Is Lubbock Water Hard? Lubbock TX","exists":true},{"file":"card-how-hard-is-lubbock-water-lubbock-tx.webp","alt":"How Hard Is Lubbock Water? Lubbock TX","exists":true}]
-faq: [{"q":"Is Lubbock water safe to drink?","a":"City of Lubbock water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately."},{"q":"Does a water softener remove minerals I need?","a":"A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source."},{"q":"Why does my glassware spot even with a rinse aid?","a":"Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source."},{"q":"Can hard water damage my water heater?","a":"Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup."},{"q":"Do homes on well water have harder water?","a":"Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Is Lubbock water safe to drink?","a":"City of Lubbock water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately."},{"q":"Does a water softener remove minerals I need?","a":"A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source."},{"q":"Why does my glassware spot even with a rinse aid?","a":"Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source."},{"q":"Can hard water damage my water heater?","a":"Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup."},{"q":"Do homes on well water have harder water?","a":"Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals. Lubbock Noble Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -136,7 +136,7 @@ Often yes, since private wells draw directly from the aquifer. A test shows the 
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -144,4 +144,4 @@ Often yes, since private wells draw directly from the aquifer. A test shows the 
 
 ## Get Your Free Estimate
 
-Request a free water test and softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water test and softener estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Guides for Lubbock Homeowners | Trusted Local Specialists"
-seoTitle: "Water Softener Guides Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Guides Lubbock, TX | Lubbock Noble Water Softener"
 description: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and..."
 metaDraft: true
 slug: "/water-softener-guides/"
 pageType: "guide-hub"
 parentSlug: "/"
 crumb: "Water Softener Guides for Lubbock Homeowners"
-openingHtml: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">Lubbock Elite Water Softener</a>."
+openingHtml: "These guides answer the questions Lubbock, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">Lubbock Noble Water Softener</a>."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-guides-lubbock-tx.webp","alt":"Water softener guides Lubbock TX homeowner reading about hard water"}
@@ -42,7 +42,7 @@ markerCount: 0
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener installation, replacement, repair and water testing for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener installation, replacement, repair and water testing for homes and businesses across Lubbock and Lubbock County.
 
 ## Get Your Free Estimate
 

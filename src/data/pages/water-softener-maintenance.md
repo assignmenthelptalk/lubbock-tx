@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Maintenance in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Maintenance Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Maintenance Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps..."
 metaDraft: true
 slug: "/water-softener-maintenance/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Maintenance"
-openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps softening at full capacity. <a href=\"/\">Lubbock Elite Water Softener</a> services all major softener brands and schedules visits around your household. Request a free estimate and we will tell you what your system needs."
+openingHtml: "Water softener maintenance in Lubbock, TX means refilling salt, cleaning the resin and brine tank and inspecting the valve so your system keeps softening at full capacity. <a href=\"/\">Lubbock Noble Water Softener</a> services all major softener brands and schedules visits around your household. Request a free estimate and we will tell you what your system needs."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank"}
 images: [{"file":"water-softener-maintenance-lubbock-tx.webp","alt":"Water softener maintenance Lubbock TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-lubbock-tx.webp","alt":"Water Softener Resin Cleaning Service Lubbock TX","exists":true},{"file":"card-water-softener-salt-refill-service-lubbock-tx.webp","alt":"Water Softener Salt Refill Service Lubbock TX","exists":true},{"file":"card-water-softener-brine-tank-cleaning-lubbock-tx.webp","alt":"Water Softener Brine Tank Cleaning Lubbock TX","exists":true},{"file":"card-annual-maintenance-plans-lubbock-tx.webp","alt":"Annual Maintenance Plans Lubbock TX","exists":true}]
-faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"What type of salt should I use?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. Lubbock Elite Water Softener TX provides water softener maintenance for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"What type of salt should I use?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. Lubbock Noble Water Softener TX provides water softener maintenance for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -136,7 +136,7 @@ Many brands can be serviced. Tell us the make and model when you request service
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener maintenance for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener maintenance for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -144,4 +144,4 @@ Many brands can be serviced. Tell us the make and model when you request service
 
 ## Get Your Free Estimate
 
-Request a free water softener service estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water softener service estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

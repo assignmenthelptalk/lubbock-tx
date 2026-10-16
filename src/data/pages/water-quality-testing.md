@@ -1,18 +1,18 @@
 ---
 title: "Water Quality Testing in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Quality Testing Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Quality Testing Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water quality testing in Lubbock, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything..."
 metaDraft: true
 slug: "/water-quality-testing/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Quality Testing"
-openingHtml: "Water quality testing in Lubbock, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything, needs treatment. <a href=\"/\">Lubbock Elite Water Softener</a> tests city and well water and explains each result in plain language. Request a free test and we will contact you within 24 hours."
+openingHtml: "Water quality testing in Lubbock, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything, needs treatment. <a href=\"/\">Lubbock Noble Water Softener</a> tests city and well water and explains each result in plain language. Request a free test and we will contact you within 24 hours."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water"}
 images: [{"file":"water-quality-testing-lubbock-tx.webp","alt":"Water quality testing Lubbock TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-lubbock-tx.webp","alt":"Free Hard Water Test Lubbock TX","exists":true},{"file":"card-tds-testing-lubbock-tx.webp","alt":"TDS Testing Lubbock TX","exists":true},{"file":"card-iron-content-testing-lubbock-tx.webp","alt":"Iron Content Testing Lubbock TX","exists":true},{"file":"card-ph-level-testing-lubbock-tx.webp","alt":"pH Level Testing Lubbock TX","exists":true},{"file":"card-chlorine-testing-lubbock-tx.webp","alt":"Chlorine Testing Lubbock TX","exists":true},{"file":"card-sulfur-testing-lubbock-tx.webp","alt":"Sulfur Testing Lubbock TX","exists":true},{"file":"card-heavy-metals-testing-lubbock-tx.webp","alt":"Heavy Metals Testing Lubbock TX","exists":true}]
-faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often should I test my water?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply. Lubbock Elite Water Softener TX provides water quality testing for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often should I test my water?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. City of Lubbock reports cover the public supply. Lubbock Noble Water Softener TX provides water quality testing for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -178,7 +178,7 @@ A certified lab panel for bacteria, nitrate, metals and other regulated substanc
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water quality testing for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water quality testing for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -186,4 +186,4 @@ A certified lab panel for bacteria, nitrate, metals and other regulated substanc
 
 ## Get Your Free Estimate
 
-Request a free water quality test. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water quality test. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

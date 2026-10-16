@@ -1,18 +1,18 @@
 ---
 title: "UV Water Purification System Installation in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "UV Water Purification Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "UV Water Purification Lubbock, TX | Lubbock Noble Water Softener"
 description: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without..."
 metaDraft: true
 slug: "/uv-water-purification/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "UV Water Purification System Installation"
-openingHtml: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without chemicals. <a href=\"/\">Lubbock Elite Water Softener</a> installs UV systems for homes, with a focus on private wells. Request a free estimate and a technician will test your water first."
+openingHtml: "UV water purification system installation in Lubbock, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water without chemicals. <a href=\"/\">Lubbock Noble Water Softener</a> installs UV systems for homes, with a focus on private wells. Request a free estimate and a technician will test your water first."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line"}
 images: [{"file":"uv-water-purification-lubbock-tx.webp","alt":"UV water purification Lubbock TX ultraviolet system on a main line","exists":true},{"file":"card-how-uv-water-purification-works-lubbock-tx.webp","alt":"How UV Water Purification Works Lubbock TX","exists":true},{"file":"card-uv-system-installation-lubbock-tx.webp","alt":"UV System Installation Lubbock TX","exists":true},{"file":"card-uv-and-water-softener-combination-lubbock-tx.webp","alt":"UV and Water Softener Combination Lubbock TX","exists":true}]
-faq: [{"q":"Does UV remove chemicals or hardness?","a":"No. UV inactivates microbes only. Hardness, chemicals and sediment need other treatment."},{"q":"How often do I replace the UV lamp?","a":"Lamps commonly need replacing about once a year, even if they still glow, because output fades. Follow your unit's guidance."},{"q":"Does UV change the taste of water?","a":"No. UV adds no chemicals and leaves taste unchanged."},{"q":"Do I need a pre-filter with a UV system?","a":"Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sediment filter goes ahead of the UV unit. Lubbock Elite Water Softener TX provides UV water purification system installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Does UV remove chemicals or hardness?","a":"No. UV inactivates microbes only. Hardness, chemicals and sediment need other treatment."},{"q":"How often do I replace the UV lamp?","a":"Lamps commonly need replacing about once a year, even if they still glow, because output fades. Follow your unit's guidance."},{"q":"Does UV change the taste of water?","a":"No. UV adds no chemicals and leaves taste unchanged."},{"q":"Do I need a pre-filter with a UV system?","a":"Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sediment filter goes ahead of the UV unit. Lubbock Noble Water Softener TX provides UV water purification system installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -115,7 +115,7 @@ Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sedime
 
 
 
-[Lubbock Elite Water Softener TX](/) provides UV water purification system installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides UV water purification system installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -123,4 +123,4 @@ Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sedime
 
 ## Get Your Free Estimate
 
-Request a free UV water purification estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free UV water purification estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

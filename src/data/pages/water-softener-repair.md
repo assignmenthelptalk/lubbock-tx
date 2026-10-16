@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Repair in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Repair Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Repair Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error..."
 metaDraft: true
 slug: "/water-softener-repair/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Repair"
-openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error code. <a href=\"/\">Lubbock Elite Water Softener</a> repairs control valves, motors, floats, injectors, heads and brine lines, and tells you honestly when replacement costs less. Request a free estimate or call for service."
+openingHtml: "Water softener repair in Lubbock, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an error code. <a href=\"/\">Lubbock Noble Water Softener</a> repairs control valves, motors, floats, injectors, heads and brine lines, and tells you honestly when replacement costs less. Request a free estimate or call for service."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve"}
 images: [{"file":"water-softener-repair-lubbock-tx.webp","alt":"Water softener repair Lubbock TX technician servicing a control valve","exists":true},{"file":"card-water-softener-control-valve-repair-lubbock-tx.webp","alt":"Water Softener Control Valve Repair Lubbock TX","exists":true},{"file":"card-water-softener-motor-replacement-lubbock-tx.webp","alt":"Water Softener Motor Replacement Lubbock TX","exists":true},{"file":"card-float-valve-repair-lubbock-tx.webp","alt":"Float Valve Repair Lubbock TX","exists":true},{"file":"card-injector-cleaning-lubbock-tx.webp","alt":"Injector Cleaning Lubbock TX","exists":true},{"file":"card-head-replacement-lubbock-tx.webp","alt":"Head Replacement Lubbock TX","exists":true},{"file":"card-brine-line-repair-lubbock-tx.webp","alt":"Brine Line Repair Lubbock TX","exists":true},{"file":"card-water-softener-leak-repair-lubbock-tx.webp","alt":"Water Softener Leak Repair Lubbock TX","exists":true}]
-faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water."},{"q":"How do I fix a water softener that is not regenerating?","a":"Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which."},{"q":"What causes a salt bridge?","a":"Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine."},{"q":"Why is my water softener leaking?","a":"Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part."},{"q":"How much does water softener repair cost?","a":"A repair call-out and diagnosis typically costs $95 to $150. The cost depends on the part. We give a price before work begins."},{"q":"Do you offer same-day repair in Lubbock?","a":"Same-day service depends on technician availability. Call and we will do our best to schedule quickly. Lubbock Elite Water Softener TX provides water softener repair for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water."},{"q":"How do I fix a water softener that is not regenerating?","a":"Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which."},{"q":"What causes a salt bridge?","a":"Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine."},{"q":"Why is my water softener leaking?","a":"Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part."},{"q":"How much does water softener repair cost?","a":"A repair call-out and diagnosis typically costs $95 to $150. The cost depends on the part. We give a price before work begins."},{"q":"Do you offer same-day repair in Lubbock?","a":"Same-day service depends on technician availability. Call and we will do our best to schedule quickly. Lubbock Noble Water Softener TX provides water softener repair for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -191,7 +191,7 @@ Same-day service depends on technician availability. Call and we will do our bes
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener repair for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener repair for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -199,4 +199,4 @@ Same-day service depends on technician availability. Call and we will do our bes
 
 ## Get Your Free Estimate
 
-Request a free water softener repair estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water softener repair estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

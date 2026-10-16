@@ -1,18 +1,18 @@
 ---
 title: "Water Filtration System Installation in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Filtration Systems Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Filtration Systems Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink..."
 metaDraft: true
 slug: "/water-filtration-systems/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Filtration System Installation"
-openingHtml: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink, at the shower and at the refrigerator. <a href=\"/\">Lubbock Elite Water Softener</a> installs and replaces filters of every type. Request a free estimate and a technician will match filters to what a water test finds."
+openingHtml: "Water filtration system installation in Lubbock, TX puts filters where they protect your home and improve your water: at the main line, under the sink, at the shower and at the refrigerator. <a href=\"/\">Lubbock Noble Water Softener</a> installs and replaces filters of every type. Request a free estimate and a technician will match filters to what a water test finds."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation"}
 images: [{"file":"water-filtration-systems-lubbock-tx.webp","alt":"Water filtration systems Lubbock TX whole house filter installation","exists":true},{"file":"card-whole-house-water-filter-lubbock-tx.webp","alt":"Whole House Water Filter Lubbock TX","exists":true},{"file":"card-under-sink-water-filter-lubbock-tx.webp","alt":"Under Sink Water Filter Lubbock TX","exists":true},{"file":"card-sediment-filter-installation-lubbock-tx.webp","alt":"Sediment Filter Installation Lubbock TX","exists":true},{"file":"card-carbon-block-filter-lubbock-tx.webp","alt":"Carbon Block Filter Lubbock TX","exists":true},{"file":"card-shower-filter-installation-lubbock-tx.webp","alt":"Shower Filter Installation Lubbock TX","exists":true},{"file":"card-refrigerator-filter-replacement-lubbock-tx.webp","alt":"Refrigerator Filter Replacement Lubbock TX","exists":true},{"file":"card-multi-stage-filtration-lubbock-tx.webp","alt":"Multi-Stage Filtration Lubbock TX","exists":true}]
-faq: [{"q":"How often should I replace a water filter?","a":"Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months."},{"q":"Will a whole house filter lower my water pressure?","a":"A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow."},{"q":"Do I need a filter if I have a water softener?","a":"Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin."},{"q":"What does a shower filter remove?","a":"It reduces chlorine. It does not remove hardness minerals."},{"q":"What does filter installation cost in Lubbock?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed. Our estimate is free and itemized. Lubbock Elite Water Softener TX provides water filtration system installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How often should I replace a water filter?","a":"Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months."},{"q":"Will a whole house filter lower my water pressure?","a":"A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow."},{"q":"Do I need a filter if I have a water softener?","a":"Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin."},{"q":"What does a shower filter remove?","a":"It reduces chlorine. It does not remove hardness minerals."},{"q":"What does filter installation cost in Lubbock?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed. Our estimate is free and itemized. Lubbock Noble Water Softener TX provides water filtration system installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -178,7 +178,7 @@ Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 inst
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water filtration system installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water filtration system installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -186,4 +186,4 @@ Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 inst
 
 ## Get Your Free Estimate
 
-Request a free water filtration estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water filtration estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

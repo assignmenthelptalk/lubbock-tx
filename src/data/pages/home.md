@@ -1,13 +1,13 @@
 ---
-title: "Lubbock Elite Water Softener - Water Softener Installation in Lubbock, TX"
-seoTitle: "Water Softener Lubbock, TX | Lubbock Elite Water Softener"
-description: "Lubbock Elite Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now."
+title: "Lubbock Noble Water Softener - Water Softener Installation in Lubbock, TX"
+seoTitle: "Water Softener Lubbock, TX | Lubbock Noble Water Softener"
+description: "Lubbock Noble Water Softener offers professional water softener installation, repair, and replacement in Lubbock, TX. Get a free estimate today. Call now."
 metaDraft: false
 slug: "/"
 pageType: "home"
 parentSlug: null
-crumb: "Lubbock Elite Water Softener - Water Softener Installation"
-openingHtml: "Lubbock's water softener problem starts at the source: roughly 60 to 70 percent of the city's water is pumped from the Ogallala Aquifer, and that groundwater carries calcium and magnesium that leave scale on pipes, fixtures and appliances. Lubbock Elite Water Softener installs, replaces and services water softener systems for homeowners in Lubbock and the surrounding West Texas towns. Request a free estimate and a technician will recommend the right system for your home and your water."
+crumb: "Lubbock Noble Water Softener - Water Softener Installation"
+openingHtml: "Lubbock's water softener problem starts at the source: roughly 60 to 70 percent of the city's water is pumped from the Ogallala Aquifer, and that groundwater carries calcium and magnesium that leave scale on pipes, fixtures and appliances. Lubbock Noble Water Softener installs, replaces and services water softener systems for homeowners in Lubbock and the surrounding West Texas towns. Request a free estimate and a technician will recommend the right system for your home and your water."
 formHeading: "Get Your Free Water Softener Estimate in Lubbock, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
 leadImage: {"file":"hero-water-softener-lubbock-tx.webp","alt":"Technician installing a water softener Lubbock TX home"}
@@ -32,7 +32,7 @@ markerCount: 0
 
 ## Why Are We the Best Water Softener Installation Company in Lubbock, TX?
 
-Homeowners choose a water softener company on five things: who does the work, how the system is backed, how fast help arrives, whether the installer knows local water, and what happens if the result disappoints. Here is how Lubbock Elite Water Softener answers each one.
+Homeowners choose a water softener company on five things: who does the work, how the system is backed, how fast help arrives, whether the installer knows local water, and what happens if the result disappoints. Here is how Lubbock Noble Water Softener answers each one.
 
 - **Experience:** Our founder has 14 years of experience. Every installation follows the same sizing and setup process.
 - **Warranty:** Your estimate should state the warranty on the equipment and on the labor. Read it before you approve the work.
@@ -50,7 +50,7 @@ Homeowners choose a water softener company on five things: who does the work, ho
 
 ## What Water Softener Services Are Available in Lubbock, TX?
 
-Lubbock Elite Water Softener covers six core services, from first installation to long-term maintenance, and adds specialty systems for larger homes, businesses and wells.
+Lubbock Noble Water Softener covers six core services, from first installation to long-term maintenance, and adds specialty systems for larger homes, businesses and wells.
 
 <div class="svc-grid">
 
@@ -325,4 +325,4 @@ We serve Lubbock and surrounding West Texas communities, including Wolfforth, Sh
 
 ## Where Do You Install Water Softeners Around Lubbock, TX?
 
-Lubbock Elite Water Softener provides water softener installation, replacement, repair and water testing across Lubbock and the South Plains, including Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. Whether your home uses city water or a private well, call or request a free estimate and we will confirm service to your address.
+Lubbock Noble Water Softener provides water softener installation, replacement, repair and water testing across Lubbock and the South Plains, including Wolfforth, Shallowater, Slaton, Idalou, Levelland, Plainview, Floydada, Tahoka, Brownfield, Post, Lamesa and Crosbyton. Whether your home uses city water or a private well, call or request a free estimate and we will confirm service to your address.

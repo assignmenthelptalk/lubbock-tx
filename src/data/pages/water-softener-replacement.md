@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Replacement in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Replacement Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Replacement Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened..."
 metaDraft: true
 slug: "/water-softener-replacement/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Replacement"
-openingHtml: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened water returns to every tap. <a href=\"/\">Lubbock Elite Water Softener</a> replaces whole systems, resin beds and control valves, and tells you honestly when a repair is the cheaper answer. Request a free estimate and a technician will inspect your current unit and your water."
+openingHtml: "Water softener replacement in Lubbock, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so softened water returns to every tap. <a href=\"/\">Lubbock Noble Water Softener</a> replaces whole systems, resin beds and control valves, and tells you honestly when a repair is the cheaper answer. Request a free estimate and a technician will inspect your current unit and your water."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit"}
 images: [{"file":"water-softener-replacement-lubbock-tx.webp","alt":"Water softener replacement Lubbock TX old and new unit","exists":true},{"file":"card-full-water-softener-system-replacement-lubbock-tx.webp","alt":"Full Water Softener System Replacement Lubbock TX","exists":true},{"file":"card-resin-bed-replacement-lubbock-tx.webp","alt":"Resin Bed Replacement Lubbock TX","exists":true},{"file":"card-water-softener-upgrade-service-lubbock-tx.webp","alt":"Water Softener Upgrade Service Lubbock TX","exists":true}]
-faq: [{"q":"How long does water softener replacement take?","a":"Most replacements finish in a single visit. Most standard replacements take about 2 to 4 hours. The technician confirms timing at your estimate."},{"q":"Can I replace just the resin instead of the whole unit?","a":"Yes, when the tank and valve are sound. A resin replacement restores softening for less than a new system, and the technician tests your water to confirm the resin is the cause."},{"q":"Do you remove and dispose of my old water softener?","a":"Ask whether removal and disposal of the old unit is included. The estimate states exactly what is included."},{"q":"Will a new softener use less salt?","a":"A newer control head regenerates by actual water use instead of a fixed timer, which cuts unneeded cycles and salt. Savings depend on your household and your water."},{"q":"Is it worth repairing an old softener?","a":"Repair is worth it when one part has failed on an otherwise sound unit. Past roughly 10 to 15 years, or with a leaking tank, replacement usually costs less over time. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How long does water softener replacement take?","a":"Most replacements finish in a single visit. Most standard replacements take about 2 to 4 hours. The technician confirms timing at your estimate."},{"q":"Can I replace just the resin instead of the whole unit?","a":"Yes, when the tank and valve are sound. A resin replacement restores softening for less than a new system, and the technician tests your water to confirm the resin is the cause."},{"q":"Do you remove and dispose of my old water softener?","a":"Ask whether removal and disposal of the old unit is included. The estimate states exactly what is included."},{"q":"Will a new softener use less salt?","a":"A newer control head regenerates by actual water use instead of a fixed timer, which cuts unneeded cycles and salt. Savings depend on your household and your water."},{"q":"Is it worth repairing an old softener?","a":"Repair is worth it when one part has failed on an otherwise sound unit. Past roughly 10 to 15 years, or with a leaking tank, replacement usually costs less over time. Lubbock Noble Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -144,7 +144,7 @@ Repair is worth it when one part has failed on an otherwise sound unit. Past rou
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -152,4 +152,4 @@ Repair is worth it when one part has failed on an otherwise sound unit. Past rou
 
 ## Get Your Free Estimate
 
-Request a free water softener replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).
+Request a free water softener replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).

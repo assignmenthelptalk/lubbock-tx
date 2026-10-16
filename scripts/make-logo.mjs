@@ -8,7 +8,7 @@
  *   src/assets/logo-reversed.png   footer logo for the dark footer (white lettering)
  *   public/favicon.svg             the water-drop mark alone
  *   brand_assets/logo.svg, logo-reversed.svg   editable sources (text uses system fonts: Segoe UI, then Arial)
- * A name shaped "<City> Elite <Rest>" gets the layout: CITY on top, an orange ELITE tag, then REST. Any other name
+ * A name shaped "<City> <Tag> <Rest>" (Elite, Noble, Apex ...) gets the layout: CITY on top, an orange tag pill, then REST. Any other name
  * gets: CITY on top, an orange rule and the rest of the name below.
  * Existing logo PNGs are kept unless you pass --force, so a hand-made logo is never overwritten.
  * --favicon-only writes just public/favicon.svg (no sharp needed). Needs "sharp", which Astro already installs.
@@ -74,20 +74,28 @@ const T = (x, y, s, size, w, fill, ls, extra = "") =>
   `<text x="${x}" y="${y}" ${extra} font-family="${FONT}" font-size="${size}" font-weight="${w}" letter-spacing="${ls}" fill="${fill}">${esc(s)}</text>`;
 
 // name parts
-const m = businessName.match(/^(.*?)\s+Elite\s+(.+)$/i);
+// "<City> <Tag> <Rest>", for example "Lubbock Noble Water Softener": the one-word tag (Elite, Noble, Apex, Crest ...) goes in the pill
+const cityRe = (city || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const m = businessName.match(new RegExp(`^(${cityRe || ".*?"})\\s+([A-Za-z]{3,8})\\s+(.+)$`, "i"));
+const tag = m ? m[2].toUpperCase() : "";
 const line1 = (m ? m[1] : city || businessName).toUpperCase();
-const rest = (m ? m[2] : businessName.replace(new RegExp(`^${city}\\s*`, "i"), "") || "Water Softener").toUpperCase();
+const rest = (m ? m[3] : businessName.replace(new RegExp(`^${city}\\s*`, "i"), "") || "Water Softener").toUpperCase();
 const size1 = Math.min(100, Math.floor(850 / (line1.length * 0.64)));
 
 const lockup = (reversed) => {
   const name = reversed ? "#FFFFFF" : NAVY;
   let body;
   if (m) {
-    const size3 = Math.min(50, Math.floor(584 / (rest.length * 0.76)));
+    // pill width from estimated capital-letter widths (em fractions), so a wide tag such as NOBLE still fits the pill
+    const CAP = { W: 1, M: 0.95, O: 0.85, Q: 0.85, D: 0.8, G: 0.8, N: 0.78, H: 0.78, U: 0.78, C: 0.75, A: 0.74, R: 0.74, B: 0.72, K: 0.72, V: 0.72, X: 0.7, Y: 0.7, P: 0.68, S: 0.68, E: 0.65, Z: 0.65, T: 0.64, F: 0.6, L: 0.6, J: 0.5, I: 0.32 };
+    const tagSize = tag.length > 6 ? 56 : 66;
+    const tagW = [...tag].reduce((a, c) => a + (CAP[c] ?? 0.72) * tagSize, 0) + 6 * (tag.length - 1);
+    const pillW = Math.max(190, Math.ceil(tagW + 56));
+    const size3 = Math.min(50, Math.floor((1180 - (322 + pillW + 24)) / (rest.length * 0.8)));
     body = `${T(318, 130, line1, size1, 800, name, 1)}
-<rect x="322" y="160" width="250" height="92" rx="18" fill="${ORANGE}"/>
-${T(447, 228, "ELITE", 74, 900, "#FFFFFF", 6, 'text-anchor="middle"')}
-${T(596, 228, rest, size3, 800, name, 5)}`;
+<rect x="322" y="160" width="${pillW}" height="92" rx="18" fill="${ORANGE}"/>
+${T(322 + pillW / 2, 228, tag, tagSize, 900, "#FFFFFF", 6, 'text-anchor="middle"')}
+${T(322 + pillW + 24, 228, rest, size3, 800, name, 5)}`;
   } else {
     const size3 = Math.min(54, Math.floor(850 / (rest.length * 0.78)));
     body = `${T(318, 140, line1, size1, 800, name, 1)}

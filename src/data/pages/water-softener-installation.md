@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Installation in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Installation Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Installation Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives..."
 metaDraft: true
 slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"
 crumb: "Water Softener Installation"
-openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. Request a free estimate and a technician will recommend a system for your home."
+openingHtml: "Water softener installation in Lubbock, TX connects a softening system to your home's main water line so every faucet, shower and appliance receives softened water. <a href=\"/\">Lubbock Noble Water Softener</a> sizes, plumbs and starts each system for local water, which is roughly 60 to 70 percent Ogallala Aquifer groundwater according to City of Lubbock water quality reports. Request a free estimate and a technician will recommend a system for your home."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener"}
 images: [{"file":"water-softener-installation-lubbock-tx.webp","alt":"Water softener installation Lubbock TX technician connecting a softener","exists":true},{"file":"water-softener-process-lubbock-tx.webp","alt":"Water softener installation Lubbock TX process diagram","exists":true}]
-faq: [{"q":"How long does water softener installation take in Lubbock?","a":"Most installations finish in a single visit. Most standard installs take about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type."},{"q":"Do I need a permit to install a water softener in Lubbock?","a":"Permit rules depend on the plumbing work involved. Ask whether the City of Lubbock requires a permit for your job. We confirm what applies to your address before the install."},{"q":"Can you install a water softener on a private well?","a":"Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener."},{"q":"Where in my house does the softener go?","a":"The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer."},{"q":"Is a bypass valve necessary?","a":"A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How long does water softener installation take in Lubbock?","a":"Most installations finish in a single visit. Most standard installs take about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type."},{"q":"Do I need a permit to install a water softener in Lubbock?","a":"Permit rules depend on the plumbing work involved. Ask whether the City of Lubbock requires a permit for your job. We confirm what applies to your address before the install."},{"q":"Can you install a water softener on a private well?","a":"Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener."},{"q":"Where in my house does the softener go?","a":"The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer."},{"q":"Is a bypass valve necessary?","a":"A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water. Lubbock Noble Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -117,7 +117,7 @@ A bypass valve is standard on every installation we do. It lets you isolate the 
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -125,4 +125,4 @@ A bypass valve is standard on every installation we do. It lets you isolate the 
 
 ## Get Your Free Estimate
 
-Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).
+Request a free water softener installation estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for the full list of services. For all softener types, see our [water softener systems](/water-softener-systems/).

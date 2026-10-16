@@ -5,7 +5,7 @@
 <g transform="translate(34 14) scale(0.32)"><path d="M50 3 C50 3 15 40 15 64 A35 35 0 0 0 85 64 C85 40 50 3 50 3 Z" fill="#FFFFFF"/></g>
 <path d="M22 82 C34 77 44 80 52 84 C62 88 72 86 80 80" fill="none" stroke="#E1F0F1" stroke-width="3" stroke-linecap="round" opacity="0.8"/></g>
 <text x="318" y="130"  font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="100" font-weight="800" letter-spacing="1" fill="#0F6E78">LUBBOCK</text>
-<rect x="322" y="160" width="250" height="92" rx="18" fill="#B85A24"/>
-<text x="447" y="228" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="6" fill="#FFFFFF">ELITE</text>
-<text x="596" y="228"  font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="5" fill="#0F6E78">WATER SOFTENER</text>
+<rect x="322" y="160" width="318" height="92" rx="18" fill="#B85A24"/>
+<text x="481" y="228" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="66" font-weight="900" letter-spacing="6" fill="#FFFFFF">NOBLE</text>
+<text x="664" y="228"  font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="46" font-weight="800" letter-spacing="5" fill="#0F6E78">WATER SOFTENER</text>
 </svg>

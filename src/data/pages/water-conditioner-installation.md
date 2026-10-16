@@ -1,18 +1,18 @@
 ---
 title: "Water Conditioner Installation in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Conditioner Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Conditioner Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures...."
 metaDraft: true
 slug: "/water-conditioner-installation/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Conditioner Installation"
-openingHtml: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures. <a href=\"/\">Lubbock Elite Water Softener</a> installs salt-free conditioners, potassium chloride softeners and scale inhibitor systems, and recommends the one that fits your goal. Request a free estimate and a technician will review your water and your plumbing."
+openingHtml: "Water conditioner installation in Lubbock, TX adds a system that treats hard water so scale builds up more slowly on pipes, heaters and fixtures. <a href=\"/\">Lubbock Noble Water Softener</a> installs salt-free conditioners, potassium chloride softeners and scale inhibitor systems, and recommends the one that fits your goal. Request a free estimate and a technician will review your water and your plumbing."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line"}
 images: [{"file":"water-conditioner-installation-lubbock-tx.webp","alt":"Water conditioner installation Lubbock TX on a main water line","exists":true},{"file":"card-salt-free-water-conditioners-lubbock-tx.webp","alt":"Salt-Free Water Conditioners Lubbock TX","exists":true},{"file":"card-potassium-chloride-water-softener-systems-lubbock-tx.webp","alt":"Potassium Chloride Water Softener Systems Lubbock TX","exists":true},{"file":"card-hard-water-treatment-service-lubbock-tx.webp","alt":"Hard Water Treatment Service Lubbock TX","exists":true},{"file":"card-limescale-treatment-service-lubbock-tx.webp","alt":"Limescale Treatment Service Lubbock TX","exists":true},{"file":"card-scale-inhibitor-system-installation-lubbock-tx.webp","alt":"Scale Inhibitor System Installation Lubbock TX","exists":true}]
-faq: [{"q":"What is the difference between a water conditioner and a water softener?","a":"A softener removes calcium and magnesium. A conditioner leaves them in the water but changes how they form scale."},{"q":"Is a potassium chloride softener better than a salt softener?","a":"It softens the same way but adds potassium instead of sodium. It costs more to run, so it fits households avoiding sodium."},{"q":"Will a conditioner remove existing limescale?","a":"Not fully. Existing buildup needs a descaling service, and the conditioner slows new buildup."},{"q":"Do scale inhibitors work for a whole house?","a":"They protect pipes and heaters, but they do not make water feel soft. They suit equipment protection more than comfort."},{"q":"What does water conditioner installation cost in Lubbock?","a":"Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed. The estimate is free and itemized. Lubbock Elite Water Softener TX provides water conditioner installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"What is the difference between a water conditioner and a water softener?","a":"A softener removes calcium and magnesium. A conditioner leaves them in the water but changes how they form scale."},{"q":"Is a potassium chloride softener better than a salt softener?","a":"It softens the same way but adds potassium instead of sodium. It costs more to run, so it fits households avoiding sodium."},{"q":"Will a conditioner remove existing limescale?","a":"Not fully. Existing buildup needs a descaling service, and the conditioner slows new buildup."},{"q":"Do scale inhibitors work for a whole house?","a":"They protect pipes and heaters, but they do not make water feel soft. They suit equipment protection more than comfort."},{"q":"What does water conditioner installation cost in Lubbock?","a":"Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed. The estimate is free and itemized. Lubbock Noble Water Softener TX provides water conditioner installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -156,7 +156,7 @@ Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water conditioner installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water conditioner installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -164,4 +164,4 @@ Water conditioners and scale inhibitors typically run $2,000 to $3,800 installed
 
 ## Get Your Free Estimate
 
-Request a free water conditioner installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water conditioner installation estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

@@ -1,13 +1,13 @@
 ---
 title: "Water Softener Installation & Service in Plainview, TX | Trusted Local Specialists"
-seoTitle: "Water Softener in Plainview, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener in Plainview, TX | Lubbock Noble Water Softener"
 description: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale..."
 metaDraft: true
 slug: "/water-softener-plainview-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"
 crumb: "Water Softener Installation & Service in Plainview, TX"
-openingHtml: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale County. Plainview's water is a blend of lake water and Ogallala Aquifer wells, so the hardness at your tap can shift with the mix. Lubbock Elite Water Softener serves Plainview from its <a href=\"/\">water softener Lubbock TX</a> base. Request a free estimate and we will test your water first."
+openingHtml: "Water softener installation and service in Plainview, TX covers installing, replacing, repairing and testing softeners for homes and businesses in Hale County. Plainview's water is a blend of lake water and Ogallala Aquifer wells, so the hardness at your tap can shift with the mix. Lubbock Noble Water Softener serves Plainview from its <a href=\"/\">water softener Lubbock TX</a> base. Request a free estimate and we will test your water first."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-plainview-tx.webp","alt":"Water softener Plainview TX home installation"}
@@ -49,8 +49,8 @@ Nearby homeowners also use our [water softener maintenance](/water-softener-main
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener installation and service in Plainview, TX and serves homes and businesses across Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener installation and service in Plainview, TX and serves homes and businesses across Lubbock County.
 
 ## Get Your Free Estimate
 
-Request a free water softener estimate in Plainview, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water softener estimate in Plainview, TX. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

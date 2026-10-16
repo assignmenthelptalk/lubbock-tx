@@ -1,18 +1,18 @@
 ---
 title: "Water Softener Systems in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Systems Lubbock, TX | Lubbock Elite Water Softener"
-description: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. Lubbock Elite Water Softener installs..."
+seoTitle: "Water Softener Systems Lubbock, TX | Lubbock Noble Water Softener"
+description: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. Lubbock Noble Water Softener installs..."
 metaDraft: true
 slug: "/water-softener-systems/"
 pageType: "hub"
 parentSlug: "/"
 crumb: "Water Softener Systems"
-openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. <a href=\"/\">Lubbock Elite Water Softener</a> installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or request a free estimate and a technician will recommend one."
+openingHtml: "Water softener systems in Lubbock, TX remove or control the calcium and magnesium that make local water hard. <a href=\"/\">Lubbock Noble Water Softener</a> installs, replaces, maintains and repairs every major system type for homes and businesses in Lubbock and the South Plains. Choose the system you need below, or request a free estimate and a technician will recommend one."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units"}
 images: [{"file":"water-softener-systems-lubbock-tx.webp","alt":"Water softener systems Lubbock TX salt-based and dual-tank units","exists":true},{"file":"card-water-softener-installation-lubbock-tx.webp","alt":"Water Softener Installation Lubbock TX","exists":true},{"file":"card-water-softener-replacement-lubbock-tx.webp","alt":"Water Softener Replacement Lubbock TX","exists":true},{"file":"card-salt-free-water-softener-systems-lubbock-tx.webp","alt":"Salt-Free Water Softener Systems Lubbock TX","exists":true},{"file":"card-dual-tank-water-softener-installation-lubbock-tx.webp","alt":"Dual Tank Water Softener Installation Lubbock TX","exists":true},{"file":"card-commercial-water-softener-installation-lubbock-tx.webp","alt":"Commercial Water Softener Installation Lubbock TX","exists":true},{"file":"card-water-softener-maintenance-lubbock-tx.webp","alt":"Water Softener Maintenance Lubbock TX","exists":true},{"file":"card-water-softener-repair-lubbock-tx.webp","alt":"Water Softener Repair Lubbock TX","exists":true}]
-faq: [{"q":"What is the difference between a salt-based and a salt-free water softener?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale."},{"q":"Which water softener system is best for a large Lubbock household?","a":"A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading."},{"q":"Do homes on well water need a different system?","a":"Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options."},{"q":"Can one company install, maintain and repair my system?","a":"Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system. Lubbock Elite Water Softener TX provides water softener systems for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"What is the difference between a salt-based and a salt-free water softener?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills. A salt-free system conditions the water so scale does not stick, adds no sodium and needs no drain. Salt-based units soften water, and salt-free units reduce scale."},{"q":"Which water softener system is best for a large Lubbock household?","a":"A dual-tank or higher-capacity single-tank system suits large households, because it keeps up with high daily water use. The technician sizes the system from your household size and a hardness reading."},{"q":"Do homes on well water need a different system?","a":"Often yes. Well water can carry iron, sulfur or sediment that need filtration before a softener, and a test shows which. Our well water page covers the options."},{"q":"Can one company install, maintain and repair my system?","a":"Yes. Lubbock Noble Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system. Lubbock Noble Water Softener TX provides water softener systems for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -20,7 +20,7 @@ markerCount: 0
 
 Lubbock water is hard because most of it starts underground. City of Lubbock water quality reports show that roughly 60 to 70 percent of the supply is groundwater from the Ogallala Aquifer, pumped from the Roberts County and Bailey County well fields. The rest is surface water from Lake Alan Henry and Lake Meredith. Groundwater carries dissolved calcium and magnesium, and those minerals form scale in water heaters, pipes and fixtures. City of Lubbock Water Utilities reports average hardness at approximately 205 mg/L, or 12 grains per gallon, which the U.S. Geological Survey rates as very hard.
 
-A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Elite Water Softener.
+A softening system treats the water where it enters the home, so every tap benefits. For the full picture of what hard water does and how we handle it, see Lubbock Noble Water Softener.
 
 ## What Types of Water Softener Systems Are Available in Lubbock, TX?
 
@@ -163,11 +163,11 @@ Often yes. Well water can carry iron, sulfur or sediment that need filtration be
 <details class="faq-item">
 <summary>Can one company install, maintain and repair my system?</summary>
 
-Yes. Lubbock Elite Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system.
+Yes. Lubbock Noble Water Softener installs, replaces, maintains and repairs softeners, so one call covers the life of the system.
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener systems for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener systems for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 

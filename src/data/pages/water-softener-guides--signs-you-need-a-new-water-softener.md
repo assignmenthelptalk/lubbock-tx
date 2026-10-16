@@ -1,6 +1,6 @@
 ---
 title: "7 Signs You Need to Replace Your Water Softener in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "7 Signs You Need a New Softener, Lubbock TX | Lubbock Elite Water Softener"
+seoTitle: "7 Signs You Need a New Softener, Lubbock TX | Lubbock Noble Water Softener"
 description: "You need to replace your water softener when hard water keeps returning, repairs keep failing, the tank leaks or the unit is past about 10 to 15 years..."
 metaDraft: true
 slug: "/water-softener-guides/signs-you-need-a-new-water-softener/"
@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank"}
 images: [{"file":"signs-you-need-a-new-water-softener-lubbock-tx.webp","alt":"Signs you need a new water softener Lubbock TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-lubbock-tx.webp","alt":"Hard-Water Symptoms Return Lubbock TX","exists":true},{"file":"card-salt-use-rises-sharply-lubbock-tx.webp","alt":"Salt Use Rises Sharply Lubbock TX","exists":true},{"file":"card-salt-bridges-or-mush-keep-returning-lubbock-tx.webp","alt":"Salt Bridges or Mush Keep Returning Lubbock TX","exists":true},{"file":"card-leaks-from-the-tank-head-or-drain-lubbock-tx.webp","alt":"Leaks From the Tank, Head or Drain Lubbock TX","exists":true},{"file":"card-error-codes-or-no-cycling-lubbock-tx.webp","alt":"Error Codes or No Cycling Lubbock TX","exists":true},{"file":"card-resin-beads-in-faucets-or-sinks-lubbock-tx.webp","alt":"Resin Beads in Faucets or Sinks Lubbock TX","exists":true}]
-faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. Lubbock Elite Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. Lubbock Noble Water Softener TX provides water softener replacement for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -157,7 +157,7 @@ Most replacements finish in one visit, often in 2 to 4 hours.
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener replacement for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -165,4 +165,4 @@ Most replacements finish in one visit, often in 2 to 4 hours.
 
 ## Get Your Free Estimate
 
-Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free softener inspection and replacement estimate for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Size Guide in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Size Guide Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Softener Size Guide Lubbock, TX | Lubbock Noble Water Softener"
 description: "The right size water softener matches your household's daily hardness load, measured in grains, and regenerates every three to seven days. A unit that..."
 metaDraft: true
 slug: "/water-softener-guides/water-softener-size-guide/"
@@ -12,7 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart"}
 images: [{"file":"water-softener-size-guide-lubbock-tx.webp","alt":"Water softener size guide Lubbock TX grain capacity chart","exists":true}]
-faq: [{"q":"Is bigger always better for a water softener?","a":"No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days."},{"q":"How often should a softener regenerate?","a":"Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use."},{"q":"Does the number of bathrooms matter?","a":"Bathrooms matter through people and usage. Count people and heavy water use rather than rooms."},{"q":"What if my family grows or I add a pool?","a":"Re-run the formula. A larger load may call for the next size up or a dual tank system. Lubbock Elite Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Is bigger always better for a water softener?","a":"No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days."},{"q":"How often should a softener regenerate?","a":"Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use."},{"q":"Does the number of bathrooms matter?","a":"Bathrooms matter through people and usage. Count people and heavy water use rather than rooms."},{"q":"What if my family grows or I add a pool?","a":"Re-run the formula. A larger load may call for the next size up or a dual tank system. Lubbock Noble Water Softener TX provides water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -101,7 +101,7 @@ Re-run the formula. A larger load may call for the next size up or a dual tank s
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water softener installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -109,4 +109,4 @@ Re-run the formula. A larger load may call for the next size up or a dual tank s
 
 ## Get Your Free Estimate
 
-Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water test and sizing for your Lubbock home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

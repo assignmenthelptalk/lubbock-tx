@@ -1,18 +1,18 @@
 ---
 title: "Commercial Water Softener Installation in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Commercial Water Softener Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Commercial Water Softener Lubbock, TX | Lubbock Noble Water Softener"
 description: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard..."
 metaDraft: true
 slug: "/commercial-water-softener/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"
 crumb: "Commercial Water Softener Installation"
-openingHtml: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard water leaves behind. <a href=\"/\">Lubbock Elite Water Softener</a> sizes, installs and services commercial systems from peak flow rate, not household size. Request a free commercial estimate and a technician will review your equipment and water use."
+openingHtml: "A commercial water softener in Lubbock, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that Lubbock's hard water leaves behind. <a href=\"/\">Lubbock Noble Water Softener</a> sizes, installs and services commercial systems from peak flow rate, not household size. Request a free commercial estimate and a technician will review your equipment and water use."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room"}
 images: [{"file":"commercial-water-softener-lubbock-tx.webp","alt":"Commercial water softener Lubbock TX high-flow system in a mechanical room","exists":true}]
-faq: [{"q":"How do you size a commercial water softener?","a":"We size it from peak flow rate and daily water use, plus the hardness of your water. Household size does not apply."},{"q":"Can installation happen without shutting down my business?","a":"Most installs need a short water shutoff. We schedule around your busiest hours to limit downtime."},{"q":"What equipment does a commercial softener protect?","a":"It protects boilers, water heaters, dishwashers, ice machines, steamers and plumbing from scale buildup."},{"q":"Do you offer service contracts?","a":"Ask whether service is offered by contract or per visit. The proposal states what is included."},{"q":"Does a commercial system need filtration too?","a":"Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries. Lubbock Elite Water Softener TX provides commercial water softener installation for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"How do you size a commercial water softener?","a":"We size it from peak flow rate and daily water use, plus the hardness of your water. Household size does not apply."},{"q":"Can installation happen without shutting down my business?","a":"Most installs need a short water shutoff. We schedule around your busiest hours to limit downtime."},{"q":"What equipment does a commercial softener protect?","a":"It protects boilers, water heaters, dishwashers, ice machines, steamers and plumbing from scale buildup."},{"q":"Do you offer service contracts?","a":"Ask whether service is offered by contract or per visit. The proposal states what is included."},{"q":"Does a commercial system need filtration too?","a":"Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries. Lubbock Noble Water Softener TX provides commercial water softener installation for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -100,7 +100,7 @@ Often yes. Sediment and chlorine can harm resin and equipment, and a test shows 
 
 
 
-[Lubbock Elite Water Softener TX](/) provides commercial water softener installation for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides commercial water softener installation for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -108,4 +108,4 @@ Often yes. Sediment and chlorine can harm resin and equipment, and a test shows 
 
 ## Get Your Free Estimate
 
-Request a free commercial water softener estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free commercial water softener estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.

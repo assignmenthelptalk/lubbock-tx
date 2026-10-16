@@ -1,18 +1,18 @@
 ---
 title: "Water Treatment Services in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Treatment Services Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Treatment Services Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and..."
 metaDraft: true
 slug: "/water-treatment-and-testing/"
 pageType: "hub"
 parentSlug: "/"
 crumb: "Water Treatment Services"
-openingHtml: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and tastes better. <a href=\"/\">Lubbock Elite Water Softener</a> installs and services conditioners, filters, reverse osmosis, UV and contaminant-removal systems, and starts every recommendation with a water test. Request a free estimate and we will tell you which system your water actually needs."
+openingHtml: "Water treatment in Lubbock, TX covers the equipment that conditions, filters, purifies and tests your home's water so it protects your plumbing and tastes better. <a href=\"/\">Lubbock Noble Water Softener</a> installs and services conditioners, filters, reverse osmosis, UV and contaminant-removal systems, and starts every recommendation with a water test. Request a free estimate and we will tell you which system your water actually needs."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup"}
 images: [{"file":"water-treatment-lubbock-tx.webp","alt":"Water treatment Lubbock TX whole house filter and water softener setup","exists":true},{"file":"card-water-conditioner-installation-lubbock-tx.webp","alt":"Water Conditioner Installation Lubbock TX","exists":true},{"file":"card-water-filtration-systems-lubbock-tx.webp","alt":"Water Filtration Systems Lubbock TX","exists":false},{"file":"card-water-quality-testing-lubbock-tx.webp","alt":"Water Quality Testing Lubbock TX","exists":true},{"file":"card-reverse-osmosis-installation-lubbock-tx.webp","alt":"Reverse Osmosis Installation Lubbock TX","exists":true},{"file":"card-uv-water-purification-lubbock-tx.webp","alt":"UV Water Purification Lubbock TX","exists":true},{"file":"card-drinking-water-systems-lubbock-tx.webp","alt":"Drinking Water Systems Lubbock TX","exists":true},{"file":"card-well-water-treatment-lubbock-tx.webp","alt":"Well Water Treatment Lubbock TX","exists":true},{"file":"card-water-contaminant-removal-lubbock-tx.webp","alt":"Water Contaminant Removal Lubbock TX","exists":true}]
-faq: [{"q":"Do I need a water softener, a filter or both?","a":"A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs."},{"q":"Is Lubbock tap water safe to drink?","a":"City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution."},{"q":"Does well water in the Lubbock area need different treatment?","a":"Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV."},{"q":"Is a free water test really free?","a":"Ask exactly which tests are free and which carry a fee. Lubbock Elite Water Softener TX provides water treatment services for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Do I need a water softener, a filter or both?","a":"A softener removes hardness minerals, and a filter removes particles, chlorine, taste and odor. They solve different problems, so many Lubbock homes use both. A water test shows which your water needs."},{"q":"Is Lubbock tap water safe to drink?","a":"City of Lubbock water quality reports list test results for regulated substances. For results at your own tap, a home test checks what the city report cannot, such as your plumbing's contribution."},{"q":"Does well water in the Lubbock area need different treatment?","a":"Yes. Private wells are not covered by city reports and can carry iron, sulfur, nitrate or bacteria. Testing comes first, then the right mix of softener, filter and UV."},{"q":"Is a free water test really free?","a":"Ask exactly which tests are free and which carry a fee. Lubbock Noble Water Softener TX provides water treatment services for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -178,7 +178,7 @@ Ask exactly which tests are free and which carry a fee.
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water treatment services for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water treatment services for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -186,4 +186,4 @@ Ask exactly which tests are free and which carry a fee.
 
 ## Get Your Free Estimate
 
-Request a free estimate and water test review. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for everything we install.
+Request a free estimate and water test review. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for everything we install.

@@ -1,18 +1,18 @@
 ---
 title: "Water Contaminant Removal in Lubbock, TX | Trusted Local Specialists"
-seoTitle: "Water Contaminant Removal Lubbock, TX | Lubbock Elite Water Softener"
+seoTitle: "Water Contaminant Removal Lubbock, TX | Lubbock Noble Water Softener"
 description: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate..."
 metaDraft: true
 slug: "/water-contaminant-removal-lubbock-tx/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Contaminant Removal"
-openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. <a href=\"/\">Lubbock Elite Water Softener</a> starts with a water test, then recommends the filter that targets what the test finds. Request a free estimate and a technician will explain your options."
+openingHtml: "Water contaminant removal in Lubbock, TX installs filters that reduce specific substances in your tap water, such as lead, arsenic, fluoride, nitrate, PFAS and chloramine. <a href=\"/\">Lubbock Noble Water Softener</a> starts with a water test, then recommends the filter that targets what the test finds. Request a free estimate and a technician will explain your options."
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation"}
 images: [{"file":"water-contaminant-removal-lubbock-tx.webp","alt":"Water contaminant removal Lubbock TX filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-lubbock-tx.webp","alt":"Lead and Arsenic Removal Lubbock TX","exists":true},{"file":"card-chloramine-and-chlorine-removal-lubbock-tx.webp","alt":"Chloramine and Chlorine Removal Lubbock TX","exists":true},{"file":"card-fluoride-filter-installation-lubbock-tx.webp","alt":"Fluoride Filter Installation Lubbock TX","exists":true},{"file":"card-pfas-water-filter-lubbock-tx.webp","alt":"PFAS Water Filter Lubbock TX","exists":true},{"file":"card-nitrate-filter-installation-lubbock-tx.webp","alt":"Nitrate Filter Installation Lubbock TX","exists":true},{"file":"card-voc-volatile-organic-compound-filter-lubbock-tx.webp","alt":"VOC (Volatile Organic Compound) Filter Lubbock TX","exists":true}]
-faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need."},{"q":"Is Lubbock tap water safe?","a":"City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing."},{"q":"How do I know a filter really works?","a":"Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation."},{"q":"Can a water softener remove these contaminants?","a":"No. A softener removes hardness. Contaminant removal needs a different filter."},{"q":"What does contaminant removal cost?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed, and an under-sink reverse osmosis system for drinking water runs $550 to $1,200. It depends on the contaminant. The estimate is free and itemized. Lubbock Elite Water Softener TX provides water contaminant removal for homes and businesses across Lubbock and Lubbock County."}]
+faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need."},{"q":"Is Lubbock tap water safe?","a":"City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing."},{"q":"How do I know a filter really works?","a":"Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation."},{"q":"Can a water softener remove these contaminants?","a":"No. A softener removes hardness. Contaminant removal needs a different filter."},{"q":"What does contaminant removal cost?","a":"Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 installed, and an under-sink reverse osmosis system for drinking water runs $550 to $1,200. It depends on the contaminant. The estimate is free and itemized. Lubbock Noble Water Softener TX provides water contaminant removal for homes and businesses across Lubbock and Lubbock County."}]
 markerCount: 0
 ---
 
@@ -165,7 +165,7 @@ Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 inst
 
 
 
-[Lubbock Elite Water Softener TX](/) provides water contaminant removal for homes and businesses across Lubbock and Lubbock County.
+[Lubbock Noble Water Softener TX](/) provides water contaminant removal for homes and businesses across Lubbock and Lubbock County.
 
 </details>
 
@@ -173,4 +173,4 @@ Whole-house carbon filtration and UV add-ons typically run $1,200 to $2,500 inst
 
 ## Get Your Free Estimate
 
-Request a free water contaminant removal estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Elite Water Softener for every service we offer.
+Request a free water contaminant removal estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to Lubbock Noble Water Softener for every service we offer.
