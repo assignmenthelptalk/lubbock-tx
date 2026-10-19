@@ -226,6 +226,8 @@ export interface SiteConfig {
   /** Google Business Profile URL — blank until claimed; used as the
    * footer link and the LocalBusiness schema's sameAs URL. */
   googleBusinessUrl: string;
+  /** Google Search Console verification token (the content value of the google-site-verification meta tag); blank to omit. */
+  googleSiteVerification: string;
   /** Social profile URLs for the footer icons and schema sameAs; blank ones show as inert icons. */
   socialLinks: { facebook: string; instagram: string; pinterest: string; x: string; youtube: string };
   /** Fully-qualified site URL derived from `domain`, e.g. "https://example.com" */
@@ -322,6 +324,7 @@ export const siteConfig: SiteConfig = {
   businessEmail: "BUSINESS_EMAIL",
   address: "",
   googleBusinessUrl: "",
+  googleSiteVerification: "0C4sT8gR8_bOTvjJE8xd9GpPFd52FFlNqZ4AXXl_7TE",
   socialLinks: { facebook: "", instagram: "", pinterest: "", x: "", youtube: "" },
   siteUrl: `https://${domain}`,
 
