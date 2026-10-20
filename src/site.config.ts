@@ -232,6 +232,8 @@ export interface SiteConfig {
   socialLinks: { facebook: string; instagram: string; pinterest: string; x: string; youtube: string };
   /** Fully-qualified site URL derived from `domain`, e.g. "https://example.com" */
   siteUrl: string;
+  /** GA4 web-stream Measurement ID ("G-XXXXXXXXXX"). Leave unset to turn GA4 off. */
+  ga4MeasurementId?: string;
 
   // ── About page facts — edit directly, no CMS ─────────────────────────────
   /** Founder/team name(s) shown on the About page — SCREAMING_SNAKE_CASE
@@ -327,6 +329,7 @@ export const siteConfig: SiteConfig = {
   googleSiteVerification: "0C4sT8gR8_bOTvjJE8xd9GpPFd52FFlNqZ4AXXl_7TE",
   socialLinks: { facebook: "", instagram: "", pinterest: "", x: "", youtube: "" },
   siteUrl: `https://${domain}`,
+  ga4MeasurementId: "G-ZY0L9CZZFG",
 
   // About page facts: placeholders until the operator confirms
   founderNames: "Gautselin Ernust",
