@@ -43,7 +43,7 @@ We serve all of Lubbock, including the neighborhoods around Texas Tech and downt
 
 
 
-Nearby homeowners also use our [water softener service in Tech Terrace](/water-softener-tech-terrace-tx/), [water softener repair](/water-softener-repair/), [the hard water guide](/water-softener-guides/hard-water-lubbock-tx/) and [water softener maintenance](/water-softener-maintenance/).
+Nearby homeowners also use our water softener service in Tech Terrace, [water softener repair](/water-softener-repair/), [the hard water guide](/water-softener-guides/hard-water-lubbock-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 

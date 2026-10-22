@@ -18,7 +18,7 @@ markerCount: 0
 
 ## Lubbock Neighborhoods
 
-- [Tech Terrace](/water-softener-tech-terrace-tx/): mid-century homes beside Texas Tech.
+- Tech Terrace: mid-century homes beside Texas Tech.
 - [Overton](/water-softener-overton-tx/): historic houses in South Overton and newer homes in Overton Park.
 
 We also serve every other Lubbock neighborhood.
